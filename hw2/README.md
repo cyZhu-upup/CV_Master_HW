@@ -13,8 +13,7 @@
 
 刚训练的时候下载了100mb的什么权重，是resnet50的预训练权重
 
-训练日志保存在train.log中，后面更改了学习率截断的epoch
-
+训练日志保存在[train.log](/hw2/pic/train_log.txt)中，后面更改了学习率截断的epoch
 
 
 总体的loss肯定是不断下降的，然而回归loss，主要是rcnn的bbox_loss不降反增
