@@ -1,0 +1,1030 @@
+[32m22 09:12:35 [0mDevice Count = 1
+  0%|                                               | 0.00/102M [00:00<?, ?iB/s]  1%|▏                                      | 639k/102M [00:00<00:17, 5.77MiB/s]  1%|▍                                     | 1.22M/102M [00:00<00:18, 5.50MiB/s]  2%|▋                                     | 1.79M/102M [00:00<00:18, 5.37MiB/s]  2%|▉                                     | 2.38M/102M [00:00<00:18, 5.39MiB/s]  3%|█                                     | 2.97M/102M [00:00<00:18, 5.41MiB/s]  3%|█▎                                    | 3.56M/102M [00:00<00:18, 5.41MiB/s]  4%|█▌                                    | 4.15M/102M [00:00<00:18, 5.41MiB/s]  5%|█▊                                    | 4.77M/102M [00:00<00:17, 5.48MiB/s]  5%|█▉                                    | 5.37M/102M [00:00<00:17, 5.52MiB/s]  6%|██▏                                   | 5.98M/102M [00:01<00:17, 5.54MiB/s]  6%|██▍                                   | 6.60M/102M [00:01<00:17, 5.57MiB/s]  7%|██▋                                   | 7.18M/102M [00:01<00:16, 5.61MiB/s]  8%|██▉                                   | 7.80M/102M [00:01<00:16, 5.78MiB/s]  8%|███                                   | 8.38M/102M [00:01<00:16, 5.73MiB/s]  9%|███▎                                  | 8.98M/102M [00:01<00:16, 5.77MiB/s] 10%|███▋                                  | 9.90M/102M [00:01<00:13, 6.63MiB/s] 11%|████                                  | 10.9M/102M [00:01<00:11, 7.70MiB/s] 12%|████▍                                 | 12.0M/102M [00:01<00:11, 8.03MiB/s] 12%|████▋                                 | 12.8M/102M [00:02<00:11, 8.01MiB/s] 13%|█████                                 | 13.6M/102M [00:02<00:11, 7.81MiB/s] 14%|█████▎                                | 14.3M/102M [00:02<00:11, 7.38MiB/s] 15%|█████▌                                | 15.1M/102M [00:02<00:12, 7.22MiB/s] 15%|█████▊                                | 15.8M/102M [00:02<00:18, 4.69MiB/s] 16%|██████                                | 16.4M/102M [00:02<00:17, 4.92MiB/s] 17%|██████▎                               | 17.0M/102M [00:02<00:16, 5.08MiB/s] 17%|██████▌                               | 17.7M/102M [00:02<00:15, 5.32MiB/s] 18%|██████▊                               | 18.3M/102M [00:03<00:15, 5.49MiB/s] 19%|███████                               | 19.0M/102M [00:03<00:14, 5.60MiB/s] 19%|███████▎                              | 19.6M/102M [00:03<00:14, 5.71MiB/s] 20%|███████▌                              | 20.3M/102M [00:03<00:13, 5.87MiB/s] 20%|███████▊                              | 20.9M/102M [00:03<00:13, 6.01MiB/s] 21%|████████                              | 21.6M/102M [00:03<00:13, 6.10MiB/s] 22%|████████▏                             | 22.2M/102M [00:03<00:13, 6.02MiB/s] 22%|████████▍                             | 22.8M/102M [00:03<00:13, 5.93MiB/s] 23%|████████▋                             | 23.5M/102M [00:03<00:13, 6.00MiB/s] 24%|████████▉                             | 24.2M/102M [00:04<00:12, 6.11MiB/s] 24%|█████████▏                            | 24.9M/102M [00:04<00:12, 6.20MiB/s] 25%|█████████▍                            | 25.6M/102M [00:04<00:11, 6.42MiB/s] 26%|█████████▊                            | 26.4M/102M [00:04<00:10, 7.03MiB/s] 27%|██████████▏                           | 27.4M/102M [00:04<00:09, 7.78MiB/s] 28%|██████████▋                           | 28.7M/102M [00:04<00:08, 9.13MiB/s] 29%|███████████▏                          | 30.1M/102M [00:04<00:07, 10.2MiB/s] 31%|███████████▋                          | 31.5M/102M [00:04<00:06, 11.2MiB/s] 32%|████████████▏                         | 32.8M/102M [00:04<00:06, 11.5MiB/s] 33%|████████████▌                         | 33.9M/102M [00:05<00:06, 10.3MiB/s] 34%|████████████▉                         | 35.0M/102M [00:05<00:07, 9.60MiB/s] 35%|█████████████▎                        | 36.0M/102M [00:05<00:07, 8.65MiB/s] 36%|█████████████▋                        | 36.9M/102M [00:05<00:08, 7.56MiB/s] 37%|█████████████▉                        | 37.7M/102M [00:05<00:09, 7.05MiB/s] 37%|██████████████▏                       | 38.4M/102M [00:05<00:09, 6.88MiB/s] 38%|██████████████▍                       | 39.1M/102M [00:05<00:09, 6.41MiB/s] 39%|██████████████▋                       | 39.7M/102M [00:05<00:09, 6.31MiB/s] 39%|██████████████▉                       | 40.4M/102M [00:06<00:09, 6.25MiB/s] 40%|███████████████▏                      | 41.0M/102M [00:06<00:10, 6.12MiB/s] 41%|███████████████▍                      | 41.6M/102M [00:06<00:09, 6.10MiB/s] 41%|███████████████▋                      | 42.3M/102M [00:06<00:09, 6.13MiB/s] 42%|███████████████▉                      | 43.0M/102M [00:06<00:09, 6.14MiB/s] 43%|████████████████▏                     | 43.7M/102M [00:06<00:09, 6.19MiB/s] 43%|████████████████▍                     | 44.4M/102M [00:06<00:09, 6.23MiB/s] 44%|████████████████▋                     | 45.1M/102M [00:06<00:09, 6.31MiB/s] 45%|█████████████████                     | 46.0M/102M [00:06<00:08, 6.91MiB/s] 46%|█████████████████▍                    | 47.2M/102M [00:07<00:06, 8.13MiB/s] 47%|█████████████████▉                    | 48.5M/102M [00:07<00:05, 9.40MiB/s] 49%|██████████████████▌                   | 49.9M/102M [00:07<00:04, 10.7MiB/s] 50%|██████████████████▉                   | 51.2M/102M [00:07<00:04, 11.3MiB/s] 51%|███████████████████▍                  | 52.6M/102M [00:07<00:04, 11.8MiB/s] 52%|███████████████████▉                  | 53.7M/102M [00:07<00:04, 10.9MiB/s] 54%|████████████████████▎                 | 54.8M/102M [00:07<00:04, 10.5MiB/s] 55%|████████████████████▋                 | 55.9M/102M [00:07<00:04, 10.4MiB/s] 56%|█████████████████████▏                | 57.0M/102M [00:07<00:04, 10.2MiB/s] 57%|█████████████████████▌                | 58.0M/102M [00:08<00:04, 10.0MiB/s] 58%|█████████████████████▉                | 59.1M/102M [00:08<00:04, 10.1MiB/s] 59%|██████████████████████▎               | 60.2M/102M [00:08<00:04, 10.3MiB/s] 60%|██████████████████████▋               | 61.2M/102M [00:08<00:04, 10.3MiB/s] 61%|███████████████████████               | 62.2M/102M [00:08<00:03, 10.1MiB/s] 62%|███████████████████████▍              | 63.3M/102M [00:08<00:03, 9.88MiB/s] 63%|███████████████████████▊              | 64.2M/102M [00:08<00:03, 9.70MiB/s] 64%|████████████████████████▏             | 65.4M/102M [00:08<00:03, 10.1MiB/s] 65%|████████████████████████▋             | 66.6M/102M [00:08<00:03, 10.6MiB/s] 66%|█████████████████████████             | 67.6M/102M [00:08<00:03, 10.3MiB/s] 67%|█████████████████████████▌            | 68.9M/102M [00:09<00:03, 10.7MiB/s] 68%|█████████████████████████▉            | 69.9M/102M [00:09<00:03, 10.2MiB/s] 69%|██████████████████████████▎           | 71.0M/102M [00:09<00:03, 9.85MiB/s] 70%|██████████████████████████▋           | 71.9M/102M [00:09<00:03, 9.64MiB/s] 71%|███████████████████████████           | 72.9M/102M [00:09<00:03, 9.45MiB/s] 72%|███████████████████████████▍          | 73.9M/102M [00:09<00:03, 8.75MiB/s] 73%|███████████████████████████▋          | 74.7M/102M [00:09<00:03, 8.26MiB/s] 74%|████████████████████████████          | 75.6M/102M [00:09<00:03, 8.12MiB/s] 75%|████████████████████████████▎         | 76.4M/102M [00:09<00:03, 8.04MiB/s] 75%|████████████████████████████▋         | 77.3M/102M [00:10<00:03, 7.98MiB/s] 76%|████████████████████████████▉         | 78.1M/102M [00:10<00:02, 8.16MiB/s] 77%|█████████████████████████████▎        | 78.9M/102M [00:10<00:02, 8.15MiB/s] 78%|█████████████████████████████▌        | 79.8M/102M [00:10<00:02, 8.02MiB/s] 79%|█████████████████████████████▉        | 80.6M/102M [00:10<00:02, 8.04MiB/s] 79%|██████████████████████████████▏       | 81.4M/102M [00:10<00:02, 7.97MiB/s] 80%|██████████████████████████████▍       | 82.2M/102M [00:10<00:03, 6.74MiB/s] 81%|██████████████████████████████▊       | 83.0M/102M [00:10<00:02, 6.85MiB/s] 82%|███████████████████████████████       | 83.8M/102M [00:10<00:02, 7.04MiB/s] 82%|███████████████████████████████▎      | 84.5M/102M [00:11<00:02, 6.82MiB/s] 83%|███████████████████████████████▋      | 85.3M/102M [00:11<00:02, 6.88MiB/s] 84%|███████████████████████████████▉      | 86.0M/102M [00:11<00:02, 5.89MiB/s] 85%|████████████████████████████████      | 86.6M/102M [00:11<00:02, 5.43MiB/s] 85%|████████████████████████████████▎     | 87.2M/102M [00:11<00:03, 5.08MiB/s] 86%|████████████████████████████████▌     | 87.7M/102M [00:11<00:02, 4.93MiB/s] 86%|████████████████████████████████▋     | 88.2M/102M [00:11<00:02, 4.84MiB/s] 87%|████████████████████████████████▉     | 88.7M/102M [00:11<00:02, 4.74MiB/s] 87%|█████████████████████████████████     | 89.1M/102M [00:12<00:02, 4.65MiB/s] 87%|█████████████████████████████████▏    | 89.6M/102M [00:12<00:02, 4.57MiB/s] 88%|█████████████████████████████████▍    | 90.1M/102M [00:12<00:02, 4.52MiB/s] 88%|█████████████████████████████████▌    | 90.5M/102M [00:12<00:02, 4.12MiB/s] 89%|█████████████████████████████████▋    | 91.0M/102M [00:12<00:02, 4.11MiB/s] 89%|█████████████████████████████████▉    | 91.4M/102M [00:12<00:02, 4.04MiB/s] 90%|██████████████████████████████████    | 91.9M/102M [00:12<00:02, 4.18MiB/s] 90%|██████████████████████████████████▎   | 92.4M/102M [00:12<00:02, 4.54MiB/s] 91%|██████████████████████████████████▌   | 93.3M/102M [00:12<00:01, 5.74MiB/s] 92%|██████████████████████████████████▉   | 94.3M/102M [00:13<00:01, 7.02MiB/s] 93%|███████████████████████████████████▏  | 95.0M/102M [00:13<00:01, 6.71MiB/s] 93%|███████████████████████████████████▌  | 95.8M/102M [00:13<00:00, 6.81MiB/s] 94%|███████████████████████████████████▊  | 96.5M/102M [00:13<00:00, 6.67MiB/s] 95%|████████████████████████████████████  | 97.2M/102M [00:13<00:00, 6.62MiB/s] 96%|████████████████████████████████████▎ | 97.9M/102M [00:13<00:00, 6.40MiB/s] 96%|████████████████████████████████████▌ | 98.5M/102M [00:13<00:00, 6.20MiB/s] 97%|████████████████████████████████████▊ | 99.1M/102M [00:13<00:00, 6.03MiB/s] 97%|████████████████████████████████████▉ | 99.7M/102M [00:13<00:00, 5.90MiB/s] 98%|██████████████████████████████████████▏| 100M/102M [00:14<00:00, 5.79MiB/s] 98%|██████████████████████████████████████▍| 101M/102M [00:14<00:00, 5.77MiB/s] 99%|██████████████████████████████████████▋| 102M/102M [00:14<00:00, 5.76MiB/s]100%|██████████████████████████████████████▉| 102M/102M [00:14<00:00, 5.84MiB/s]100%|███████████████████████████████████████| 102M/102M [00:14<00:00, 7.10MiB/s]
+[32m22 09:13:15 [0m------------------------  -----------------------------------------------------------------------------------------------------------------------
+backbone                  resnet50
+backbone_pretrained       True
+backbone_norm             FrozenBN
+backbone_freeze_at        2
+fpn_norm                  <class 'NoneType'>
+fpn_in_features           ['res2', 'res3', 'res4', 'res5']
+fpn_in_strides            [4, 8, 16, 32]
+fpn_in_channels           [256, 512, 1024, 2048]
+fpn_out_channels          256
+train_dataset             {'name': 'mini365', 'root': 'images', 'ann_file': 'tasks/train_30shot.json', 'remove_images_without_annotations': True}
+test_dataset              {'name': 'mini365', 'root': 'images', 'ann_file': 'tasks/test.json', 'remove_images_without_annotations': False}
+num_classes               20
+img_mean                  [103.53, 116.28, 123.675]
+img_std                   [57.375, 57.12, 58.395]
+rpn_stride                [4, 8, 16, 32, 64]
+rpn_in_features           ['p2', 'p3', 'p4', 'p5', 'p6']
+rpn_channel               256
+rpn_reg_mean              [0.0, 0.0, 0.0, 0.0]
+rpn_reg_std               [1.0, 1.0, 1.0, 1.0]
+anchor_scales             [[32], [64], [128], [256], [512]]
+anchor_ratios             [[0.5, 1, 2], [0.5, 1, 2], [0.5, 1, 2], [0.5, 1, 2], [0.5, 1, 2]]
+anchor_offset             0.5
+match_thresholds          [-inf, 0.3, 0.7, inf]
+match_labels              [0, -1, 1]
+match_allow_low_quality   True
+rpn_nms_threshold         0.7
+num_sample_anchors        256
+positive_anchor_ratio     0.5
+rcnn_stride               [4, 8, 16, 32]
+rcnn_in_features          ['p2', 'p3', 'p4', 'p5']
+rcnn_reg_mean             [0.0, 0.0, 0.0, 0.0]
+rcnn_reg_std              [0.1, 0.1, 0.2, 0.2]
+pooling_method            roi_align
+pooling_size              (7, 7)
+num_rois                  512
+fg_ratio                  0.5
+fg_threshold              0.5
+bg_threshold_high         0.5
+bg_threshold_low          0.0
+class_aware_box           True
+rpn_smooth_l1_beta        0
+rcnn_smooth_l1_beta       0
+num_losses                5
+train_image_short_size    (640, 672, 704, 736, 768, 800)
+train_image_max_size      1333
+train_prev_nms_top_n      2000
+train_post_nms_top_n      1000
+basic_lr                  0.00125
+momentum                  0.9
+weight_decay              0.0001
+log_interval              10
+nr_images_epoch           400
+max_epoch                 36
+warm_iters                100
+lr_decay_rate             0.1
+lr_decay_stages           [16, 21]
+test_image_short_size     800
+test_image_max_size       1333
+test_prev_nms_top_n       1000
+test_post_nms_top_n       1000
+test_max_boxes_per_image  100
+test_vis_threshold        0.3
+test_cls_threshold        0.05
+test_nms                  0.5
+------------------------  -----------------------------------------------------------------------------------------------------------------------
+[32m22 09:13:15 [0mFasterRCNN(
+  (backbone): FPN(
+    (lateral_convs.0): Conv2d(2048, 256, kernel_size=(1, 1))
+    (lateral_convs.1): Conv2d(1024, 256, kernel_size=(1, 1))
+    (lateral_convs.2): Conv2d(512, 256, kernel_size=(1, 1))
+    (lateral_convs.3): Conv2d(256, 256, kernel_size=(1, 1))
+    (output_convs.0): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (output_convs.1): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (output_convs.2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (output_convs.3): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (fpn_lateral2): Conv2d(256, 256, kernel_size=(1, 1))
+    (fpn_output2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (fpn_lateral3): Conv2d(512, 256, kernel_size=(1, 1))
+    (fpn_output3): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (fpn_lateral4): Conv2d(1024, 256, kernel_size=(1, 1))
+    (fpn_output4): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (fpn_lateral5): Conv2d(2048, 256, kernel_size=(1, 1))
+    (fpn_output5): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (top_block): FPNP6(
+      (pool): MaxPool2d(kernel_size=1, stride=2, padding=0)
+    )
+    (bottom_up): ResNet(
+      (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+      (maxpool): MaxPool2d(kernel_size=3, stride=2, padding=1)
+      (layer1): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(64, 64, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Sequential(
+            (0): Conv2d(64, 256, kernel_size=(1, 1), bias=False)
+            (1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(256, 64, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(256, 64, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+      )
+      (layer2): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(256, 128, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Sequential(
+            (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (3): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+      )
+      (layer3): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(512, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Sequential(
+            (0): Conv2d(512, 1024, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (3): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (4): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (5): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(1024, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+      )
+      (layer4): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(1024, 512, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Sequential(
+            (0): Conv2d(1024, 2048, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): BatchNorm2d(2048, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(2048, 512, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(2048, 512, kernel_size=(1, 1), bias=False)
+          (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), padding=(1, 1), bias=False)
+          (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), bias=False)
+          (bn3): BatchNorm2d(2048, eps=1e-05, momentum=0.9, affine=True, track_running_stats=True)
+          (downsample): Identity()
+        )
+      )
+    )
+  )
+  (rpn): RPN(
+    (rpn_conv): Conv2d(256, 256, kernel_size=(3, 3), padding=(1, 1))
+    (rpn_cls_score): Conv2d(256, 3, kernel_size=(1, 1))
+    (rpn_bbox_offsets): Conv2d(256, 12, kernel_size=(1, 1))
+  )
+  (rcnn): RCNN(
+    (fc1): Linear(in_features=12544, out_features=1024, bias=True)
+    (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+    (pred_cls): Linear(in_features=1024, out_features=21, bias=True)
+    (pred_delta): Linear(in_features=1024, out_features=80, bias=True)
+  )
+)
+[32m22 09:13:15 [0mLoading Base-Pretrain weights...
+[32m22 09:13:17 [0mPrepare dataset
+[32m22 09:14:18 [0me0, 0/200, lr:0.000025, total_loss:3.027548, rpn_cls:0.037273, rpn_bbox:0.002786, rcnn_cls:2.919741, rcnn_bbox:0.067749, train_time:1.652s, data_time:52.226s
+[32m22 09:14:22 [0me0, 10/200, lr:0.000275, total_loss:3.155592, rpn_cls:0.046993, rpn_bbox:0.025642, rcnn_cls:3.002897, rcnn_bbox:0.080060, train_time:0.272s, data_time:0.004s
+[32m22 09:14:26 [0me0, 20/200, lr:0.000525, total_loss:2.697068, rpn_cls:0.048726, rpn_bbox:0.008499, rcnn_cls:2.521893, rcnn_bbox:0.117951, train_time:0.273s, data_time:0.002s
+[32m22 09:14:30 [0me0, 30/200, lr:0.000775, total_loss:2.282546, rpn_cls:0.051074, rpn_bbox:0.005653, rcnn_cls:2.051891, rcnn_bbox:0.173928, train_time:0.267s, data_time:0.002s
+[32m22 09:14:34 [0me0, 40/200, lr:0.001025, total_loss:2.106769, rpn_cls:0.033591, rpn_bbox:0.008094, rcnn_cls:1.760399, rcnn_bbox:0.304685, train_time:0.281s, data_time:0.003s
+[32m22 09:14:38 [0me0, 50/200, lr:0.001275, total_loss:2.027304, rpn_cls:0.038832, rpn_bbox:0.013923, rcnn_cls:1.649688, rcnn_bbox:0.324861, train_time:0.311s, data_time:0.002s
+[32m22 09:14:42 [0me0, 60/200, lr:0.001525, total_loss:1.887982, rpn_cls:0.044195, rpn_bbox:0.012689, rcnn_cls:1.442374, rcnn_bbox:0.388724, train_time:0.256s, data_time:0.003s
+[32m22 09:14:46 [0me0, 70/200, lr:0.001775, total_loss:1.988605, rpn_cls:0.034630, rpn_bbox:0.014212, rcnn_cls:1.525731, rcnn_bbox:0.414032, train_time:0.281s, data_time:0.002s
+[32m22 09:14:49 [0me0, 80/200, lr:0.002025, total_loss:2.081306, rpn_cls:0.023030, rpn_bbox:0.004084, rcnn_cls:1.761266, rcnn_bbox:0.292926, train_time:0.278s, data_time:0.002s
+[32m22 09:14:53 [0me0, 90/200, lr:0.002275, total_loss:1.917527, rpn_cls:0.030114, rpn_bbox:0.016446, rcnn_cls:1.538599, rcnn_bbox:0.332368, train_time:0.246s, data_time:0.002s
+[32m22 09:14:57 [0me0, 100/200, lr:0.002500, total_loss:2.109316, rpn_cls:0.047058, rpn_bbox:0.023227, rcnn_cls:1.748120, rcnn_bbox:0.290913, train_time:0.244s, data_time:0.002s
+[33m22 09:14:59[mgb] [0m[1;4;31mERR cudaMalloc failed while requesting 353437184 bytes (337.064MiB) of memory; error: out of memory(last_err=2(out of memory) device=0 mem_free=57.562MiB mem_tot=11019.438MiB)[0m
+[32m22 09:15:01 [0me0, 110/200, lr:0.002500, total_loss:1.859674, rpn_cls:0.022437, rpn_bbox:0.008709, rcnn_cls:1.453103, rcnn_bbox:0.375423, train_time:0.362s, data_time:0.002s
+[32m22 09:15:05 [0me0, 120/200, lr:0.002500, total_loss:2.126373, rpn_cls:0.036372, rpn_bbox:0.009044, rcnn_cls:1.758663, rcnn_bbox:0.322294, train_time:0.244s, data_time:0.002s
+[32m22 09:15:09 [0me0, 130/200, lr:0.002500, total_loss:2.291457, rpn_cls:0.055649, rpn_bbox:0.012660, rcnn_cls:1.966263, rcnn_bbox:0.256885, train_time:0.239s, data_time:0.002s
+[32m22 09:15:12 [0me0, 140/200, lr:0.002500, total_loss:2.142794, rpn_cls:0.044408, rpn_bbox:0.017837, rcnn_cls:1.756149, rcnn_bbox:0.324400, train_time:0.249s, data_time:0.002s
+[32m22 09:15:16 [0me0, 150/200, lr:0.002500, total_loss:1.900788, rpn_cls:0.043160, rpn_bbox:0.010700, rcnn_cls:1.633960, rcnn_bbox:0.212969, train_time:0.269s, data_time:0.002s
+[32m22 09:15:20 [0me0, 160/200, lr:0.002500, total_loss:2.143931, rpn_cls:0.028545, rpn_bbox:0.009938, rcnn_cls:1.759578, rcnn_bbox:0.345870, train_time:0.262s, data_time:0.002s
+[32m22 09:15:23 [0me0, 170/200, lr:0.002500, total_loss:2.199965, rpn_cls:0.077560, rpn_bbox:0.011082, rcnn_cls:1.679959, rcnn_bbox:0.431365, train_time:0.258s, data_time:0.002s
+[32m22 09:15:27 [0me0, 180/200, lr:0.002500, total_loss:1.820583, rpn_cls:0.048479, rpn_bbox:0.024614, rcnn_cls:1.415876, rcnn_bbox:0.331613, train_time:0.261s, data_time:0.003s
+[32m22 09:15:31 [0me0, 190/200, lr:0.002500, total_loss:1.939277, rpn_cls:0.059357, rpn_bbox:0.028180, rcnn_cls:1.537899, rcnn_bbox:0.313841, train_time:0.273s, data_time:0.003s
+[32m22 09:15:37 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_0.pkl
+[32m22 09:15:37 [0me1, 0/200, lr:0.002500, total_loss:2.257675, rpn_cls:0.059798, rpn_bbox:0.016521, rcnn_cls:2.075636, rcnn_bbox:0.105720, train_time:0.302s, data_time:0.002s
+[32m22 09:15:41 [0me1, 10/200, lr:0.002500, total_loss:2.067541, rpn_cls:0.054860, rpn_bbox:0.011247, rcnn_cls:1.663717, rcnn_bbox:0.337718, train_time:0.256s, data_time:0.002s
+[32m22 09:15:44 [0me1, 20/200, lr:0.002500, total_loss:1.881769, rpn_cls:0.027921, rpn_bbox:0.005351, rcnn_cls:1.364408, rcnn_bbox:0.484091, train_time:0.258s, data_time:0.003s
+[32m22 09:15:48 [0me1, 30/200, lr:0.002500, total_loss:1.820749, rpn_cls:0.025340, rpn_bbox:0.007055, rcnn_cls:1.373742, rcnn_bbox:0.414612, train_time:0.252s, data_time:0.002s
+[32m22 09:15:52 [0me1, 40/200, lr:0.002500, total_loss:1.738513, rpn_cls:0.032418, rpn_bbox:0.007304, rcnn_cls:1.422188, rcnn_bbox:0.276603, train_time:0.260s, data_time:0.002s
+[32m22 09:15:56 [0me1, 50/200, lr:0.002500, total_loss:2.017181, rpn_cls:0.041351, rpn_bbox:0.011020, rcnn_cls:1.649092, rcnn_bbox:0.315718, train_time:0.269s, data_time:0.002s
+[32m22 09:15:59 [0me1, 60/200, lr:0.002500, total_loss:1.755136, rpn_cls:0.022079, rpn_bbox:0.004597, rcnn_cls:1.393355, rcnn_bbox:0.335105, train_time:0.257s, data_time:0.002s
+[32m22 09:16:03 [0me1, 70/200, lr:0.002500, total_loss:1.785600, rpn_cls:0.024802, rpn_bbox:0.006250, rcnn_cls:1.396038, rcnn_bbox:0.358510, train_time:0.268s, data_time:0.002s
+[32m22 09:16:07 [0me1, 80/200, lr:0.002500, total_loss:1.693781, rpn_cls:0.046023, rpn_bbox:0.018577, rcnn_cls:1.301611, rcnn_bbox:0.327570, train_time:0.267s, data_time:0.002s
+[32m22 09:16:11 [0me1, 90/200, lr:0.002500, total_loss:1.535405, rpn_cls:0.051865, rpn_bbox:0.020387, rcnn_cls:1.022358, rcnn_bbox:0.440794, train_time:0.257s, data_time:0.002s
+[32m22 09:16:15 [0me1, 100/200, lr:0.002500, total_loss:1.507180, rpn_cls:0.028228, rpn_bbox:0.006582, rcnn_cls:1.090077, rcnn_bbox:0.382293, train_time:0.288s, data_time:0.003s
+[32m22 09:16:18 [0me1, 110/200, lr:0.002500, total_loss:1.730775, rpn_cls:0.031716, rpn_bbox:0.021210, rcnn_cls:1.248158, rcnn_bbox:0.429691, train_time:0.261s, data_time:0.003s
+[32m22 09:16:22 [0me1, 120/200, lr:0.002500, total_loss:1.577095, rpn_cls:0.029526, rpn_bbox:0.013615, rcnn_cls:1.223831, rcnn_bbox:0.310122, train_time:0.261s, data_time:0.002s
+[32m22 09:16:26 [0me1, 130/200, lr:0.002500, total_loss:1.437053, rpn_cls:0.032709, rpn_bbox:0.011037, rcnn_cls:0.960889, rcnn_bbox:0.432417, train_time:0.252s, data_time:0.002s
+[32m22 09:16:30 [0me1, 140/200, lr:0.002500, total_loss:1.618722, rpn_cls:0.030300, rpn_bbox:0.006353, rcnn_cls:0.975031, rcnn_bbox:0.607037, train_time:0.273s, data_time:0.002s
+[32m22 09:16:34 [0me1, 150/200, lr:0.002500, total_loss:1.828673, rpn_cls:0.033010, rpn_bbox:0.007673, rcnn_cls:1.233860, rcnn_bbox:0.554131, train_time:0.268s, data_time:0.003s
+[32m22 09:16:37 [0me1, 160/200, lr:0.002500, total_loss:1.871668, rpn_cls:0.034128, rpn_bbox:0.011694, rcnn_cls:1.521371, rcnn_bbox:0.304475, train_time:0.266s, data_time:0.003s
+[32m22 09:16:41 [0me1, 170/200, lr:0.002500, total_loss:1.655321, rpn_cls:0.026401, rpn_bbox:0.009467, rcnn_cls:1.310373, rcnn_bbox:0.309080, train_time:0.254s, data_time:0.002s
+[32m22 09:16:45 [0me1, 180/200, lr:0.002500, total_loss:1.409202, rpn_cls:0.030954, rpn_bbox:0.015860, rcnn_cls:1.069854, rcnn_bbox:0.292534, train_time:0.264s, data_time:0.003s
+[32m22 09:16:49 [0me1, 190/200, lr:0.002500, total_loss:1.862849, rpn_cls:0.049036, rpn_bbox:0.018301, rcnn_cls:1.425698, rcnn_bbox:0.369814, train_time:0.273s, data_time:0.003s
+[32m22 09:16:54 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_1.pkl
+[32m22 09:16:54 [0me2, 0/200, lr:0.002500, total_loss:1.994675, rpn_cls:0.030573, rpn_bbox:0.013723, rcnn_cls:1.776819, rcnn_bbox:0.173560, train_time:0.244s, data_time:0.006s
+[32m22 09:16:58 [0me2, 10/200, lr:0.002500, total_loss:1.777299, rpn_cls:0.040601, rpn_bbox:0.013906, rcnn_cls:1.434527, rcnn_bbox:0.288265, train_time:0.261s, data_time:0.002s
+[32m22 09:17:02 [0me2, 20/200, lr:0.002500, total_loss:1.356745, rpn_cls:0.032759, rpn_bbox:0.007480, rcnn_cls:0.961842, rcnn_bbox:0.354664, train_time:0.256s, data_time:0.002s
+[32m22 09:17:06 [0me2, 30/200, lr:0.002500, total_loss:1.608595, rpn_cls:0.036578, rpn_bbox:0.011041, rcnn_cls:1.220772, rcnn_bbox:0.340204, train_time:0.273s, data_time:0.002s
+[32m22 09:17:09 [0me2, 40/200, lr:0.002500, total_loss:1.369097, rpn_cls:0.022682, rpn_bbox:0.007145, rcnn_cls:0.948017, rcnn_bbox:0.391252, train_time:0.252s, data_time:0.002s
+[32m22 09:17:13 [0me2, 50/200, lr:0.002500, total_loss:1.401749, rpn_cls:0.031362, rpn_bbox:0.007048, rcnn_cls:0.911827, rcnn_bbox:0.451511, train_time:0.258s, data_time:0.002s
+[32m22 09:17:17 [0me2, 60/200, lr:0.002500, total_loss:1.352808, rpn_cls:0.030922, rpn_bbox:0.014900, rcnn_cls:0.947739, rcnn_bbox:0.359247, train_time:0.263s, data_time:0.002s
+[32m22 09:17:21 [0me2, 70/200, lr:0.002500, total_loss:1.618002, rpn_cls:0.032136, rpn_bbox:0.009694, rcnn_cls:1.168484, rcnn_bbox:0.407688, train_time:0.259s, data_time:0.003s
+[32m22 09:17:25 [0me2, 80/200, lr:0.002500, total_loss:1.475449, rpn_cls:0.028695, rpn_bbox:0.016764, rcnn_cls:1.078432, rcnn_bbox:0.351558, train_time:0.271s, data_time:0.002s
+[32m22 09:17:28 [0me2, 90/200, lr:0.002500, total_loss:1.398524, rpn_cls:0.025334, rpn_bbox:0.007152, rcnn_cls:0.986598, rcnn_bbox:0.379440, train_time:0.277s, data_time:0.002s
+[32m22 09:17:32 [0me2, 100/200, lr:0.002500, total_loss:1.513467, rpn_cls:0.035329, rpn_bbox:0.010985, rcnn_cls:1.147568, rcnn_bbox:0.319586, train_time:0.269s, data_time:0.003s
+[32m22 09:17:36 [0me2, 110/200, lr:0.002500, total_loss:1.587136, rpn_cls:0.042446, rpn_bbox:0.021268, rcnn_cls:1.225602, rcnn_bbox:0.297820, train_time:0.267s, data_time:0.002s
+[32m22 09:17:40 [0me2, 120/200, lr:0.002500, total_loss:1.612111, rpn_cls:0.038272, rpn_bbox:0.020577, rcnn_cls:1.244181, rcnn_bbox:0.309081, train_time:0.265s, data_time:0.003s
+[32m22 09:17:44 [0me2, 130/200, lr:0.002500, total_loss:1.428735, rpn_cls:0.036447, rpn_bbox:0.022171, rcnn_cls:1.087366, rcnn_bbox:0.282750, train_time:0.256s, data_time:0.002s
+[32m22 09:17:47 [0me2, 140/200, lr:0.002500, total_loss:1.591557, rpn_cls:0.035326, rpn_bbox:0.010031, rcnn_cls:1.198858, rcnn_bbox:0.347341, train_time:0.249s, data_time:0.002s
+[32m22 09:17:51 [0me2, 150/200, lr:0.002500, total_loss:1.352123, rpn_cls:0.023745, rpn_bbox:0.005699, rcnn_cls:0.973338, rcnn_bbox:0.349341, train_time:0.261s, data_time:0.003s
+[32m22 09:17:55 [0me2, 160/200, lr:0.002500, total_loss:1.590430, rpn_cls:0.036432, rpn_bbox:0.021427, rcnn_cls:1.132255, rcnn_bbox:0.400316, train_time:0.252s, data_time:0.003s
+[32m22 09:17:58 [0me2, 170/200, lr:0.002500, total_loss:1.534679, rpn_cls:0.054429, rpn_bbox:0.015537, rcnn_cls:1.174866, rcnn_bbox:0.289848, train_time:0.252s, data_time:0.002s
+[32m22 09:18:02 [0me2, 180/200, lr:0.002500, total_loss:1.458487, rpn_cls:0.023953, rpn_bbox:0.012757, rcnn_cls:1.009610, rcnn_bbox:0.412166, train_time:0.267s, data_time:0.002s
+[32m22 09:18:06 [0me2, 190/200, lr:0.002500, total_loss:1.261860, rpn_cls:0.024864, rpn_bbox:0.009696, rcnn_cls:0.747560, rcnn_bbox:0.479739, train_time:0.270s, data_time:0.003s
+[32m22 09:18:11 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_2.pkl
+[32m22 09:18:11 [0me3, 0/200, lr:0.002500, total_loss:0.825620, rpn_cls:0.016939, rpn_bbox:0.003361, rcnn_cls:0.390195, rcnn_bbox:0.415125, train_time:0.210s, data_time:0.002s
+[32m22 09:18:15 [0me3, 10/200, lr:0.002500, total_loss:1.108052, rpn_cls:0.035741, rpn_bbox:0.010443, rcnn_cls:0.665440, rcnn_bbox:0.396428, train_time:0.256s, data_time:0.003s
+[32m22 09:18:19 [0me3, 20/200, lr:0.002500, total_loss:1.354700, rpn_cls:0.020608, rpn_bbox:0.006184, rcnn_cls:0.981136, rcnn_bbox:0.346772, train_time:0.276s, data_time:0.002s
+[32m22 09:18:22 [0me3, 30/200, lr:0.002500, total_loss:1.116034, rpn_cls:0.022057, rpn_bbox:0.009774, rcnn_cls:0.706437, rcnn_bbox:0.377765, train_time:0.254s, data_time:0.003s
+[32m22 09:18:26 [0me3, 40/200, lr:0.002500, total_loss:1.166308, rpn_cls:0.019295, rpn_bbox:0.004506, rcnn_cls:0.830501, rcnn_bbox:0.312006, train_time:0.250s, data_time:0.003s
+[32m22 09:18:30 [0me3, 50/200, lr:0.002500, total_loss:1.172114, rpn_cls:0.020880, rpn_bbox:0.011794, rcnn_cls:0.710398, rcnn_bbox:0.429042, train_time:0.260s, data_time:0.003s
+[32m22 09:18:34 [0me3, 60/200, lr:0.002500, total_loss:1.349742, rpn_cls:0.035596, rpn_bbox:0.007344, rcnn_cls:0.941696, rcnn_bbox:0.365106, train_time:0.268s, data_time:0.002s
+[32m22 09:18:40 [0me3, 70/200, lr:0.002500, total_loss:1.283737, rpn_cls:0.047860, rpn_bbox:0.011826, rcnn_cls:0.809840, rcnn_bbox:0.414212, train_time:0.256s, data_time:0.225s
+[32m22 09:18:43 [0me3, 80/200, lr:0.002500, total_loss:1.667310, rpn_cls:0.060500, rpn_bbox:0.014017, rcnn_cls:1.145201, rcnn_bbox:0.447592, train_time:0.256s, data_time:0.003s
+[32m22 09:18:47 [0me3, 90/200, lr:0.002500, total_loss:1.383466, rpn_cls:0.043724, rpn_bbox:0.018614, rcnn_cls:0.956660, rcnn_bbox:0.364468, train_time:0.264s, data_time:0.003s
+[32m22 09:18:51 [0me3, 100/200, lr:0.002500, total_loss:1.147842, rpn_cls:0.027730, rpn_bbox:0.014799, rcnn_cls:0.820817, rcnn_bbox:0.284496, train_time:0.270s, data_time:0.002s
+[32m22 09:18:55 [0me3, 110/200, lr:0.002500, total_loss:1.190122, rpn_cls:0.022173, rpn_bbox:0.007735, rcnn_cls:0.739841, rcnn_bbox:0.420374, train_time:0.274s, data_time:0.003s
+[32m22 09:18:58 [0me3, 120/200, lr:0.002500, total_loss:1.180067, rpn_cls:0.036346, rpn_bbox:0.013529, rcnn_cls:0.718258, rcnn_bbox:0.411934, train_time:0.240s, data_time:0.003s
+[32m22 09:19:02 [0me3, 130/200, lr:0.002500, total_loss:0.947714, rpn_cls:0.021100, rpn_bbox:0.007630, rcnn_cls:0.456325, rcnn_bbox:0.462659, train_time:0.250s, data_time:0.004s
+[32m22 09:19:06 [0me3, 140/200, lr:0.002500, total_loss:1.181375, rpn_cls:0.020499, rpn_bbox:0.006166, rcnn_cls:0.826797, rcnn_bbox:0.327913, train_time:0.254s, data_time:0.002s
+[32m22 09:19:10 [0me3, 150/200, lr:0.002500, total_loss:1.355778, rpn_cls:0.026493, rpn_bbox:0.018501, rcnn_cls:0.786469, rcnn_bbox:0.524315, train_time:0.260s, data_time:0.003s
+[32m22 09:19:13 [0me3, 160/200, lr:0.002500, total_loss:1.245214, rpn_cls:0.030587, rpn_bbox:0.008328, rcnn_cls:0.805589, rcnn_bbox:0.400710, train_time:0.250s, data_time:0.003s
+[32m22 09:19:17 [0me3, 170/200, lr:0.002500, total_loss:1.056663, rpn_cls:0.021325, rpn_bbox:0.012657, rcnn_cls:0.673304, rcnn_bbox:0.349377, train_time:0.276s, data_time:0.002s
+[32m22 09:19:21 [0me3, 180/200, lr:0.002500, total_loss:0.953831, rpn_cls:0.025610, rpn_bbox:0.023413, rcnn_cls:0.622899, rcnn_bbox:0.281910, train_time:0.253s, data_time:0.004s
+[32m22 09:19:25 [0me3, 190/200, lr:0.002500, total_loss:0.974060, rpn_cls:0.017411, rpn_bbox:0.007189, rcnn_cls:0.488118, rcnn_bbox:0.461342, train_time:0.297s, data_time:0.002s
+[32m22 09:19:30 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_3.pkl
+[32m22 09:19:30 [0me4, 0/200, lr:0.002500, total_loss:0.901255, rpn_cls:0.009848, rpn_bbox:0.004754, rcnn_cls:0.624514, rcnn_bbox:0.262139, train_time:0.282s, data_time:0.002s
+[32m22 09:19:34 [0me4, 10/200, lr:0.002500, total_loss:1.115939, rpn_cls:0.020135, rpn_bbox:0.018413, rcnn_cls:0.650952, rcnn_bbox:0.426439, train_time:0.251s, data_time:0.002s
+[32m22 09:19:38 [0me4, 20/200, lr:0.002500, total_loss:1.083360, rpn_cls:0.027115, rpn_bbox:0.017461, rcnn_cls:0.722812, rcnn_bbox:0.315972, train_time:0.246s, data_time:0.003s
+[32m22 09:19:41 [0me4, 30/200, lr:0.002500, total_loss:0.825974, rpn_cls:0.018882, rpn_bbox:0.011323, rcnn_cls:0.385719, rcnn_bbox:0.410049, train_time:0.257s, data_time:0.004s
+[32m22 09:19:45 [0me4, 40/200, lr:0.002500, total_loss:0.783787, rpn_cls:0.020858, rpn_bbox:0.009789, rcnn_cls:0.371827, rcnn_bbox:0.381314, train_time:0.282s, data_time:0.002s
+[32m22 09:19:49 [0me4, 50/200, lr:0.002500, total_loss:1.128205, rpn_cls:0.012208, rpn_bbox:0.004380, rcnn_cls:0.682627, rcnn_bbox:0.428990, train_time:0.264s, data_time:0.002s
+[32m22 09:19:53 [0me4, 60/200, lr:0.002500, total_loss:0.988913, rpn_cls:0.035317, rpn_bbox:0.016324, rcnn_cls:0.602784, rcnn_bbox:0.334488, train_time:0.312s, data_time:0.003s
+[32m22 09:19:57 [0me4, 70/200, lr:0.002500, total_loss:0.868423, rpn_cls:0.023729, rpn_bbox:0.012604, rcnn_cls:0.449085, rcnn_bbox:0.383005, train_time:0.263s, data_time:0.002s
+[32m22 09:20:01 [0me4, 80/200, lr:0.002500, total_loss:0.803303, rpn_cls:0.025527, rpn_bbox:0.007867, rcnn_cls:0.345474, rcnn_bbox:0.424435, train_time:0.256s, data_time:0.002s
+[32m22 09:20:05 [0me4, 90/200, lr:0.002500, total_loss:1.075678, rpn_cls:0.025180, rpn_bbox:0.021626, rcnn_cls:0.586470, rcnn_bbox:0.442402, train_time:0.292s, data_time:0.002s
+[32m22 09:20:09 [0me4, 100/200, lr:0.002500, total_loss:0.831874, rpn_cls:0.024135, rpn_bbox:0.009755, rcnn_cls:0.434034, rcnn_bbox:0.363950, train_time:0.271s, data_time:0.003s
+[32m22 09:20:13 [0me4, 110/200, lr:0.002500, total_loss:0.940474, rpn_cls:0.025344, rpn_bbox:0.006326, rcnn_cls:0.552409, rcnn_bbox:0.356395, train_time:0.263s, data_time:0.003s
+[32m22 09:20:16 [0me4, 120/200, lr:0.002500, total_loss:0.815745, rpn_cls:0.021506, rpn_bbox:0.006199, rcnn_cls:0.479005, rcnn_bbox:0.309035, train_time:0.263s, data_time:0.002s
+[32m22 09:20:20 [0me4, 130/200, lr:0.002500, total_loss:0.886586, rpn_cls:0.018112, rpn_bbox:0.008993, rcnn_cls:0.401629, rcnn_bbox:0.457851, train_time:0.258s, data_time:0.002s
+[32m22 09:20:25 [0me4, 140/200, lr:0.002500, total_loss:0.876306, rpn_cls:0.020651, rpn_bbox:0.006182, rcnn_cls:0.419250, rcnn_bbox:0.430223, train_time:0.318s, data_time:0.002s
+[32m22 09:20:28 [0me4, 150/200, lr:0.002500, total_loss:0.983186, rpn_cls:0.020601, rpn_bbox:0.009358, rcnn_cls:0.616618, rcnn_bbox:0.336609, train_time:0.262s, data_time:0.002s
+[32m22 09:20:32 [0me4, 160/200, lr:0.002500, total_loss:1.040116, rpn_cls:0.025949, rpn_bbox:0.009435, rcnn_cls:0.591246, rcnn_bbox:0.413485, train_time:0.280s, data_time:0.002s
+[32m22 09:20:36 [0me4, 170/200, lr:0.002500, total_loss:1.130368, rpn_cls:0.024475, rpn_bbox:0.010919, rcnn_cls:0.723982, rcnn_bbox:0.370992, train_time:0.279s, data_time:0.002s
+[32m22 09:20:40 [0me4, 180/200, lr:0.002500, total_loss:0.977595, rpn_cls:0.020084, rpn_bbox:0.006408, rcnn_cls:0.662478, rcnn_bbox:0.288625, train_time:0.260s, data_time:0.003s
+[32m22 09:20:44 [0me4, 190/200, lr:0.002500, total_loss:0.906444, rpn_cls:0.028735, rpn_bbox:0.011133, rcnn_cls:0.506387, rcnn_bbox:0.360189, train_time:0.273s, data_time:0.003s
+[32m22 09:20:49 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_4.pkl
+[32m22 09:20:49 [0me5, 0/200, lr:0.002500, total_loss:2.054558, rpn_cls:0.131928, rpn_bbox:0.048854, rcnn_cls:1.559754, rcnn_bbox:0.314022, train_time:0.310s, data_time:0.002s
+[32m22 09:20:53 [0me5, 10/200, lr:0.002500, total_loss:0.859329, rpn_cls:0.018819, rpn_bbox:0.009784, rcnn_cls:0.468409, rcnn_bbox:0.362316, train_time:0.271s, data_time:0.002s
+[32m22 09:20:57 [0me5, 20/200, lr:0.002500, total_loss:0.984790, rpn_cls:0.020982, rpn_bbox:0.009624, rcnn_cls:0.491902, rcnn_bbox:0.462282, train_time:0.245s, data_time:0.002s
+[32m22 09:21:00 [0me5, 30/200, lr:0.002500, total_loss:0.885675, rpn_cls:0.029148, rpn_bbox:0.009365, rcnn_cls:0.399197, rcnn_bbox:0.447964, train_time:0.264s, data_time:0.002s
+[32m22 09:21:04 [0me5, 40/200, lr:0.002500, total_loss:0.915706, rpn_cls:0.028290, rpn_bbox:0.014112, rcnn_cls:0.477677, rcnn_bbox:0.395627, train_time:0.246s, data_time:0.003s
+[32m22 09:21:08 [0me5, 50/200, lr:0.002500, total_loss:0.901008, rpn_cls:0.018395, rpn_bbox:0.006899, rcnn_cls:0.557937, rcnn_bbox:0.317777, train_time:0.284s, data_time:0.003s
+[32m22 09:21:12 [0me5, 60/200, lr:0.002500, total_loss:0.860131, rpn_cls:0.023979, rpn_bbox:0.013665, rcnn_cls:0.505934, rcnn_bbox:0.316553, train_time:0.278s, data_time:0.003s
+[32m22 09:21:16 [0me5, 70/200, lr:0.002500, total_loss:1.092286, rpn_cls:0.023778, rpn_bbox:0.004426, rcnn_cls:0.560580, rcnn_bbox:0.503501, train_time:0.251s, data_time:0.002s
+[32m22 09:21:19 [0me5, 80/200, lr:0.002500, total_loss:0.741196, rpn_cls:0.032325, rpn_bbox:0.015794, rcnn_cls:0.304511, rcnn_bbox:0.388566, train_time:0.259s, data_time:0.003s
+[32m22 09:21:23 [0me5, 90/200, lr:0.002500, total_loss:0.714382, rpn_cls:0.018211, rpn_bbox:0.005518, rcnn_cls:0.343039, rcnn_bbox:0.347614, train_time:0.269s, data_time:0.002s
+[32m22 09:21:27 [0me5, 100/200, lr:0.002500, total_loss:1.001638, rpn_cls:0.027329, rpn_bbox:0.013038, rcnn_cls:0.499375, rcnn_bbox:0.461896, train_time:0.265s, data_time:0.002s
+[32m22 09:21:31 [0me5, 110/200, lr:0.002500, total_loss:0.731668, rpn_cls:0.017989, rpn_bbox:0.005782, rcnn_cls:0.248848, rcnn_bbox:0.459050, train_time:0.250s, data_time:0.002s
+[32m22 09:21:34 [0me5, 120/200, lr:0.002500, total_loss:0.962690, rpn_cls:0.019080, rpn_bbox:0.005718, rcnn_cls:0.563192, rcnn_bbox:0.374700, train_time:0.254s, data_time:0.002s
+[32m22 09:21:38 [0me5, 130/200, lr:0.002500, total_loss:0.861695, rpn_cls:0.019881, rpn_bbox:0.007345, rcnn_cls:0.460111, rcnn_bbox:0.374358, train_time:0.264s, data_time:0.002s
+[32m22 09:21:42 [0me5, 140/200, lr:0.002500, total_loss:0.845861, rpn_cls:0.022842, rpn_bbox:0.010663, rcnn_cls:0.447227, rcnn_bbox:0.365129, train_time:0.266s, data_time:0.002s
+[32m22 09:21:46 [0me5, 150/200, lr:0.002500, total_loss:0.783159, rpn_cls:0.019182, rpn_bbox:0.008418, rcnn_cls:0.372482, rcnn_bbox:0.383077, train_time:0.269s, data_time:0.003s
+[32m22 09:21:50 [0me5, 160/200, lr:0.002500, total_loss:0.661778, rpn_cls:0.019838, rpn_bbox:0.008498, rcnn_cls:0.294029, rcnn_bbox:0.339413, train_time:0.274s, data_time:0.004s
+[32m22 09:21:53 [0me5, 170/200, lr:0.002500, total_loss:0.803852, rpn_cls:0.018419, rpn_bbox:0.010741, rcnn_cls:0.364645, rcnn_bbox:0.410047, train_time:0.281s, data_time:0.002s
+[32m22 09:21:57 [0me5, 180/200, lr:0.002500, total_loss:0.686194, rpn_cls:0.021251, rpn_bbox:0.005876, rcnn_cls:0.286794, rcnn_bbox:0.372273, train_time:0.263s, data_time:0.002s
+[32m22 09:22:01 [0me5, 190/200, lr:0.002500, total_loss:0.836201, rpn_cls:0.022950, rpn_bbox:0.010056, rcnn_cls:0.381964, rcnn_bbox:0.421231, train_time:0.267s, data_time:0.003s
+[32m22 09:22:06 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_5.pkl
+[32m22 09:22:06 [0me6, 0/200, lr:0.002500, total_loss:0.540854, rpn_cls:0.025990, rpn_bbox:0.010402, rcnn_cls:0.093413, rcnn_bbox:0.411049, train_time:0.193s, data_time:0.001s
+[32m22 09:22:10 [0me6, 10/200, lr:0.002500, total_loss:0.822210, rpn_cls:0.020952, rpn_bbox:0.009710, rcnn_cls:0.459164, rcnn_bbox:0.332384, train_time:0.259s, data_time:0.003s
+[32m22 09:22:14 [0me6, 20/200, lr:0.002500, total_loss:0.856935, rpn_cls:0.030917, rpn_bbox:0.016548, rcnn_cls:0.318624, rcnn_bbox:0.490846, train_time:0.254s, data_time:0.002s
+[32m22 09:22:18 [0me6, 30/200, lr:0.002500, total_loss:0.735689, rpn_cls:0.020355, rpn_bbox:0.013355, rcnn_cls:0.276114, rcnn_bbox:0.425865, train_time:0.261s, data_time:0.002s
+[32m22 09:22:21 [0me6, 40/200, lr:0.002500, total_loss:0.685283, rpn_cls:0.014613, rpn_bbox:0.010083, rcnn_cls:0.345513, rcnn_bbox:0.315073, train_time:0.277s, data_time:0.002s
+[32m22 09:22:26 [0me6, 50/200, lr:0.002500, total_loss:0.712263, rpn_cls:0.024155, rpn_bbox:0.007420, rcnn_cls:0.360831, rcnn_bbox:0.319858, train_time:0.295s, data_time:0.002s
+[32m22 09:22:29 [0me6, 60/200, lr:0.002500, total_loss:0.595997, rpn_cls:0.028523, rpn_bbox:0.013968, rcnn_cls:0.276297, rcnn_bbox:0.277209, train_time:0.247s, data_time:0.002s
+[32m22 09:22:33 [0me6, 70/200, lr:0.002500, total_loss:0.721941, rpn_cls:0.024731, rpn_bbox:0.012080, rcnn_cls:0.311779, rcnn_bbox:0.373351, train_time:0.268s, data_time:0.002s
+[32m22 09:22:37 [0me6, 80/200, lr:0.002500, total_loss:0.958052, rpn_cls:0.021948, rpn_bbox:0.008684, rcnn_cls:0.575524, rcnn_bbox:0.351896, train_time:0.266s, data_time:0.003s
+[32m22 09:22:41 [0me6, 90/200, lr:0.002500, total_loss:0.745945, rpn_cls:0.027252, rpn_bbox:0.005698, rcnn_cls:0.409946, rcnn_bbox:0.303048, train_time:0.255s, data_time:0.003s
+[32m22 09:22:44 [0me6, 100/200, lr:0.002500, total_loss:0.601787, rpn_cls:0.024126, rpn_bbox:0.017093, rcnn_cls:0.243824, rcnn_bbox:0.316743, train_time:0.267s, data_time:0.004s
+[32m22 09:22:48 [0me6, 110/200, lr:0.002500, total_loss:0.611036, rpn_cls:0.026058, rpn_bbox:0.007813, rcnn_cls:0.222163, rcnn_bbox:0.355002, train_time:0.267s, data_time:0.003s
+[32m22 09:22:52 [0me6, 120/200, lr:0.002500, total_loss:0.695311, rpn_cls:0.023629, rpn_bbox:0.009997, rcnn_cls:0.230829, rcnn_bbox:0.430856, train_time:0.258s, data_time:0.002s
+[32m22 09:22:56 [0me6, 130/200, lr:0.002500, total_loss:0.719736, rpn_cls:0.024608, rpn_bbox:0.007457, rcnn_cls:0.318032, rcnn_bbox:0.369639, train_time:0.269s, data_time:0.002s
+[32m22 09:22:59 [0me6, 140/200, lr:0.002500, total_loss:0.944226, rpn_cls:0.022890, rpn_bbox:0.009398, rcnn_cls:0.447949, rcnn_bbox:0.463989, train_time:0.252s, data_time:0.002s
+[32m22 09:23:03 [0me6, 150/200, lr:0.002500, total_loss:0.734836, rpn_cls:0.016150, rpn_bbox:0.008282, rcnn_cls:0.406795, rcnn_bbox:0.303609, train_time:0.284s, data_time:0.002s
+[32m22 09:23:07 [0me6, 160/200, lr:0.002500, total_loss:0.892444, rpn_cls:0.013526, rpn_bbox:0.004918, rcnn_cls:0.458969, rcnn_bbox:0.415031, train_time:0.267s, data_time:0.002s
+[32m22 09:23:11 [0me6, 170/200, lr:0.002500, total_loss:0.972510, rpn_cls:0.046825, rpn_bbox:0.014974, rcnn_cls:0.582610, rcnn_bbox:0.328102, train_time:0.263s, data_time:0.002s
+[32m22 09:23:15 [0me6, 180/200, lr:0.002500, total_loss:0.769753, rpn_cls:0.032496, rpn_bbox:0.010233, rcnn_cls:0.353983, rcnn_bbox:0.373040, train_time:0.257s, data_time:0.003s
+[32m22 09:23:19 [0me6, 190/200, lr:0.002500, total_loss:0.719388, rpn_cls:0.036015, rpn_bbox:0.015109, rcnn_cls:0.349584, rcnn_bbox:0.318680, train_time:0.268s, data_time:0.002s
+[32m22 09:23:24 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_6.pkl
+[32m22 09:23:24 [0me7, 0/200, lr:0.002500, total_loss:0.684249, rpn_cls:0.034806, rpn_bbox:0.008057, rcnn_cls:0.141141, rcnn_bbox:0.500245, train_time:0.261s, data_time:0.003s
+[32m22 09:23:28 [0me7, 10/200, lr:0.002500, total_loss:0.566688, rpn_cls:0.015322, rpn_bbox:0.006705, rcnn_cls:0.236264, rcnn_bbox:0.308397, train_time:0.266s, data_time:0.002s
+[32m22 09:23:31 [0me7, 20/200, lr:0.002500, total_loss:0.751564, rpn_cls:0.022192, rpn_bbox:0.008230, rcnn_cls:0.259598, rcnn_bbox:0.461543, train_time:0.267s, data_time:0.002s
+[32m22 09:23:35 [0me7, 30/200, lr:0.002500, total_loss:0.833573, rpn_cls:0.016116, rpn_bbox:0.007974, rcnn_cls:0.406467, rcnn_bbox:0.403017, train_time:0.266s, data_time:0.003s
+[32m22 09:23:39 [0me7, 40/200, lr:0.002500, total_loss:0.764543, rpn_cls:0.020276, rpn_bbox:0.006390, rcnn_cls:0.327969, rcnn_bbox:0.409907, train_time:0.299s, data_time:0.002s
+[32m22 09:23:43 [0me7, 50/200, lr:0.002500, total_loss:0.724399, rpn_cls:0.030744, rpn_bbox:0.013656, rcnn_cls:0.324474, rcnn_bbox:0.355526, train_time:0.256s, data_time:0.002s
+[32m22 09:23:47 [0me7, 60/200, lr:0.002500, total_loss:0.769624, rpn_cls:0.028567, rpn_bbox:0.014662, rcnn_cls:0.363504, rcnn_bbox:0.362891, train_time:0.263s, data_time:0.003s
+[32m22 09:23:51 [0me7, 70/200, lr:0.002500, total_loss:0.526894, rpn_cls:0.019626, rpn_bbox:0.005615, rcnn_cls:0.235999, rcnn_bbox:0.265654, train_time:0.259s, data_time:0.002s
+[32m22 09:23:55 [0me7, 80/200, lr:0.002500, total_loss:0.690810, rpn_cls:0.030164, rpn_bbox:0.019635, rcnn_cls:0.228378, rcnn_bbox:0.412633, train_time:0.268s, data_time:0.002s
+[32m22 09:23:58 [0me7, 90/200, lr:0.002500, total_loss:0.680129, rpn_cls:0.015451, rpn_bbox:0.007945, rcnn_cls:0.253372, rcnn_bbox:0.403361, train_time:0.258s, data_time:0.003s
+[32m22 09:24:02 [0me7, 100/200, lr:0.002500, total_loss:0.607068, rpn_cls:0.014620, rpn_bbox:0.006150, rcnn_cls:0.157657, rcnn_bbox:0.428641, train_time:0.257s, data_time:0.003s
+[32m22 09:24:06 [0me7, 110/200, lr:0.002500, total_loss:0.608669, rpn_cls:0.015733, rpn_bbox:0.009484, rcnn_cls:0.255965, rcnn_bbox:0.327486, train_time:0.263s, data_time:0.002s
+[32m22 09:24:10 [0me7, 120/200, lr:0.002500, total_loss:0.586106, rpn_cls:0.025588, rpn_bbox:0.008881, rcnn_cls:0.102371, rcnn_bbox:0.449265, train_time:0.290s, data_time:0.003s
+[32m22 09:24:14 [0me7, 130/200, lr:0.002500, total_loss:0.752517, rpn_cls:0.020463, rpn_bbox:0.013136, rcnn_cls:0.281481, rcnn_bbox:0.437436, train_time:0.273s, data_time:0.002s
+[32m22 09:24:17 [0me7, 140/200, lr:0.002500, total_loss:0.577080, rpn_cls:0.026554, rpn_bbox:0.009783, rcnn_cls:0.237193, rcnn_bbox:0.303550, train_time:0.263s, data_time:0.002s
+[32m22 09:24:22 [0me7, 150/200, lr:0.002500, total_loss:0.669318, rpn_cls:0.018088, rpn_bbox:0.007850, rcnn_cls:0.370486, rcnn_bbox:0.272894, train_time:0.285s, data_time:0.003s
+[32m22 09:24:26 [0me7, 160/200, lr:0.002500, total_loss:0.608052, rpn_cls:0.011904, rpn_bbox:0.009195, rcnn_cls:0.167406, rcnn_bbox:0.419547, train_time:0.288s, data_time:0.002s
+[32m22 09:24:29 [0me7, 170/200, lr:0.002500, total_loss:0.722351, rpn_cls:0.023082, rpn_bbox:0.006662, rcnn_cls:0.334283, rcnn_bbox:0.358323, train_time:0.257s, data_time:0.002s
+[32m22 09:24:33 [0me7, 180/200, lr:0.002500, total_loss:0.697931, rpn_cls:0.022910, rpn_bbox:0.012982, rcnn_cls:0.345444, rcnn_bbox:0.316595, train_time:0.262s, data_time:0.002s
+[32m22 09:24:37 [0me7, 190/200, lr:0.002500, total_loss:0.685887, rpn_cls:0.023279, rpn_bbox:0.005161, rcnn_cls:0.240182, rcnn_bbox:0.417265, train_time:0.246s, data_time:0.002s
+[32m22 09:24:42 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_7.pkl
+[32m22 09:24:42 [0me8, 0/200, lr:0.002500, total_loss:0.866826, rpn_cls:0.014627, rpn_bbox:0.044837, rcnn_cls:0.122627, rcnn_bbox:0.684735, train_time:0.277s, data_time:0.002s
+[32m22 09:24:46 [0me8, 10/200, lr:0.002500, total_loss:0.624657, rpn_cls:0.016574, rpn_bbox:0.013562, rcnn_cls:0.295514, rcnn_bbox:0.299007, train_time:0.286s, data_time:0.002s
+[32m22 09:24:50 [0me8, 20/200, lr:0.002500, total_loss:0.712413, rpn_cls:0.025001, rpn_bbox:0.011329, rcnn_cls:0.231331, rcnn_bbox:0.444751, train_time:0.244s, data_time:0.003s
+[32m22 09:24:53 [0me8, 30/200, lr:0.002500, total_loss:0.442502, rpn_cls:0.014376, rpn_bbox:0.005509, rcnn_cls:0.113512, rcnn_bbox:0.309104, train_time:0.242s, data_time:0.002s
+[32m22 09:24:57 [0me8, 40/200, lr:0.002500, total_loss:0.495267, rpn_cls:0.012903, rpn_bbox:0.004763, rcnn_cls:0.168760, rcnn_bbox:0.308842, train_time:0.237s, data_time:0.002s
+[32m22 09:25:00 [0me8, 50/200, lr:0.002500, total_loss:0.509582, rpn_cls:0.014002, rpn_bbox:0.006560, rcnn_cls:0.135976, rcnn_bbox:0.353043, train_time:0.246s, data_time:0.002s
+[32m22 09:25:04 [0me8, 60/200, lr:0.002500, total_loss:0.609849, rpn_cls:0.018325, rpn_bbox:0.011008, rcnn_cls:0.190469, rcnn_bbox:0.390046, train_time:0.265s, data_time:0.002s
+[32m22 09:25:08 [0me8, 70/200, lr:0.002500, total_loss:0.613456, rpn_cls:0.016023, rpn_bbox:0.005247, rcnn_cls:0.268328, rcnn_bbox:0.323858, train_time:0.239s, data_time:0.002s
+[32m22 09:25:11 [0me8, 80/200, lr:0.002500, total_loss:0.484986, rpn_cls:0.022287, rpn_bbox:0.010705, rcnn_cls:0.105790, rcnn_bbox:0.346205, train_time:0.261s, data_time:0.002s
+[32m22 09:25:15 [0me8, 90/200, lr:0.002500, total_loss:0.672486, rpn_cls:0.015069, rpn_bbox:0.006595, rcnn_cls:0.251532, rcnn_bbox:0.399290, train_time:0.269s, data_time:0.002s
+[32m22 09:25:19 [0me8, 100/200, lr:0.002500, total_loss:0.739529, rpn_cls:0.016408, rpn_bbox:0.007354, rcnn_cls:0.363860, rcnn_bbox:0.351907, train_time:0.272s, data_time:0.003s
+[32m22 09:25:23 [0me8, 110/200, lr:0.002500, total_loss:0.488287, rpn_cls:0.018747, rpn_bbox:0.009547, rcnn_cls:0.179356, rcnn_bbox:0.280637, train_time:0.272s, data_time:0.003s
+[32m22 09:25:27 [0me8, 120/200, lr:0.002500, total_loss:0.496384, rpn_cls:0.016048, rpn_bbox:0.009373, rcnn_cls:0.179634, rcnn_bbox:0.291328, train_time:0.280s, data_time:0.002s
+[32m22 09:25:31 [0me8, 130/200, lr:0.002500, total_loss:0.583442, rpn_cls:0.022492, rpn_bbox:0.016116, rcnn_cls:0.155085, rcnn_bbox:0.389748, train_time:0.273s, data_time:0.003s
+[32m22 09:25:35 [0me8, 140/200, lr:0.002500, total_loss:0.630808, rpn_cls:0.026578, rpn_bbox:0.012697, rcnn_cls:0.313048, rcnn_bbox:0.278486, train_time:0.253s, data_time:0.002s
+[32m22 09:25:38 [0me8, 150/200, lr:0.002500, total_loss:0.582154, rpn_cls:0.022167, rpn_bbox:0.009191, rcnn_cls:0.126824, rcnn_bbox:0.423972, train_time:0.260s, data_time:0.002s
+[32m22 09:25:42 [0me8, 160/200, lr:0.002500, total_loss:0.549721, rpn_cls:0.010856, rpn_bbox:0.006263, rcnn_cls:0.172703, rcnn_bbox:0.359899, train_time:0.286s, data_time:0.002s
+[32m22 09:25:46 [0me8, 170/200, lr:0.002500, total_loss:0.517328, rpn_cls:0.008520, rpn_bbox:0.007396, rcnn_cls:0.168546, rcnn_bbox:0.332866, train_time:0.258s, data_time:0.003s
+[32m22 09:25:50 [0me8, 180/200, lr:0.002500, total_loss:0.464610, rpn_cls:0.015609, rpn_bbox:0.006933, rcnn_cls:0.175942, rcnn_bbox:0.266127, train_time:0.267s, data_time:0.002s
+[32m22 09:25:54 [0me8, 190/200, lr:0.002500, total_loss:0.560717, rpn_cls:0.020252, rpn_bbox:0.010764, rcnn_cls:0.113086, rcnn_bbox:0.416615, train_time:0.265s, data_time:0.002s
+[32m22 09:25:59 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_8.pkl
+[32m22 09:25:59 [0me9, 0/200, lr:0.002500, total_loss:0.508480, rpn_cls:0.006366, rpn_bbox:0.007102, rcnn_cls:0.056743, rcnn_bbox:0.438269, train_time:0.257s, data_time:0.003s
+[32m22 09:26:03 [0me9, 10/200, lr:0.002500, total_loss:0.586768, rpn_cls:0.019887, rpn_bbox:0.016622, rcnn_cls:0.225121, rcnn_bbox:0.325138, train_time:0.268s, data_time:0.002s
+[32m22 09:26:06 [0me9, 20/200, lr:0.002500, total_loss:0.478063, rpn_cls:0.013564, rpn_bbox:0.008864, rcnn_cls:0.129393, rcnn_bbox:0.326243, train_time:0.250s, data_time:0.003s
+[32m22 09:26:10 [0me9, 30/200, lr:0.002500, total_loss:0.416595, rpn_cls:0.012594, rpn_bbox:0.004014, rcnn_cls:0.108671, rcnn_bbox:0.291315, train_time:0.250s, data_time:0.002s
+[32m22 09:26:14 [0me9, 40/200, lr:0.002500, total_loss:0.533052, rpn_cls:0.012656, rpn_bbox:0.007431, rcnn_cls:0.107903, rcnn_bbox:0.405063, train_time:0.270s, data_time:0.003s
+[32m22 09:26:18 [0me9, 50/200, lr:0.002500, total_loss:0.437732, rpn_cls:0.027463, rpn_bbox:0.014956, rcnn_cls:0.108430, rcnn_bbox:0.286884, train_time:0.283s, data_time:0.002s
+[32m22 09:26:22 [0me9, 60/200, lr:0.002500, total_loss:0.528138, rpn_cls:0.013083, rpn_bbox:0.006255, rcnn_cls:0.168262, rcnn_bbox:0.340538, train_time:0.262s, data_time:0.003s
+[32m22 09:26:26 [0me9, 70/200, lr:0.002500, total_loss:0.531634, rpn_cls:0.011028, rpn_bbox:0.004947, rcnn_cls:0.208103, rcnn_bbox:0.307556, train_time:0.265s, data_time:0.004s
+[32m22 09:26:29 [0me9, 80/200, lr:0.002500, total_loss:0.502894, rpn_cls:0.013005, rpn_bbox:0.005139, rcnn_cls:0.192933, rcnn_bbox:0.291815, train_time:0.260s, data_time:0.002s
+[32m22 09:26:33 [0me9, 90/200, lr:0.002500, total_loss:0.452804, rpn_cls:0.019210, rpn_bbox:0.013704, rcnn_cls:0.129533, rcnn_bbox:0.290357, train_time:0.262s, data_time:0.003s
+[32m22 09:26:37 [0me9, 100/200, lr:0.002500, total_loss:0.417759, rpn_cls:0.015363, rpn_bbox:0.011644, rcnn_cls:0.092128, rcnn_bbox:0.298623, train_time:0.287s, data_time:0.002s
+[32m22 09:26:41 [0me9, 110/200, lr:0.002500, total_loss:0.566666, rpn_cls:0.019682, rpn_bbox:0.012155, rcnn_cls:0.213057, rcnn_bbox:0.321772, train_time:0.266s, data_time:0.002s
+[32m22 09:26:45 [0me9, 120/200, lr:0.002500, total_loss:0.590551, rpn_cls:0.021479, rpn_bbox:0.008941, rcnn_cls:0.284665, rcnn_bbox:0.275466, train_time:0.265s, data_time:0.002s
+[32m22 09:26:48 [0me9, 130/200, lr:0.002500, total_loss:0.502475, rpn_cls:0.016197, rpn_bbox:0.007328, rcnn_cls:0.149708, rcnn_bbox:0.329243, train_time:0.248s, data_time:0.002s
+[32m22 09:26:52 [0me9, 140/200, lr:0.002500, total_loss:0.505938, rpn_cls:0.011835, rpn_bbox:0.004097, rcnn_cls:0.222620, rcnn_bbox:0.267386, train_time:0.263s, data_time:0.002s
+[32m22 09:26:56 [0me9, 150/200, lr:0.002500, total_loss:0.454122, rpn_cls:0.015811, rpn_bbox:0.011015, rcnn_cls:0.134734, rcnn_bbox:0.292562, train_time:0.263s, data_time:0.003s
+[32m22 09:27:00 [0me9, 160/200, lr:0.002500, total_loss:0.418687, rpn_cls:0.007877, rpn_bbox:0.006562, rcnn_cls:0.120177, rcnn_bbox:0.284072, train_time:0.280s, data_time:0.002s
+[32m22 09:27:04 [0me9, 170/200, lr:0.002500, total_loss:0.413621, rpn_cls:0.012386, rpn_bbox:0.008174, rcnn_cls:0.103456, rcnn_bbox:0.289605, train_time:0.261s, data_time:0.003s
+[32m22 09:27:07 [0me9, 180/200, lr:0.002500, total_loss:0.468444, rpn_cls:0.017347, rpn_bbox:0.007794, rcnn_cls:0.086481, rcnn_bbox:0.356822, train_time:0.244s, data_time:0.002s
+[32m22 09:27:11 [0me9, 190/200, lr:0.002500, total_loss:0.486654, rpn_cls:0.014816, rpn_bbox:0.005435, rcnn_cls:0.110127, rcnn_bbox:0.356276, train_time:0.241s, data_time:0.004s
+[32m22 09:27:16 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_9.pkl
+[32m22 09:27:17 [0me10, 0/200, lr:0.002500, total_loss:0.298621, rpn_cls:0.069962, rpn_bbox:0.009673, rcnn_cls:0.063401, rcnn_bbox:0.155585, train_time:0.295s, data_time:0.002s
+[32m22 09:27:21 [0me10, 10/200, lr:0.002500, total_loss:0.392383, rpn_cls:0.014873, rpn_bbox:0.007925, rcnn_cls:0.087906, rcnn_bbox:0.281679, train_time:0.268s, data_time:0.002s
+[32m22 09:27:24 [0me10, 20/200, lr:0.002500, total_loss:0.436123, rpn_cls:0.012611, rpn_bbox:0.009043, rcnn_cls:0.139028, rcnn_bbox:0.275440, train_time:0.269s, data_time:0.002s
+[32m22 09:27:28 [0me10, 30/200, lr:0.002500, total_loss:0.407128, rpn_cls:0.017780, rpn_bbox:0.005636, rcnn_cls:0.137107, rcnn_bbox:0.246605, train_time:0.279s, data_time:0.003s
+[32m22 09:27:32 [0me10, 40/200, lr:0.002500, total_loss:0.469327, rpn_cls:0.006783, rpn_bbox:0.010884, rcnn_cls:0.150550, rcnn_bbox:0.301109, train_time:0.285s, data_time:0.002s
+[32m22 09:27:36 [0me10, 50/200, lr:0.002500, total_loss:0.471707, rpn_cls:0.010377, rpn_bbox:0.006098, rcnn_cls:0.079135, rcnn_bbox:0.376098, train_time:0.264s, data_time:0.003s
+[32m22 09:27:40 [0me10, 60/200, lr:0.002500, total_loss:0.435967, rpn_cls:0.011801, rpn_bbox:0.012102, rcnn_cls:0.084055, rcnn_bbox:0.328010, train_time:0.274s, data_time:0.002s
+[32m22 09:27:44 [0me10, 70/200, lr:0.002500, total_loss:0.393552, rpn_cls:0.007126, rpn_bbox:0.005685, rcnn_cls:0.091083, rcnn_bbox:0.289658, train_time:0.267s, data_time:0.002s
+[32m22 09:27:48 [0me10, 80/200, lr:0.002500, total_loss:0.452455, rpn_cls:0.012618, rpn_bbox:0.014572, rcnn_cls:0.115078, rcnn_bbox:0.310188, train_time:0.255s, data_time:0.002s
+[32m22 09:27:51 [0me10, 90/200, lr:0.002500, total_loss:0.441182, rpn_cls:0.010479, rpn_bbox:0.005911, rcnn_cls:0.132704, rcnn_bbox:0.292088, train_time:0.257s, data_time:0.002s
+[32m22 09:27:55 [0me10, 100/200, lr:0.002500, total_loss:0.414953, rpn_cls:0.008541, rpn_bbox:0.009097, rcnn_cls:0.090217, rcnn_bbox:0.307099, train_time:0.268s, data_time:0.002s
+[32m22 09:27:59 [0me10, 110/200, lr:0.002500, total_loss:0.374491, rpn_cls:0.009743, rpn_bbox:0.008053, rcnn_cls:0.084772, rcnn_bbox:0.271923, train_time:0.262s, data_time:0.002s
+[32m22 09:28:03 [0me10, 120/200, lr:0.002500, total_loss:0.480800, rpn_cls:0.014018, rpn_bbox:0.009604, rcnn_cls:0.151433, rcnn_bbox:0.305745, train_time:0.263s, data_time:0.004s
+[32m22 09:28:07 [0me10, 130/200, lr:0.002500, total_loss:0.371470, rpn_cls:0.011486, rpn_bbox:0.005132, rcnn_cls:0.068075, rcnn_bbox:0.286777, train_time:0.271s, data_time:0.003s
+[32m22 09:28:11 [0me10, 140/200, lr:0.002500, total_loss:0.509150, rpn_cls:0.009004, rpn_bbox:0.004461, rcnn_cls:0.099624, rcnn_bbox:0.396061, train_time:0.278s, data_time:0.002s
+[32m22 09:28:14 [0me10, 150/200, lr:0.002500, total_loss:0.518110, rpn_cls:0.018105, rpn_bbox:0.012220, rcnn_cls:0.163194, rcnn_bbox:0.324590, train_time:0.265s, data_time:0.002s
+[32m22 09:28:18 [0me10, 160/200, lr:0.002500, total_loss:0.435759, rpn_cls:0.010015, rpn_bbox:0.004111, rcnn_cls:0.085632, rcnn_bbox:0.336000, train_time:0.268s, data_time:0.003s
+[32m22 09:28:22 [0me10, 170/200, lr:0.002500, total_loss:0.459676, rpn_cls:0.009185, rpn_bbox:0.006524, rcnn_cls:0.157004, rcnn_bbox:0.286964, train_time:0.250s, data_time:0.002s
+[32m22 09:28:26 [0me10, 180/200, lr:0.002500, total_loss:0.334128, rpn_cls:0.006156, rpn_bbox:0.002879, rcnn_cls:0.073294, rcnn_bbox:0.251799, train_time:0.261s, data_time:0.002s
+[32m22 09:28:29 [0me10, 190/200, lr:0.002500, total_loss:0.446399, rpn_cls:0.013339, rpn_bbox:0.012609, rcnn_cls:0.106854, rcnn_bbox:0.313598, train_time:0.264s, data_time:0.002s
+[32m22 09:28:34 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_10.pkl
+[32m22 09:28:35 [0me11, 0/200, lr:0.002500, total_loss:0.397145, rpn_cls:0.011600, rpn_bbox:0.004458, rcnn_cls:0.072953, rcnn_bbox:0.308134, train_time:0.249s, data_time:0.002s
+[32m22 09:28:38 [0me11, 10/200, lr:0.002500, total_loss:0.458336, rpn_cls:0.015549, rpn_bbox:0.012240, rcnn_cls:0.147621, rcnn_bbox:0.282925, train_time:0.255s, data_time:0.002s
+[32m22 09:28:42 [0me11, 20/200, lr:0.002500, total_loss:0.435835, rpn_cls:0.009684, rpn_bbox:0.012274, rcnn_cls:0.128376, rcnn_bbox:0.285501, train_time:0.293s, data_time:0.002s
+[32m22 09:28:46 [0me11, 30/200, lr:0.002500, total_loss:0.385707, rpn_cls:0.007791, rpn_bbox:0.006723, rcnn_cls:0.088181, rcnn_bbox:0.283012, train_time:0.259s, data_time:0.003s
+[32m22 09:28:50 [0me11, 40/200, lr:0.002500, total_loss:0.352147, rpn_cls:0.010719, rpn_bbox:0.008367, rcnn_cls:0.096552, rcnn_bbox:0.236508, train_time:0.275s, data_time:0.003s
+[32m22 09:28:54 [0me11, 50/200, lr:0.002500, total_loss:0.462705, rpn_cls:0.014409, rpn_bbox:0.005947, rcnn_cls:0.075344, rcnn_bbox:0.367004, train_time:0.250s, data_time:0.002s
+[32m22 09:28:57 [0me11, 60/200, lr:0.002500, total_loss:0.417554, rpn_cls:0.006666, rpn_bbox:0.004173, rcnn_cls:0.089343, rcnn_bbox:0.317373, train_time:0.262s, data_time:0.003s
+[32m22 09:29:01 [0me11, 70/200, lr:0.002500, total_loss:0.365235, rpn_cls:0.009204, rpn_bbox:0.012043, rcnn_cls:0.087105, rcnn_bbox:0.256884, train_time:0.266s, data_time:0.003s
+[32m22 09:29:05 [0me11, 80/200, lr:0.002500, total_loss:0.412687, rpn_cls:0.013462, rpn_bbox:0.005275, rcnn_cls:0.140690, rcnn_bbox:0.253260, train_time:0.249s, data_time:0.003s
+[32m22 09:29:09 [0me11, 90/200, lr:0.002500, total_loss:0.354890, rpn_cls:0.010836, rpn_bbox:0.008680, rcnn_cls:0.091247, rcnn_bbox:0.244127, train_time:0.250s, data_time:0.002s
+[32m22 09:29:12 [0me11, 100/200, lr:0.002500, total_loss:0.363776, rpn_cls:0.007122, rpn_bbox:0.006761, rcnn_cls:0.072173, rcnn_bbox:0.277719, train_time:0.256s, data_time:0.002s
+[32m22 09:29:16 [0me11, 110/200, lr:0.002500, total_loss:0.406993, rpn_cls:0.005791, rpn_bbox:0.005397, rcnn_cls:0.070012, rcnn_bbox:0.325793, train_time:0.263s, data_time:0.002s
+[32m22 09:29:20 [0me11, 120/200, lr:0.002500, total_loss:0.387233, rpn_cls:0.008635, rpn_bbox:0.005367, rcnn_cls:0.089224, rcnn_bbox:0.284007, train_time:0.271s, data_time:0.003s
+[32m22 09:29:24 [0me11, 130/200, lr:0.002500, total_loss:0.400013, rpn_cls:0.004716, rpn_bbox:0.008595, rcnn_cls:0.079415, rcnn_bbox:0.307286, train_time:0.274s, data_time:0.002s
+[32m22 09:29:28 [0me11, 140/200, lr:0.002500, total_loss:0.385993, rpn_cls:0.010663, rpn_bbox:0.009607, rcnn_cls:0.139739, rcnn_bbox:0.225984, train_time:0.255s, data_time:0.003s
+[32m22 09:29:31 [0me11, 150/200, lr:0.002500, total_loss:0.346917, rpn_cls:0.007227, rpn_bbox:0.007213, rcnn_cls:0.062960, rcnn_bbox:0.269517, train_time:0.274s, data_time:0.002s
+[32m22 09:29:35 [0me11, 160/200, lr:0.002500, total_loss:0.338355, rpn_cls:0.006892, rpn_bbox:0.007865, rcnn_cls:0.076223, rcnn_bbox:0.247375, train_time:0.251s, data_time:0.002s
+[32m22 09:29:39 [0me11, 170/200, lr:0.002500, total_loss:0.392590, rpn_cls:0.007752, rpn_bbox:0.006273, rcnn_cls:0.068824, rcnn_bbox:0.309741, train_time:0.279s, data_time:0.002s
+[32m22 09:29:43 [0me11, 180/200, lr:0.002500, total_loss:0.385123, rpn_cls:0.011666, rpn_bbox:0.008983, rcnn_cls:0.074816, rcnn_bbox:0.289659, train_time:0.266s, data_time:0.002s
+[32m22 09:29:47 [0me11, 190/200, lr:0.002500, total_loss:0.364278, rpn_cls:0.009413, rpn_bbox:0.005264, rcnn_cls:0.096732, rcnn_bbox:0.252869, train_time:0.242s, data_time:0.003s
+[32m22 09:29:52 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_11.pkl
+[32m22 09:29:52 [0me12, 0/200, lr:0.002500, total_loss:0.412860, rpn_cls:0.039173, rpn_bbox:0.035054, rcnn_cls:0.040253, rcnn_bbox:0.298380, train_time:0.246s, data_time:0.001s
+[32m22 09:29:56 [0me12, 10/200, lr:0.002500, total_loss:0.434634, rpn_cls:0.010413, rpn_bbox:0.008493, rcnn_cls:0.080356, rcnn_bbox:0.335371, train_time:0.271s, data_time:0.004s
+[32m22 09:30:00 [0me12, 20/200, lr:0.002500, total_loss:0.367634, rpn_cls:0.006224, rpn_bbox:0.008071, rcnn_cls:0.118712, rcnn_bbox:0.234626, train_time:0.246s, data_time:0.003s
+[32m22 09:30:03 [0me12, 30/200, lr:0.002500, total_loss:0.402423, rpn_cls:0.006824, rpn_bbox:0.006709, rcnn_cls:0.097133, rcnn_bbox:0.291757, train_time:0.265s, data_time:0.002s
+[32m22 09:30:07 [0me12, 40/200, lr:0.002500, total_loss:0.468167, rpn_cls:0.007060, rpn_bbox:0.004795, rcnn_cls:0.168083, rcnn_bbox:0.288228, train_time:0.288s, data_time:0.002s
+[32m22 09:30:11 [0me12, 50/200, lr:0.002500, total_loss:0.367850, rpn_cls:0.009508, rpn_bbox:0.007023, rcnn_cls:0.083869, rcnn_bbox:0.267450, train_time:0.260s, data_time:0.003s
+[32m22 09:30:15 [0me12, 60/200, lr:0.002500, total_loss:0.344163, rpn_cls:0.005118, rpn_bbox:0.003617, rcnn_cls:0.054381, rcnn_bbox:0.281047, train_time:0.273s, data_time:0.002s
+[32m22 09:30:19 [0me12, 70/200, lr:0.002500, total_loss:0.419135, rpn_cls:0.006723, rpn_bbox:0.004996, rcnn_cls:0.078684, rcnn_bbox:0.328731, train_time:0.255s, data_time:0.004s
+[32m22 09:30:22 [0me12, 80/200, lr:0.002500, total_loss:0.325595, rpn_cls:0.005161, rpn_bbox:0.007279, rcnn_cls:0.056115, rcnn_bbox:0.257040, train_time:0.250s, data_time:0.002s
+[32m22 09:30:26 [0me12, 90/200, lr:0.002500, total_loss:0.397833, rpn_cls:0.010379, rpn_bbox:0.006586, rcnn_cls:0.072278, rcnn_bbox:0.308590, train_time:0.262s, data_time:0.002s
+[32m22 09:30:30 [0me12, 100/200, lr:0.002500, total_loss:0.405626, rpn_cls:0.007229, rpn_bbox:0.006643, rcnn_cls:0.071338, rcnn_bbox:0.320417, train_time:0.258s, data_time:0.002s
+[32m22 09:30:33 [0me12, 110/200, lr:0.002500, total_loss:0.386449, rpn_cls:0.008656, rpn_bbox:0.006105, rcnn_cls:0.063154, rcnn_bbox:0.308535, train_time:0.252s, data_time:0.003s
+[32m22 09:30:37 [0me12, 120/200, lr:0.002500, total_loss:0.399172, rpn_cls:0.009022, rpn_bbox:0.008058, rcnn_cls:0.119975, rcnn_bbox:0.262116, train_time:0.247s, data_time:0.002s
+[32m22 09:30:41 [0me12, 130/200, lr:0.002500, total_loss:0.351316, rpn_cls:0.009933, rpn_bbox:0.008875, rcnn_cls:0.086275, rcnn_bbox:0.246233, train_time:0.270s, data_time:0.002s
+[32m22 09:30:45 [0me12, 140/200, lr:0.002500, total_loss:0.322657, rpn_cls:0.008024, rpn_bbox:0.010319, rcnn_cls:0.069875, rcnn_bbox:0.234439, train_time:0.249s, data_time:0.003s
+[32m22 09:30:48 [0me12, 150/200, lr:0.002500, total_loss:0.284372, rpn_cls:0.006344, rpn_bbox:0.007718, rcnn_cls:0.053300, rcnn_bbox:0.217010, train_time:0.270s, data_time:0.003s
+[32m22 09:30:52 [0me12, 160/200, lr:0.002500, total_loss:0.349836, rpn_cls:0.005028, rpn_bbox:0.004888, rcnn_cls:0.086753, rcnn_bbox:0.253167, train_time:0.285s, data_time:0.003s
+[32m22 09:30:56 [0me12, 170/200, lr:0.002500, total_loss:0.392378, rpn_cls:0.004962, rpn_bbox:0.006816, rcnn_cls:0.104275, rcnn_bbox:0.276326, train_time:0.268s, data_time:0.002s
+[32m22 09:31:00 [0me12, 180/200, lr:0.002500, total_loss:0.319501, rpn_cls:0.010814, rpn_bbox:0.008114, rcnn_cls:0.079142, rcnn_bbox:0.221431, train_time:0.285s, data_time:0.002s
+[32m22 09:31:04 [0me12, 190/200, lr:0.002500, total_loss:0.365161, rpn_cls:0.005497, rpn_bbox:0.003699, rcnn_cls:0.064784, rcnn_bbox:0.291181, train_time:0.250s, data_time:0.003s
+[32m22 09:31:09 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_12.pkl
+[32m22 09:31:12 [0me13, 0/200, lr:0.002500, total_loss:0.299709, rpn_cls:0.008336, rpn_bbox:0.012352, rcnn_cls:0.029376, rcnn_bbox:0.249646, train_time:1.510s, data_time:0.006s
+[32m22 09:31:16 [0me13, 10/200, lr:0.002500, total_loss:0.405476, rpn_cls:0.005583, rpn_bbox:0.009420, rcnn_cls:0.089638, rcnn_bbox:0.300834, train_time:0.287s, data_time:0.002s
+[32m22 09:31:19 [0me13, 20/200, lr:0.002500, total_loss:0.389506, rpn_cls:0.005864, rpn_bbox:0.005458, rcnn_cls:0.062752, rcnn_bbox:0.315432, train_time:0.251s, data_time:0.002s
+[32m22 09:31:24 [0me13, 30/200, lr:0.002500, total_loss:0.317729, rpn_cls:0.005715, rpn_bbox:0.007347, rcnn_cls:0.075169, rcnn_bbox:0.229499, train_time:0.269s, data_time:0.057s
+[32m22 09:31:28 [0me13, 40/200, lr:0.002500, total_loss:0.372391, rpn_cls:0.005342, rpn_bbox:0.006545, rcnn_cls:0.055173, rcnn_bbox:0.305330, train_time:0.264s, data_time:0.002s
+[32m22 09:31:32 [0me13, 50/200, lr:0.002500, total_loss:0.409457, rpn_cls:0.006812, rpn_bbox:0.004741, rcnn_cls:0.111470, rcnn_bbox:0.286434, train_time:0.283s, data_time:0.002s
+[32m22 09:31:36 [0me13, 60/200, lr:0.002500, total_loss:0.345134, rpn_cls:0.006833, rpn_bbox:0.005645, rcnn_cls:0.062680, rcnn_bbox:0.269976, train_time:0.269s, data_time:0.024s
+[32m22 09:31:39 [0me13, 70/200, lr:0.002500, total_loss:0.318322, rpn_cls:0.005713, rpn_bbox:0.004645, rcnn_cls:0.061584, rcnn_bbox:0.246381, train_time:0.262s, data_time:0.002s
+[32m22 09:31:43 [0me13, 80/200, lr:0.002500, total_loss:0.315134, rpn_cls:0.008104, rpn_bbox:0.010679, rcnn_cls:0.068266, rcnn_bbox:0.228085, train_time:0.263s, data_time:0.003s
+[32m22 09:31:47 [0me13, 90/200, lr:0.002500, total_loss:0.376432, rpn_cls:0.011732, rpn_bbox:0.016674, rcnn_cls:0.090491, rcnn_bbox:0.257534, train_time:0.267s, data_time:0.003s
+[32m22 09:31:51 [0me13, 100/200, lr:0.002500, total_loss:0.415510, rpn_cls:0.006649, rpn_bbox:0.004042, rcnn_cls:0.083245, rcnn_bbox:0.321575, train_time:0.238s, data_time:0.002s
+[32m22 09:31:54 [0me13, 110/200, lr:0.002500, total_loss:0.316079, rpn_cls:0.006126, rpn_bbox:0.006167, rcnn_cls:0.063821, rcnn_bbox:0.239964, train_time:0.258s, data_time:0.005s
+[32m22 09:31:58 [0me13, 120/200, lr:0.002500, total_loss:0.357665, rpn_cls:0.007944, rpn_bbox:0.004527, rcnn_cls:0.081379, rcnn_bbox:0.263814, train_time:0.244s, data_time:0.003s
+[32m22 09:32:02 [0me13, 130/200, lr:0.002500, total_loss:0.334817, rpn_cls:0.004434, rpn_bbox:0.007082, rcnn_cls:0.096491, rcnn_bbox:0.226810, train_time:0.257s, data_time:0.003s
+[32m22 09:32:06 [0me13, 140/200, lr:0.002500, total_loss:0.345761, rpn_cls:0.005826, rpn_bbox:0.006354, rcnn_cls:0.050826, rcnn_bbox:0.282754, train_time:0.268s, data_time:0.003s
+[32m22 09:32:09 [0me13, 150/200, lr:0.002500, total_loss:0.314876, rpn_cls:0.005203, rpn_bbox:0.004249, rcnn_cls:0.046708, rcnn_bbox:0.258716, train_time:0.260s, data_time:0.003s
+[32m22 09:32:16 [0me13, 160/200, lr:0.002500, total_loss:0.382102, rpn_cls:0.006562, rpn_bbox:0.008124, rcnn_cls:0.083547, rcnn_bbox:0.283869, train_time:0.554s, data_time:0.003s
+[32m22 09:32:20 [0me13, 170/200, lr:0.002500, total_loss:0.320600, rpn_cls:0.006718, rpn_bbox:0.008288, rcnn_cls:0.053065, rcnn_bbox:0.252529, train_time:0.277s, data_time:0.002s
+[32m22 09:32:24 [0me13, 180/200, lr:0.002500, total_loss:0.365715, rpn_cls:0.003088, rpn_bbox:0.003402, rcnn_cls:0.089529, rcnn_bbox:0.269697, train_time:0.257s, data_time:0.002s
+[32m22 09:32:27 [0me13, 190/200, lr:0.002500, total_loss:0.370155, rpn_cls:0.007352, rpn_bbox:0.006348, rcnn_cls:0.057976, rcnn_bbox:0.298479, train_time:0.265s, data_time:0.002s
+[32m22 09:32:33 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_13.pkl
+[32m22 09:32:33 [0me14, 0/200, lr:0.002500, total_loss:0.263007, rpn_cls:0.002106, rpn_bbox:0.005723, rcnn_cls:0.064252, rcnn_bbox:0.190926, train_time:0.338s, data_time:0.002s
+[32m22 09:32:37 [0me14, 10/200, lr:0.002500, total_loss:0.360867, rpn_cls:0.005592, rpn_bbox:0.005758, rcnn_cls:0.077836, rcnn_bbox:0.271681, train_time:0.264s, data_time:0.003s
+[32m22 09:32:41 [0me14, 20/200, lr:0.002500, total_loss:0.340064, rpn_cls:0.010898, rpn_bbox:0.005970, rcnn_cls:0.067004, rcnn_bbox:0.256191, train_time:0.260s, data_time:0.003s
+[32m22 09:32:44 [0me14, 30/200, lr:0.002500, total_loss:0.299217, rpn_cls:0.007979, rpn_bbox:0.014134, rcnn_cls:0.055398, rcnn_bbox:0.221707, train_time:0.274s, data_time:0.003s
+[32m22 09:32:48 [0me14, 40/200, lr:0.002500, total_loss:0.338918, rpn_cls:0.003753, rpn_bbox:0.007843, rcnn_cls:0.053300, rcnn_bbox:0.274023, train_time:0.271s, data_time:0.003s
+[32m22 09:32:52 [0me14, 50/200, lr:0.002500, total_loss:0.318564, rpn_cls:0.004435, rpn_bbox:0.011266, rcnn_cls:0.065822, rcnn_bbox:0.237041, train_time:0.277s, data_time:0.002s
+[32m22 09:32:56 [0me14, 60/200, lr:0.002500, total_loss:0.346087, rpn_cls:0.004608, rpn_bbox:0.004667, rcnn_cls:0.080793, rcnn_bbox:0.256019, train_time:0.260s, data_time:0.003s
+[32m22 09:33:00 [0me14, 70/200, lr:0.002500, total_loss:0.336372, rpn_cls:0.005277, rpn_bbox:0.004963, rcnn_cls:0.077277, rcnn_bbox:0.248854, train_time:0.270s, data_time:0.002s
+[32m22 09:33:04 [0me14, 80/200, lr:0.002500, total_loss:0.305820, rpn_cls:0.005387, rpn_bbox:0.008168, rcnn_cls:0.051561, rcnn_bbox:0.240704, train_time:0.257s, data_time:0.003s
+[32m22 09:33:08 [0me14, 90/200, lr:0.002500, total_loss:0.351318, rpn_cls:0.005307, rpn_bbox:0.009801, rcnn_cls:0.096747, rcnn_bbox:0.239462, train_time:0.277s, data_time:0.002s
+[32m22 09:33:11 [0me14, 100/200, lr:0.002500, total_loss:0.390883, rpn_cls:0.005869, rpn_bbox:0.004685, rcnn_cls:0.081758, rcnn_bbox:0.298571, train_time:0.242s, data_time:0.003s
+[32m22 09:33:15 [0me14, 110/200, lr:0.002500, total_loss:0.327180, rpn_cls:0.004574, rpn_bbox:0.006680, rcnn_cls:0.053189, rcnn_bbox:0.262737, train_time:0.272s, data_time:0.002s
+[32m22 09:33:19 [0me14, 120/200, lr:0.002500, total_loss:0.282390, rpn_cls:0.002872, rpn_bbox:0.004095, rcnn_cls:0.054074, rcnn_bbox:0.221348, train_time:0.240s, data_time:0.003s
+[32m22 09:33:22 [0me14, 130/200, lr:0.002500, total_loss:0.291558, rpn_cls:0.005789, rpn_bbox:0.008426, rcnn_cls:0.050914, rcnn_bbox:0.226428, train_time:0.262s, data_time:0.002s
+[32m22 09:33:26 [0me14, 140/200, lr:0.002500, total_loss:0.302448, rpn_cls:0.009487, rpn_bbox:0.007985, rcnn_cls:0.054083, rcnn_bbox:0.230894, train_time:0.264s, data_time:0.002s
+[32m22 09:33:30 [0me14, 150/200, lr:0.002500, total_loss:0.323745, rpn_cls:0.002709, rpn_bbox:0.006393, rcnn_cls:0.053375, rcnn_bbox:0.261268, train_time:0.267s, data_time:0.004s
+[32m22 09:33:34 [0me14, 160/200, lr:0.002500, total_loss:0.347846, rpn_cls:0.004792, rpn_bbox:0.006530, rcnn_cls:0.059757, rcnn_bbox:0.276767, train_time:0.283s, data_time:0.003s
+[32m22 09:33:38 [0me14, 170/200, lr:0.002500, total_loss:0.262444, rpn_cls:0.006302, rpn_bbox:0.007178, rcnn_cls:0.050514, rcnn_bbox:0.198450, train_time:0.267s, data_time:0.002s
+[32m22 09:33:42 [0me14, 180/200, lr:0.002500, total_loss:0.324932, rpn_cls:0.004608, rpn_bbox:0.006219, rcnn_cls:0.042617, rcnn_bbox:0.271487, train_time:0.268s, data_time:0.004s
+[32m22 09:33:45 [0me14, 190/200, lr:0.002500, total_loss:0.302121, rpn_cls:0.003360, rpn_bbox:0.004253, rcnn_cls:0.087088, rcnn_bbox:0.207420, train_time:0.242s, data_time:0.002s
+[32m22 09:33:50 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_14.pkl
+[32m22 09:33:50 [0me15, 0/200, lr:0.002500, total_loss:0.290780, rpn_cls:0.010944, rpn_bbox:0.008767, rcnn_cls:0.022085, rcnn_bbox:0.248984, train_time:0.194s, data_time:0.002s
+[32m22 09:33:54 [0me15, 10/200, lr:0.002500, total_loss:0.280305, rpn_cls:0.004086, rpn_bbox:0.006004, rcnn_cls:0.054648, rcnn_bbox:0.215567, train_time:0.259s, data_time:0.003s
+[32m22 09:33:58 [0me15, 20/200, lr:0.002500, total_loss:0.281078, rpn_cls:0.004633, rpn_bbox:0.005689, rcnn_cls:0.050547, rcnn_bbox:0.220208, train_time:0.238s, data_time:0.003s
+[32m22 09:34:01 [0me15, 30/200, lr:0.002500, total_loss:0.321125, rpn_cls:0.003362, rpn_bbox:0.008360, rcnn_cls:0.048955, rcnn_bbox:0.260448, train_time:0.257s, data_time:0.003s
+[32m22 09:34:05 [0me15, 40/200, lr:0.002500, total_loss:0.300859, rpn_cls:0.005765, rpn_bbox:0.014290, rcnn_cls:0.073622, rcnn_bbox:0.207183, train_time:0.259s, data_time:0.002s
+[32m22 09:34:09 [0me15, 50/200, lr:0.002500, total_loss:0.310432, rpn_cls:0.006117, rpn_bbox:0.005622, rcnn_cls:0.048902, rcnn_bbox:0.249791, train_time:0.257s, data_time:0.003s
+[32m22 09:34:12 [0me15, 60/200, lr:0.002500, total_loss:0.288532, rpn_cls:0.005434, rpn_bbox:0.004175, rcnn_cls:0.062447, rcnn_bbox:0.216476, train_time:0.261s, data_time:0.002s
+[32m22 09:34:16 [0me15, 70/200, lr:0.002500, total_loss:0.317327, rpn_cls:0.004422, rpn_bbox:0.004783, rcnn_cls:0.059586, rcnn_bbox:0.248536, train_time:0.276s, data_time:0.002s
+[32m22 09:34:20 [0me15, 80/200, lr:0.002500, total_loss:0.345539, rpn_cls:0.002571, rpn_bbox:0.004089, rcnn_cls:0.052740, rcnn_bbox:0.286140, train_time:0.266s, data_time:0.003s
+[32m22 09:34:24 [0me15, 90/200, lr:0.002500, total_loss:0.321846, rpn_cls:0.004793, rpn_bbox:0.006459, rcnn_cls:0.051012, rcnn_bbox:0.259583, train_time:0.278s, data_time:0.002s
+[32m22 09:34:28 [0me15, 100/200, lr:0.002500, total_loss:0.285603, rpn_cls:0.007360, rpn_bbox:0.005805, rcnn_cls:0.065119, rcnn_bbox:0.207318, train_time:0.257s, data_time:0.002s
+[32m22 09:34:32 [0me15, 110/200, lr:0.002500, total_loss:0.319534, rpn_cls:0.004855, rpn_bbox:0.010383, rcnn_cls:0.048498, rcnn_bbox:0.255798, train_time:0.264s, data_time:0.003s
+[32m22 09:34:35 [0me15, 120/200, lr:0.002500, total_loss:0.280681, rpn_cls:0.004706, rpn_bbox:0.004803, rcnn_cls:0.046680, rcnn_bbox:0.224492, train_time:0.251s, data_time:0.003s
+[32m22 09:34:39 [0me15, 130/200, lr:0.002500, total_loss:0.311879, rpn_cls:0.001690, rpn_bbox:0.004037, rcnn_cls:0.055011, rcnn_bbox:0.251141, train_time:0.254s, data_time:0.002s
+[32m22 09:34:43 [0me15, 140/200, lr:0.002500, total_loss:0.353684, rpn_cls:0.004850, rpn_bbox:0.006188, rcnn_cls:0.093266, rcnn_bbox:0.249381, train_time:0.261s, data_time:0.002s
+[32m22 09:34:47 [0me15, 150/200, lr:0.002500, total_loss:0.315656, rpn_cls:0.006632, rpn_bbox:0.008422, rcnn_cls:0.079016, rcnn_bbox:0.221585, train_time:0.267s, data_time:0.002s
+[32m22 09:34:50 [0me15, 160/200, lr:0.002500, total_loss:0.290477, rpn_cls:0.005556, rpn_bbox:0.009756, rcnn_cls:0.061865, rcnn_bbox:0.213300, train_time:0.228s, data_time:0.002s
+[32m22 09:34:54 [0me15, 170/200, lr:0.002500, total_loss:0.289258, rpn_cls:0.007872, rpn_bbox:0.004313, rcnn_cls:0.041043, rcnn_bbox:0.236030, train_time:0.247s, data_time:0.002s
+[32m22 09:34:57 [0me15, 180/200, lr:0.002500, total_loss:0.356988, rpn_cls:0.004169, rpn_bbox:0.010120, rcnn_cls:0.055688, rcnn_bbox:0.287010, train_time:0.248s, data_time:0.002s
+[32m22 09:35:01 [0me15, 190/200, lr:0.002500, total_loss:0.341604, rpn_cls:0.005900, rpn_bbox:0.006793, rcnn_cls:0.046418, rcnn_bbox:0.282493, train_time:0.241s, data_time:0.002s
+[32m22 09:35:06 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_15.pkl
+[32m22 09:35:06 [0me16, 0/200, lr:0.000250, total_loss:0.206662, rpn_cls:0.000612, rpn_bbox:0.006126, rcnn_cls:0.042477, rcnn_bbox:0.157447, train_time:0.277s, data_time:0.002s
+[32m22 09:35:10 [0me16, 10/200, lr:0.000250, total_loss:0.291677, rpn_cls:0.002920, rpn_bbox:0.006827, rcnn_cls:0.060738, rcnn_bbox:0.221192, train_time:0.272s, data_time:0.002s
+[32m22 09:35:14 [0me16, 20/200, lr:0.000250, total_loss:0.282276, rpn_cls:0.004755, rpn_bbox:0.006005, rcnn_cls:0.050329, rcnn_bbox:0.221187, train_time:0.262s, data_time:0.002s
+[32m22 09:35:18 [0me16, 30/200, lr:0.000250, total_loss:0.288068, rpn_cls:0.005952, rpn_bbox:0.009388, rcnn_cls:0.061858, rcnn_bbox:0.210870, train_time:0.253s, data_time:0.002s
+[32m22 09:35:21 [0me16, 40/200, lr:0.000250, total_loss:0.283691, rpn_cls:0.004854, rpn_bbox:0.006746, rcnn_cls:0.064401, rcnn_bbox:0.207690, train_time:0.273s, data_time:0.002s
+[32m22 09:35:25 [0me16, 50/200, lr:0.000250, total_loss:0.251012, rpn_cls:0.004567, rpn_bbox:0.008937, rcnn_cls:0.058861, rcnn_bbox:0.178647, train_time:0.272s, data_time:0.002s
+[32m22 09:35:29 [0me16, 60/200, lr:0.000250, total_loss:0.263723, rpn_cls:0.005200, rpn_bbox:0.007550, rcnn_cls:0.062933, rcnn_bbox:0.188040, train_time:0.279s, data_time:0.002s
+[32m22 09:35:33 [0me16, 70/200, lr:0.000250, total_loss:0.267146, rpn_cls:0.002097, rpn_bbox:0.004334, rcnn_cls:0.054828, rcnn_bbox:0.205887, train_time:0.271s, data_time:0.003s
+[32m22 09:35:37 [0me16, 80/200, lr:0.000250, total_loss:0.251569, rpn_cls:0.003549, rpn_bbox:0.005551, rcnn_cls:0.049295, rcnn_bbox:0.193174, train_time:0.264s, data_time:0.002s
+[32m22 09:35:41 [0me16, 90/200, lr:0.000250, total_loss:0.256798, rpn_cls:0.004729, rpn_bbox:0.008080, rcnn_cls:0.050156, rcnn_bbox:0.193833, train_time:0.252s, data_time:0.002s
+[32m22 09:35:44 [0me16, 100/200, lr:0.000250, total_loss:0.238424, rpn_cls:0.006128, rpn_bbox:0.008196, rcnn_cls:0.058121, rcnn_bbox:0.165980, train_time:0.265s, data_time:0.002s
+[32m22 09:35:48 [0me16, 110/200, lr:0.000250, total_loss:0.205936, rpn_cls:0.004515, rpn_bbox:0.007259, rcnn_cls:0.044042, rcnn_bbox:0.150120, train_time:0.259s, data_time:0.002s
+[32m22 09:35:52 [0me16, 120/200, lr:0.000250, total_loss:0.181051, rpn_cls:0.004416, rpn_bbox:0.005484, rcnn_cls:0.038059, rcnn_bbox:0.133091, train_time:0.258s, data_time:0.002s
+[32m22 09:35:55 [0me16, 130/200, lr:0.000250, total_loss:0.216182, rpn_cls:0.006790, rpn_bbox:0.005122, rcnn_cls:0.044811, rcnn_bbox:0.159459, train_time:0.250s, data_time:0.003s
+[32m22 09:35:59 [0me16, 140/200, lr:0.000250, total_loss:0.204764, rpn_cls:0.002311, rpn_bbox:0.003819, rcnn_cls:0.043366, rcnn_bbox:0.155269, train_time:0.253s, data_time:0.002s
+[32m22 09:36:03 [0me16, 150/200, lr:0.000250, total_loss:0.267533, rpn_cls:0.003343, rpn_bbox:0.007792, rcnn_cls:0.093202, rcnn_bbox:0.163196, train_time:0.264s, data_time:0.002s
+[32m22 09:36:07 [0me16, 160/200, lr:0.000250, total_loss:0.208285, rpn_cls:0.003249, rpn_bbox:0.005899, rcnn_cls:0.049686, rcnn_bbox:0.149452, train_time:0.265s, data_time:0.004s
+[32m22 09:36:11 [0me16, 170/200, lr:0.000250, total_loss:0.253519, rpn_cls:0.004144, rpn_bbox:0.005135, rcnn_cls:0.045214, rcnn_bbox:0.199027, train_time:0.278s, data_time:0.002s
+[32m22 09:36:14 [0me16, 180/200, lr:0.000250, total_loss:0.208648, rpn_cls:0.004787, rpn_bbox:0.005685, rcnn_cls:0.043420, rcnn_bbox:0.154756, train_time:0.269s, data_time:0.002s
+[32m22 09:36:18 [0me16, 190/200, lr:0.000250, total_loss:0.192407, rpn_cls:0.004488, rpn_bbox:0.006375, rcnn_cls:0.043183, rcnn_bbox:0.138361, train_time:0.256s, data_time:0.003s
+[32m22 09:36:23 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_16.pkl
+[32m22 09:36:23 [0me17, 0/200, lr:0.000250, total_loss:0.176181, rpn_cls:0.002334, rpn_bbox:0.003751, rcnn_cls:0.026769, rcnn_bbox:0.143327, train_time:0.264s, data_time:0.001s
+[32m22 09:36:27 [0me17, 10/200, lr:0.000250, total_loss:0.180605, rpn_cls:0.002177, rpn_bbox:0.003585, rcnn_cls:0.037943, rcnn_bbox:0.136899, train_time:0.258s, data_time:0.002s
+[32m22 09:36:31 [0me17, 20/200, lr:0.000250, total_loss:0.247060, rpn_cls:0.004721, rpn_bbox:0.006788, rcnn_cls:0.073477, rcnn_bbox:0.162075, train_time:0.240s, data_time:0.002s
+[32m22 09:36:34 [0me17, 30/200, lr:0.000250, total_loss:0.185500, rpn_cls:0.001901, rpn_bbox:0.005162, rcnn_cls:0.032535, rcnn_bbox:0.145901, train_time:0.251s, data_time:0.002s
+[32m22 09:36:38 [0me17, 40/200, lr:0.000250, total_loss:0.169514, rpn_cls:0.003045, rpn_bbox:0.004125, rcnn_cls:0.036943, rcnn_bbox:0.125401, train_time:0.268s, data_time:0.003s
+[32m22 09:36:42 [0me17, 50/200, lr:0.000250, total_loss:0.199014, rpn_cls:0.003455, rpn_bbox:0.005953, rcnn_cls:0.037546, rcnn_bbox:0.152060, train_time:0.276s, data_time:0.002s
+[32m22 09:36:46 [0me17, 60/200, lr:0.000250, total_loss:0.200871, rpn_cls:0.002128, rpn_bbox:0.002544, rcnn_cls:0.049733, rcnn_bbox:0.146466, train_time:0.254s, data_time:0.002s
+[32m22 09:36:50 [0me17, 70/200, lr:0.000250, total_loss:0.175567, rpn_cls:0.004122, rpn_bbox:0.006236, rcnn_cls:0.036603, rcnn_bbox:0.128606, train_time:0.261s, data_time:0.002s
+[32m22 09:36:53 [0me17, 80/200, lr:0.000250, total_loss:0.169075, rpn_cls:0.002947, rpn_bbox:0.007361, rcnn_cls:0.035279, rcnn_bbox:0.123487, train_time:0.285s, data_time:0.002s
+[32m22 09:36:57 [0me17, 90/200, lr:0.000250, total_loss:0.188339, rpn_cls:0.003769, rpn_bbox:0.009345, rcnn_cls:0.040811, rcnn_bbox:0.134416, train_time:0.275s, data_time:0.003s
+[32m22 09:37:01 [0me17, 100/200, lr:0.000250, total_loss:0.188333, rpn_cls:0.004287, rpn_bbox:0.003316, rcnn_cls:0.041801, rcnn_bbox:0.138930, train_time:0.257s, data_time:0.002s
+[32m22 09:37:05 [0me17, 110/200, lr:0.000250, total_loss:0.175138, rpn_cls:0.007706, rpn_bbox:0.012509, rcnn_cls:0.032246, rcnn_bbox:0.122677, train_time:0.264s, data_time:0.003s
+[32m22 09:37:09 [0me17, 120/200, lr:0.000250, total_loss:0.193832, rpn_cls:0.004511, rpn_bbox:0.004986, rcnn_cls:0.042851, rcnn_bbox:0.141483, train_time:0.267s, data_time:0.002s
+[32m22 09:37:13 [0me17, 130/200, lr:0.000250, total_loss:0.183506, rpn_cls:0.003176, rpn_bbox:0.006772, rcnn_cls:0.031254, rcnn_bbox:0.142305, train_time:0.261s, data_time:0.002s
+[32m22 09:37:16 [0me17, 140/200, lr:0.000250, total_loss:0.189958, rpn_cls:0.002516, rpn_bbox:0.005730, rcnn_cls:0.041521, rcnn_bbox:0.140191, train_time:0.255s, data_time:0.002s
+[32m22 09:37:20 [0me17, 150/200, lr:0.000250, total_loss:0.187466, rpn_cls:0.004162, rpn_bbox:0.008174, rcnn_cls:0.040269, rcnn_bbox:0.134862, train_time:0.283s, data_time:0.003s
+[32m22 09:37:24 [0me17, 160/200, lr:0.000250, total_loss:0.170837, rpn_cls:0.002635, rpn_bbox:0.004536, rcnn_cls:0.038796, rcnn_bbox:0.124869, train_time:0.264s, data_time:0.003s
+[32m22 09:37:28 [0me17, 170/200, lr:0.000250, total_loss:0.200019, rpn_cls:0.003151, rpn_bbox:0.004432, rcnn_cls:0.064542, rcnn_bbox:0.127893, train_time:0.286s, data_time:0.004s
+[32m22 09:37:32 [0me17, 180/200, lr:0.000250, total_loss:0.209146, rpn_cls:0.003161, rpn_bbox:0.006112, rcnn_cls:0.057572, rcnn_bbox:0.142301, train_time:0.263s, data_time:0.002s
+[32m22 09:37:36 [0me17, 190/200, lr:0.000250, total_loss:0.169695, rpn_cls:0.002685, rpn_bbox:0.003733, rcnn_cls:0.028953, rcnn_bbox:0.134324, train_time:0.265s, data_time:0.002s
+[32m22 09:37:41 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_17.pkl
+[32m22 09:37:41 [0me18, 0/200, lr:0.000250, total_loss:0.125331, rpn_cls:0.002054, rpn_bbox:0.004724, rcnn_cls:0.024119, rcnn_bbox:0.094434, train_time:0.241s, data_time:0.005s
+[32m22 09:37:45 [0me18, 10/200, lr:0.000250, total_loss:0.149042, rpn_cls:0.003834, rpn_bbox:0.005615, rcnn_cls:0.029456, rcnn_bbox:0.110137, train_time:0.259s, data_time:0.003s
+[32m22 09:37:49 [0me18, 20/200, lr:0.000250, total_loss:0.190515, rpn_cls:0.007518, rpn_bbox:0.008648, rcnn_cls:0.043674, rcnn_bbox:0.130676, train_time:0.254s, data_time:0.002s
+[32m22 09:37:52 [0me18, 30/200, lr:0.000250, total_loss:0.194358, rpn_cls:0.004617, rpn_bbox:0.007115, rcnn_cls:0.038626, rcnn_bbox:0.144001, train_time:0.253s, data_time:0.002s
+[32m22 09:37:56 [0me18, 40/200, lr:0.000250, total_loss:0.174462, rpn_cls:0.001361, rpn_bbox:0.002436, rcnn_cls:0.033319, rcnn_bbox:0.137346, train_time:0.259s, data_time:0.002s
+[32m22 09:38:00 [0me18, 50/200, lr:0.000250, total_loss:0.182408, rpn_cls:0.002538, rpn_bbox:0.005985, rcnn_cls:0.030397, rcnn_bbox:0.143489, train_time:0.279s, data_time:0.002s
+[32m22 09:38:04 [0me18, 60/200, lr:0.000250, total_loss:0.189516, rpn_cls:0.005158, rpn_bbox:0.011402, rcnn_cls:0.034964, rcnn_bbox:0.137992, train_time:0.252s, data_time:0.002s
+[32m22 09:38:08 [0me18, 70/200, lr:0.000250, total_loss:0.171622, rpn_cls:0.002033, rpn_bbox:0.004682, rcnn_cls:0.033673, rcnn_bbox:0.131233, train_time:0.287s, data_time:0.003s
+[32m22 09:38:11 [0me18, 80/200, lr:0.000250, total_loss:0.181768, rpn_cls:0.003258, rpn_bbox:0.003008, rcnn_cls:0.035272, rcnn_bbox:0.140230, train_time:0.258s, data_time:0.002s
+[32m22 09:38:15 [0me18, 90/200, lr:0.000250, total_loss:0.169201, rpn_cls:0.005342, rpn_bbox:0.012341, rcnn_cls:0.042631, rcnn_bbox:0.108887, train_time:0.260s, data_time:0.002s
+[32m22 09:38:19 [0me18, 100/200, lr:0.000250, total_loss:0.188457, rpn_cls:0.003107, rpn_bbox:0.005596, rcnn_cls:0.040836, rcnn_bbox:0.138918, train_time:0.267s, data_time:0.003s
+[32m22 09:38:23 [0me18, 110/200, lr:0.000250, total_loss:0.171231, rpn_cls:0.003256, rpn_bbox:0.003162, rcnn_cls:0.034011, rcnn_bbox:0.130803, train_time:0.245s, data_time:0.003s
+[32m22 09:38:26 [0me18, 120/200, lr:0.000250, total_loss:0.170948, rpn_cls:0.003684, rpn_bbox:0.004220, rcnn_cls:0.035784, rcnn_bbox:0.127259, train_time:0.271s, data_time:0.002s
+[32m22 09:38:30 [0me18, 130/200, lr:0.000250, total_loss:0.161968, rpn_cls:0.003183, rpn_bbox:0.006552, rcnn_cls:0.030521, rcnn_bbox:0.121712, train_time:0.259s, data_time:0.002s
+[32m22 09:38:34 [0me18, 140/200, lr:0.000250, total_loss:0.177560, rpn_cls:0.003093, rpn_bbox:0.004184, rcnn_cls:0.028908, rcnn_bbox:0.141376, train_time:0.265s, data_time:0.003s
+[32m22 09:38:38 [0me18, 150/200, lr:0.000250, total_loss:0.173967, rpn_cls:0.004925, rpn_bbox:0.007861, rcnn_cls:0.035660, rcnn_bbox:0.125521, train_time:0.246s, data_time:0.003s
+[32m22 09:38:42 [0me18, 160/200, lr:0.000250, total_loss:0.188506, rpn_cls:0.003419, rpn_bbox:0.005996, rcnn_cls:0.031894, rcnn_bbox:0.147197, train_time:0.298s, data_time:0.002s
+[32m22 09:38:46 [0me18, 170/200, lr:0.000250, total_loss:0.208415, rpn_cls:0.003122, rpn_bbox:0.012231, rcnn_cls:0.059108, rcnn_bbox:0.133954, train_time:0.283s, data_time:0.003s
+[32m22 09:38:50 [0me18, 180/200, lr:0.000250, total_loss:0.170455, rpn_cls:0.005711, rpn_bbox:0.006384, rcnn_cls:0.031269, rcnn_bbox:0.127091, train_time:0.268s, data_time:0.003s
+[32m22 09:38:53 [0me18, 190/200, lr:0.000250, total_loss:0.184691, rpn_cls:0.005717, rpn_bbox:0.005417, rcnn_cls:0.034353, rcnn_bbox:0.139204, train_time:0.251s, data_time:0.003s
+[32m22 09:38:57 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_18.pkl
+[32m22 09:38:58 [0me19, 0/200, lr:0.000250, total_loss:0.144339, rpn_cls:0.002573, rpn_bbox:0.011989, rcnn_cls:0.039493, rcnn_bbox:0.090284, train_time:0.220s, data_time:0.002s
+[32m22 09:39:01 [0me19, 10/200, lr:0.000250, total_loss:0.177137, rpn_cls:0.003872, rpn_bbox:0.004401, rcnn_cls:0.030709, rcnn_bbox:0.138155, train_time:0.254s, data_time:0.003s
+[32m22 09:39:05 [0me19, 20/200, lr:0.000250, total_loss:0.176467, rpn_cls:0.003272, rpn_bbox:0.010201, rcnn_cls:0.035229, rcnn_bbox:0.127765, train_time:0.244s, data_time:0.002s
+[32m22 09:39:09 [0me19, 30/200, lr:0.000250, total_loss:0.219524, rpn_cls:0.003354, rpn_bbox:0.006998, rcnn_cls:0.065900, rcnn_bbox:0.143273, train_time:0.266s, data_time:0.003s
+[32m22 09:39:13 [0me19, 40/200, lr:0.000250, total_loss:0.163233, rpn_cls:0.002568, rpn_bbox:0.004761, rcnn_cls:0.030970, rcnn_bbox:0.124934, train_time:0.266s, data_time:0.003s
+[32m22 09:39:16 [0me19, 50/200, lr:0.000250, total_loss:0.165976, rpn_cls:0.002632, rpn_bbox:0.003880, rcnn_cls:0.029926, rcnn_bbox:0.129538, train_time:0.242s, data_time:0.002s
+[32m22 09:39:20 [0me19, 60/200, lr:0.000250, total_loss:0.177189, rpn_cls:0.007980, rpn_bbox:0.008996, rcnn_cls:0.032938, rcnn_bbox:0.127275, train_time:0.243s, data_time:0.002s
+[32m22 09:39:24 [0me19, 70/200, lr:0.000250, total_loss:0.176343, rpn_cls:0.004107, rpn_bbox:0.005210, rcnn_cls:0.035376, rcnn_bbox:0.131649, train_time:0.257s, data_time:0.003s
+[32m22 09:39:27 [0me19, 80/200, lr:0.000250, total_loss:0.183111, rpn_cls:0.003758, rpn_bbox:0.009919, rcnn_cls:0.033915, rcnn_bbox:0.135519, train_time:0.255s, data_time:0.002s
+[32m22 09:39:31 [0me19, 90/200, lr:0.000250, total_loss:0.173310, rpn_cls:0.003049, rpn_bbox:0.005308, rcnn_cls:0.033233, rcnn_bbox:0.131721, train_time:0.271s, data_time:0.003s
+[32m22 09:39:35 [0me19, 100/200, lr:0.000250, total_loss:0.169158, rpn_cls:0.002836, rpn_bbox:0.006398, rcnn_cls:0.029175, rcnn_bbox:0.130750, train_time:0.259s, data_time:0.002s
+[32m22 09:39:39 [0me19, 110/200, lr:0.000250, total_loss:0.156545, rpn_cls:0.004581, rpn_bbox:0.005595, rcnn_cls:0.030113, rcnn_bbox:0.116256, train_time:0.263s, data_time:0.003s
+[32m22 09:39:43 [0me19, 120/200, lr:0.000250, total_loss:0.173735, rpn_cls:0.003754, rpn_bbox:0.007424, rcnn_cls:0.036009, rcnn_bbox:0.126548, train_time:0.261s, data_time:0.002s
+[32m22 09:39:46 [0me19, 130/200, lr:0.000250, total_loss:0.171542, rpn_cls:0.006414, rpn_bbox:0.008512, rcnn_cls:0.027699, rcnn_bbox:0.128917, train_time:0.255s, data_time:0.002s
+[32m22 09:39:50 [0me19, 140/200, lr:0.000250, total_loss:0.151220, rpn_cls:0.002971, rpn_bbox:0.005545, rcnn_cls:0.024962, rcnn_bbox:0.117741, train_time:0.287s, data_time:0.003s
+[32m22 09:39:54 [0me19, 150/200, lr:0.000250, total_loss:0.193014, rpn_cls:0.004695, rpn_bbox:0.003952, rcnn_cls:0.046128, rcnn_bbox:0.138238, train_time:0.269s, data_time:0.002s
+[32m22 09:39:58 [0me19, 160/200, lr:0.000250, total_loss:0.171053, rpn_cls:0.003547, rpn_bbox:0.007852, rcnn_cls:0.028994, rcnn_bbox:0.130660, train_time:0.262s, data_time:0.003s
+[32m22 09:40:02 [0me19, 170/200, lr:0.000250, total_loss:0.163325, rpn_cls:0.003442, rpn_bbox:0.007757, rcnn_cls:0.033294, rcnn_bbox:0.118832, train_time:0.269s, data_time:0.002s
+[32m22 09:40:06 [0me19, 180/200, lr:0.000250, total_loss:0.159162, rpn_cls:0.002050, rpn_bbox:0.006667, rcnn_cls:0.025637, rcnn_bbox:0.124808, train_time:0.270s, data_time:0.003s
+[32m22 09:40:09 [0me19, 190/200, lr:0.000250, total_loss:0.174251, rpn_cls:0.002958, rpn_bbox:0.004696, rcnn_cls:0.035977, rcnn_bbox:0.130620, train_time:0.255s, data_time:0.002s
+[32m22 09:40:15 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_19.pkl
+[32m22 09:40:15 [0me20, 0/200, lr:0.000250, total_loss:0.129977, rpn_cls:0.001655, rpn_bbox:0.006590, rcnn_cls:0.041347, rcnn_bbox:0.080386, train_time:0.268s, data_time:0.002s
+[32m22 09:40:19 [0me20, 10/200, lr:0.000250, total_loss:0.162100, rpn_cls:0.002490, rpn_bbox:0.003622, rcnn_cls:0.033443, rcnn_bbox:0.122544, train_time:0.259s, data_time:0.002s
+[32m22 09:40:22 [0me20, 20/200, lr:0.000250, total_loss:0.167042, rpn_cls:0.002272, rpn_bbox:0.004304, rcnn_cls:0.029377, rcnn_bbox:0.131089, train_time:0.257s, data_time:0.005s
+[32m22 09:40:26 [0me20, 30/200, lr:0.000250, total_loss:0.208866, rpn_cls:0.001898, rpn_bbox:0.003758, rcnn_cls:0.058088, rcnn_bbox:0.145122, train_time:0.281s, data_time:0.002s
+[32m22 09:40:31 [0me20, 40/200, lr:0.000250, total_loss:0.178617, rpn_cls:0.003809, rpn_bbox:0.007659, rcnn_cls:0.034285, rcnn_bbox:0.132864, train_time:0.299s, data_time:0.003s
+[32m22 09:40:35 [0me20, 50/200, lr:0.000250, total_loss:0.160440, rpn_cls:0.003294, rpn_bbox:0.007079, rcnn_cls:0.031680, rcnn_bbox:0.118388, train_time:0.285s, data_time:0.003s
+[32m22 09:40:39 [0me20, 60/200, lr:0.000250, total_loss:0.143214, rpn_cls:0.001744, rpn_bbox:0.004452, rcnn_cls:0.024520, rcnn_bbox:0.112498, train_time:0.275s, data_time:0.003s
+[32m22 09:40:42 [0me20, 70/200, lr:0.000250, total_loss:0.177057, rpn_cls:0.005633, rpn_bbox:0.005319, rcnn_cls:0.030397, rcnn_bbox:0.135708, train_time:0.265s, data_time:0.002s
+[32m22 09:40:46 [0me20, 80/200, lr:0.000250, total_loss:0.159459, rpn_cls:0.002217, rpn_bbox:0.008611, rcnn_cls:0.032483, rcnn_bbox:0.116147, train_time:0.268s, data_time:0.002s
+[32m22 09:40:50 [0me20, 90/200, lr:0.000250, total_loss:0.167437, rpn_cls:0.002088, rpn_bbox:0.003246, rcnn_cls:0.033120, rcnn_bbox:0.128983, train_time:0.250s, data_time:0.002s
+[32m22 09:40:54 [0me20, 100/200, lr:0.000250, total_loss:0.159539, rpn_cls:0.003307, rpn_bbox:0.006373, rcnn_cls:0.029571, rcnn_bbox:0.120288, train_time:0.254s, data_time:0.002s
+[32m22 09:40:57 [0me20, 110/200, lr:0.000250, total_loss:0.166578, rpn_cls:0.003143, rpn_bbox:0.003837, rcnn_cls:0.029795, rcnn_bbox:0.129803, train_time:0.252s, data_time:0.002s
+[32m22 09:41:01 [0me20, 120/200, lr:0.000250, total_loss:0.151600, rpn_cls:0.002997, rpn_bbox:0.007179, rcnn_cls:0.029834, rcnn_bbox:0.111590, train_time:0.253s, data_time:0.002s
+[32m22 09:41:05 [0me20, 130/200, lr:0.000250, total_loss:0.155176, rpn_cls:0.003606, rpn_bbox:0.006275, rcnn_cls:0.026354, rcnn_bbox:0.118941, train_time:0.275s, data_time:0.002s
+[32m22 09:41:09 [0me20, 140/200, lr:0.000250, total_loss:0.176639, rpn_cls:0.003384, rpn_bbox:0.005724, rcnn_cls:0.033856, rcnn_bbox:0.133675, train_time:0.255s, data_time:0.002s
+[32m22 09:41:12 [0me20, 150/200, lr:0.000250, total_loss:0.162725, rpn_cls:0.002505, rpn_bbox:0.004243, rcnn_cls:0.030109, rcnn_bbox:0.125868, train_time:0.265s, data_time:0.002s
+[32m22 09:41:16 [0me20, 160/200, lr:0.000250, total_loss:0.152719, rpn_cls:0.003524, rpn_bbox:0.007125, rcnn_cls:0.025532, rcnn_bbox:0.116539, train_time:0.259s, data_time:0.003s
+[32m22 09:41:20 [0me20, 170/200, lr:0.000250, total_loss:0.167587, rpn_cls:0.003592, rpn_bbox:0.008581, rcnn_cls:0.045245, rcnn_bbox:0.110169, train_time:0.264s, data_time:0.003s
+[32m22 09:41:23 [0me20, 180/200, lr:0.000250, total_loss:0.174990, rpn_cls:0.003773, rpn_bbox:0.004434, rcnn_cls:0.033372, rcnn_bbox:0.133411, train_time:0.238s, data_time:0.003s
+[32m22 09:41:27 [0me20, 190/200, lr:0.000250, total_loss:0.203528, rpn_cls:0.003167, rpn_bbox:0.004289, rcnn_cls:0.039392, rcnn_bbox:0.156678, train_time:0.265s, data_time:0.002s
+[32m22 09:41:32 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_20.pkl
+[32m22 09:41:32 [0me21, 0/200, lr:0.000025, total_loss:0.152638, rpn_cls:0.000419, rpn_bbox:0.000802, rcnn_cls:0.017279, rcnn_bbox:0.134138, train_time:0.286s, data_time:0.006s
+[32m22 09:41:36 [0me21, 10/200, lr:0.000025, total_loss:0.152402, rpn_cls:0.005451, rpn_bbox:0.004799, rcnn_cls:0.030932, rcnn_bbox:0.111221, train_time:0.255s, data_time:0.003s
+[32m22 09:41:40 [0me21, 20/200, lr:0.000025, total_loss:0.153027, rpn_cls:0.003400, rpn_bbox:0.004327, rcnn_cls:0.028576, rcnn_bbox:0.116725, train_time:0.256s, data_time:0.002s
+[32m22 09:41:44 [0me21, 30/200, lr:0.000025, total_loss:0.171416, rpn_cls:0.002956, rpn_bbox:0.005677, rcnn_cls:0.032572, rcnn_bbox:0.130211, train_time:0.275s, data_time:0.002s
+[32m22 09:41:48 [0me21, 40/200, lr:0.000025, total_loss:0.184687, rpn_cls:0.003950, rpn_bbox:0.004576, rcnn_cls:0.051946, rcnn_bbox:0.124215, train_time:0.275s, data_time:0.002s
+[32m22 09:41:52 [0me21, 50/200, lr:0.000025, total_loss:0.153222, rpn_cls:0.003018, rpn_bbox:0.005827, rcnn_cls:0.029365, rcnn_bbox:0.115012, train_time:0.269s, data_time:0.003s
+[32m22 09:41:55 [0me21, 60/200, lr:0.000025, total_loss:0.169823, rpn_cls:0.005282, rpn_bbox:0.009127, rcnn_cls:0.033862, rcnn_bbox:0.121552, train_time:0.257s, data_time:0.003s
+[32m22 09:41:59 [0me21, 70/200, lr:0.000025, total_loss:0.164067, rpn_cls:0.002145, rpn_bbox:0.005346, rcnn_cls:0.032493, rcnn_bbox:0.124082, train_time:0.268s, data_time:0.003s
+[32m22 09:42:03 [0me21, 80/200, lr:0.000025, total_loss:0.162586, rpn_cls:0.002787, rpn_bbox:0.005224, rcnn_cls:0.029072, rcnn_bbox:0.125502, train_time:0.265s, data_time:0.003s
+[32m22 09:42:07 [0me21, 90/200, lr:0.000025, total_loss:0.154036, rpn_cls:0.002821, rpn_bbox:0.005700, rcnn_cls:0.030770, rcnn_bbox:0.114745, train_time:0.260s, data_time:0.002s
+[32m22 09:42:10 [0me21, 100/200, lr:0.000025, total_loss:0.145759, rpn_cls:0.003043, rpn_bbox:0.007201, rcnn_cls:0.029945, rcnn_bbox:0.105571, train_time:0.245s, data_time:0.002s
+[32m22 09:42:14 [0me21, 110/200, lr:0.000025, total_loss:0.154030, rpn_cls:0.005882, rpn_bbox:0.009683, rcnn_cls:0.037596, rcnn_bbox:0.100869, train_time:0.254s, data_time:0.002s
+[32m22 09:42:18 [0me21, 120/200, lr:0.000025, total_loss:0.154236, rpn_cls:0.007256, rpn_bbox:0.013058, rcnn_cls:0.024940, rcnn_bbox:0.108982, train_time:0.261s, data_time:0.002s
+[32m22 09:42:21 [0me21, 130/200, lr:0.000025, total_loss:0.154056, rpn_cls:0.003759, rpn_bbox:0.004877, rcnn_cls:0.029278, rcnn_bbox:0.116143, train_time:0.243s, data_time:0.002s
+[32m22 09:42:25 [0me21, 140/200, lr:0.000025, total_loss:0.156410, rpn_cls:0.002710, rpn_bbox:0.007302, rcnn_cls:0.030733, rcnn_bbox:0.115665, train_time:0.262s, data_time:0.002s
+[32m22 09:42:29 [0me21, 150/200, lr:0.000025, total_loss:0.143306, rpn_cls:0.003520, rpn_bbox:0.006931, rcnn_cls:0.024896, rcnn_bbox:0.107958, train_time:0.261s, data_time:0.002s
+[32m22 09:42:33 [0me21, 160/200, lr:0.000025, total_loss:0.157866, rpn_cls:0.002831, rpn_bbox:0.006332, rcnn_cls:0.032170, rcnn_bbox:0.116533, train_time:0.268s, data_time:0.003s
+[32m22 09:42:36 [0me21, 170/200, lr:0.000025, total_loss:0.164126, rpn_cls:0.002129, rpn_bbox:0.005599, rcnn_cls:0.044864, rcnn_bbox:0.111534, train_time:0.261s, data_time:0.002s
+[32m22 09:42:40 [0me21, 180/200, lr:0.000025, total_loss:0.154011, rpn_cls:0.002855, rpn_bbox:0.008262, rcnn_cls:0.032530, rcnn_bbox:0.110365, train_time:0.263s, data_time:0.003s
+[32m22 09:42:44 [0me21, 190/200, lr:0.000025, total_loss:0.143443, rpn_cls:0.001792, rpn_bbox:0.003315, rcnn_cls:0.028766, rcnn_bbox:0.109570, train_time:0.262s, data_time:0.002s
+[32m22 09:42:49 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_21.pkl
+[32m22 09:42:49 [0me22, 0/200, lr:0.000025, total_loss:0.137308, rpn_cls:0.001628, rpn_bbox:0.002213, rcnn_cls:0.025564, rcnn_bbox:0.107903, train_time:0.206s, data_time:0.001s
+[32m22 09:42:53 [0me22, 10/200, lr:0.000025, total_loss:0.143437, rpn_cls:0.003083, rpn_bbox:0.005736, rcnn_cls:0.025980, rcnn_bbox:0.108638, train_time:0.255s, data_time:0.003s
+[32m22 09:42:57 [0me22, 20/200, lr:0.000025, total_loss:0.163427, rpn_cls:0.001929, rpn_bbox:0.004440, rcnn_cls:0.035648, rcnn_bbox:0.121410, train_time:0.253s, data_time:0.002s
+[32m22 09:43:00 [0me22, 30/200, lr:0.000025, total_loss:0.154338, rpn_cls:0.007586, rpn_bbox:0.013387, rcnn_cls:0.023814, rcnn_bbox:0.109550, train_time:0.255s, data_time:0.002s
+[32m22 09:43:04 [0me22, 40/200, lr:0.000025, total_loss:0.154677, rpn_cls:0.003824, rpn_bbox:0.004903, rcnn_cls:0.033299, rcnn_bbox:0.112652, train_time:0.259s, data_time:0.003s
+[32m22 09:43:08 [0me22, 50/200, lr:0.000025, total_loss:0.142433, rpn_cls:0.001616, rpn_bbox:0.003020, rcnn_cls:0.027586, rcnn_bbox:0.110211, train_time:0.275s, data_time:0.004s
+[32m22 09:43:12 [0me22, 60/200, lr:0.000025, total_loss:0.158167, rpn_cls:0.002740, rpn_bbox:0.005504, rcnn_cls:0.031474, rcnn_bbox:0.118448, train_time:0.270s, data_time:0.059s
+[32m22 09:43:16 [0me22, 70/200, lr:0.000025, total_loss:0.159834, rpn_cls:0.004084, rpn_bbox:0.004126, rcnn_cls:0.033488, rcnn_bbox:0.118136, train_time:0.267s, data_time:0.002s
+[32m22 09:43:20 [0me22, 80/200, lr:0.000025, total_loss:0.187039, rpn_cls:0.006179, rpn_bbox:0.009995, rcnn_cls:0.053478, rcnn_bbox:0.117387, train_time:0.269s, data_time:0.002s
+[32m22 09:43:24 [0me22, 90/200, lr:0.000025, total_loss:0.144252, rpn_cls:0.002561, rpn_bbox:0.005432, rcnn_cls:0.028788, rcnn_bbox:0.107472, train_time:0.251s, data_time:0.002s
+[32m22 09:43:28 [0me22, 100/200, lr:0.000025, total_loss:0.137562, rpn_cls:0.001768, rpn_bbox:0.004228, rcnn_cls:0.031226, rcnn_bbox:0.100339, train_time:0.261s, data_time:0.002s
+[32m22 09:43:31 [0me22, 110/200, lr:0.000025, total_loss:0.165145, rpn_cls:0.003766, rpn_bbox:0.003774, rcnn_cls:0.031461, rcnn_bbox:0.126143, train_time:0.253s, data_time:0.003s
+[32m22 09:43:35 [0me22, 120/200, lr:0.000025, total_loss:0.160621, rpn_cls:0.001921, rpn_bbox:0.003747, rcnn_cls:0.028176, rcnn_bbox:0.126776, train_time:0.256s, data_time:0.002s
+[32m22 09:43:39 [0me22, 130/200, lr:0.000025, total_loss:0.130173, rpn_cls:0.001959, rpn_bbox:0.004849, rcnn_cls:0.023240, rcnn_bbox:0.100124, train_time:0.247s, data_time:0.002s
+[32m22 09:43:42 [0me22, 140/200, lr:0.000025, total_loss:0.141689, rpn_cls:0.001537, rpn_bbox:0.004116, rcnn_cls:0.027334, rcnn_bbox:0.108702, train_time:0.257s, data_time:0.002s
+[32m22 09:43:46 [0me22, 150/200, lr:0.000025, total_loss:0.140532, rpn_cls:0.001406, rpn_bbox:0.004574, rcnn_cls:0.027657, rcnn_bbox:0.106895, train_time:0.252s, data_time:0.002s
+[32m22 09:43:50 [0me22, 160/200, lr:0.000025, total_loss:0.168946, rpn_cls:0.001320, rpn_bbox:0.003372, rcnn_cls:0.037068, rcnn_bbox:0.127185, train_time:0.247s, data_time:0.003s
+[32m22 09:43:54 [0me22, 170/200, lr:0.000025, total_loss:0.142926, rpn_cls:0.002625, rpn_bbox:0.008242, rcnn_cls:0.027413, rcnn_bbox:0.104646, train_time:0.291s, data_time:0.003s
+[32m22 09:43:58 [0me22, 180/200, lr:0.000025, total_loss:0.163638, rpn_cls:0.004604, rpn_bbox:0.009050, rcnn_cls:0.038941, rcnn_bbox:0.111042, train_time:0.303s, data_time:0.004s
+[32m22 09:44:02 [0me22, 190/200, lr:0.000025, total_loss:0.147252, rpn_cls:0.003469, rpn_bbox:0.009526, rcnn_cls:0.027832, rcnn_bbox:0.106425, train_time:0.274s, data_time:0.002s
+[32m22 09:44:07 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_22.pkl
+[32m22 09:44:07 [0me23, 0/200, lr:0.000025, total_loss:0.107658, rpn_cls:0.000979, rpn_bbox:0.005756, rcnn_cls:0.014167, rcnn_bbox:0.086756, train_time:0.243s, data_time:0.002s
+[32m22 09:44:11 [0me23, 10/200, lr:0.000025, total_loss:0.151495, rpn_cls:0.003689, rpn_bbox:0.008392, rcnn_cls:0.023609, rcnn_bbox:0.115806, train_time:0.246s, data_time:0.002s
+[32m22 09:44:15 [0me23, 20/200, lr:0.000025, total_loss:0.168054, rpn_cls:0.002283, rpn_bbox:0.004140, rcnn_cls:0.045004, rcnn_bbox:0.116628, train_time:0.263s, data_time:0.002s
+[32m22 09:44:18 [0me23, 30/200, lr:0.000025, total_loss:0.154881, rpn_cls:0.002431, rpn_bbox:0.003407, rcnn_cls:0.029511, rcnn_bbox:0.119533, train_time:0.244s, data_time:0.002s
+[32m22 09:44:22 [0me23, 40/200, lr:0.000025, total_loss:0.152130, rpn_cls:0.004230, rpn_bbox:0.007702, rcnn_cls:0.027486, rcnn_bbox:0.112712, train_time:0.273s, data_time:0.002s
+[32m22 09:44:29 [0me23, 50/200, lr:0.000025, total_loss:0.174962, rpn_cls:0.002765, rpn_bbox:0.004048, rcnn_cls:0.032127, rcnn_bbox:0.136022, train_time:0.480s, data_time:0.082s
+[32m22 09:44:33 [0me23, 60/200, lr:0.000025, total_loss:0.161810, rpn_cls:0.002858, rpn_bbox:0.006196, rcnn_cls:0.029739, rcnn_bbox:0.123017, train_time:0.270s, data_time:0.003s
+[32m22 09:44:36 [0me23, 70/200, lr:0.000025, total_loss:0.141433, rpn_cls:0.002965, rpn_bbox:0.004750, rcnn_cls:0.021162, rcnn_bbox:0.112556, train_time:0.252s, data_time:0.002s
+[32m22 09:44:40 [0me23, 80/200, lr:0.000025, total_loss:0.169546, rpn_cls:0.003549, rpn_bbox:0.005220, rcnn_cls:0.031885, rcnn_bbox:0.128893, train_time:0.255s, data_time:0.003s
+[32m22 09:44:44 [0me23, 90/200, lr:0.000025, total_loss:0.150850, rpn_cls:0.002063, rpn_bbox:0.007682, rcnn_cls:0.025598, rcnn_bbox:0.115506, train_time:0.251s, data_time:0.003s
+[32m22 09:44:47 [0me23, 100/200, lr:0.000025, total_loss:0.151730, rpn_cls:0.007783, rpn_bbox:0.007849, rcnn_cls:0.038245, rcnn_bbox:0.097853, train_time:0.246s, data_time:0.003s
+[32m22 09:44:51 [0me23, 110/200, lr:0.000025, total_loss:0.165097, rpn_cls:0.004986, rpn_bbox:0.007132, rcnn_cls:0.033754, rcnn_bbox:0.119224, train_time:0.245s, data_time:0.002s
+[32m22 09:44:55 [0me23, 120/200, lr:0.000025, total_loss:0.163374, rpn_cls:0.005287, rpn_bbox:0.009624, rcnn_cls:0.034574, rcnn_bbox:0.113890, train_time:0.257s, data_time:0.002s
+[32m22 09:44:58 [0me23, 130/200, lr:0.000025, total_loss:0.146316, rpn_cls:0.003200, rpn_bbox:0.007373, rcnn_cls:0.032826, rcnn_bbox:0.102917, train_time:0.236s, data_time:0.002s
+[32m22 09:45:02 [0me23, 140/200, lr:0.000025, total_loss:0.149168, rpn_cls:0.002130, rpn_bbox:0.004264, rcnn_cls:0.026682, rcnn_bbox:0.116093, train_time:0.241s, data_time:0.002s
+[32m22 09:45:05 [0me23, 150/200, lr:0.000025, total_loss:0.149929, rpn_cls:0.003433, rpn_bbox:0.006438, rcnn_cls:0.029969, rcnn_bbox:0.110089, train_time:0.258s, data_time:0.002s
+[32m22 09:45:09 [0me23, 160/200, lr:0.000025, total_loss:0.156291, rpn_cls:0.002766, rpn_bbox:0.007561, rcnn_cls:0.028956, rcnn_bbox:0.117009, train_time:0.248s, data_time:0.002s
+[32m22 09:45:13 [0me23, 170/200, lr:0.000025, total_loss:0.144593, rpn_cls:0.002570, rpn_bbox:0.007590, rcnn_cls:0.027807, rcnn_bbox:0.106625, train_time:0.252s, data_time:0.002s
+[32m22 09:45:16 [0me23, 180/200, lr:0.000025, total_loss:0.140798, rpn_cls:0.001567, rpn_bbox:0.003194, rcnn_cls:0.030138, rcnn_bbox:0.105900, train_time:0.242s, data_time:0.002s
+[32m22 09:45:20 [0me23, 190/200, lr:0.000025, total_loss:0.154415, rpn_cls:0.004186, rpn_bbox:0.004399, rcnn_cls:0.030221, rcnn_bbox:0.115609, train_time:0.273s, data_time:0.003s
+[32m22 09:45:25 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_23.pkl
+[32m22 09:45:26 [0me24, 0/200, lr:0.000025, total_loss:0.166311, rpn_cls:0.000964, rpn_bbox:0.002152, rcnn_cls:0.035032, rcnn_bbox:0.128163, train_time:0.243s, data_time:0.001s
+[32m22 09:45:29 [0me24, 10/200, lr:0.000025, total_loss:0.137217, rpn_cls:0.003119, rpn_bbox:0.004059, rcnn_cls:0.024823, rcnn_bbox:0.105217, train_time:0.259s, data_time:0.002s
+[32m22 09:45:33 [0me24, 20/200, lr:0.000025, total_loss:0.141280, rpn_cls:0.004007, rpn_bbox:0.003394, rcnn_cls:0.032007, rcnn_bbox:0.101872, train_time:0.255s, data_time:0.002s
+[32m22 09:45:37 [0me24, 30/200, lr:0.000025, total_loss:0.162240, rpn_cls:0.004462, rpn_bbox:0.007240, rcnn_cls:0.044785, rcnn_bbox:0.105754, train_time:0.266s, data_time:0.003s
+[32m22 09:45:41 [0me24, 40/200, lr:0.000025, total_loss:0.142170, rpn_cls:0.003228, rpn_bbox:0.006029, rcnn_cls:0.028050, rcnn_bbox:0.104863, train_time:0.263s, data_time:0.002s
+[32m22 09:45:44 [0me24, 50/200, lr:0.000025, total_loss:0.160544, rpn_cls:0.004160, rpn_bbox:0.008541, rcnn_cls:0.039343, rcnn_bbox:0.108500, train_time:0.255s, data_time:0.002s
+[32m22 09:45:48 [0me24, 60/200, lr:0.000025, total_loss:0.170548, rpn_cls:0.003714, rpn_bbox:0.007659, rcnn_cls:0.038653, rcnn_bbox:0.120522, train_time:0.276s, data_time:0.002s
+[32m22 09:45:52 [0me24, 70/200, lr:0.000025, total_loss:0.162653, rpn_cls:0.003313, rpn_bbox:0.006415, rcnn_cls:0.034982, rcnn_bbox:0.117944, train_time:0.275s, data_time:0.003s
+[32m22 09:45:56 [0me24, 80/200, lr:0.000025, total_loss:0.152417, rpn_cls:0.003261, rpn_bbox:0.006084, rcnn_cls:0.026603, rcnn_bbox:0.116469, train_time:0.303s, data_time:0.002s
+[32m22 09:46:00 [0me24, 90/200, lr:0.000025, total_loss:0.156822, rpn_cls:0.003879, rpn_bbox:0.005461, rcnn_cls:0.028169, rcnn_bbox:0.119314, train_time:0.250s, data_time:0.002s
+[32m22 09:46:04 [0me24, 100/200, lr:0.000025, total_loss:0.150995, rpn_cls:0.005074, rpn_bbox:0.003780, rcnn_cls:0.033060, rcnn_bbox:0.109081, train_time:0.273s, data_time:0.002s
+[32m22 09:46:08 [0me24, 110/200, lr:0.000025, total_loss:0.155635, rpn_cls:0.005555, rpn_bbox:0.012084, rcnn_cls:0.029906, rcnn_bbox:0.108090, train_time:0.272s, data_time:0.002s
+[32m22 09:46:12 [0me24, 120/200, lr:0.000025, total_loss:0.151554, rpn_cls:0.003970, rpn_bbox:0.004441, rcnn_cls:0.030640, rcnn_bbox:0.112503, train_time:0.247s, data_time:0.003s
+[32m22 09:46:15 [0me24, 130/200, lr:0.000025, total_loss:0.139478, rpn_cls:0.003132, rpn_bbox:0.003791, rcnn_cls:0.025148, rcnn_bbox:0.107408, train_time:0.275s, data_time:0.002s
+[32m22 09:46:19 [0me24, 140/200, lr:0.000025, total_loss:0.145047, rpn_cls:0.004321, rpn_bbox:0.005940, rcnn_cls:0.032847, rcnn_bbox:0.101940, train_time:0.253s, data_time:0.003s
+[32m22 09:46:23 [0me24, 150/200, lr:0.000025, total_loss:0.158856, rpn_cls:0.003480, rpn_bbox:0.003562, rcnn_cls:0.031064, rcnn_bbox:0.120751, train_time:0.287s, data_time:0.002s
+[32m22 09:46:27 [0me24, 160/200, lr:0.000025, total_loss:0.144141, rpn_cls:0.002177, rpn_bbox:0.005421, rcnn_cls:0.030853, rcnn_bbox:0.105690, train_time:0.264s, data_time:0.003s
+[32m22 09:46:31 [0me24, 170/200, lr:0.000025, total_loss:0.166681, rpn_cls:0.002704, rpn_bbox:0.008621, rcnn_cls:0.033674, rcnn_bbox:0.121682, train_time:0.263s, data_time:0.002s
+[32m22 09:46:35 [0me24, 180/200, lr:0.000025, total_loss:0.143330, rpn_cls:0.002552, rpn_bbox:0.006689, rcnn_cls:0.028381, rcnn_bbox:0.105708, train_time:0.263s, data_time:0.002s
+[32m22 09:46:39 [0me24, 190/200, lr:0.000025, total_loss:0.149660, rpn_cls:0.003135, rpn_bbox:0.004186, rcnn_cls:0.027270, rcnn_bbox:0.115069, train_time:0.287s, data_time:0.002s
+[32m22 09:46:44 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_24.pkl
+[32m22 09:46:44 [0me25, 0/200, lr:0.000025, total_loss:0.123171, rpn_cls:0.000818, rpn_bbox:0.011482, rcnn_cls:0.029655, rcnn_bbox:0.081217, train_time:0.256s, data_time:0.002s
+[32m22 09:46:48 [0me25, 10/200, lr:0.000025, total_loss:0.178123, rpn_cls:0.002646, rpn_bbox:0.005876, rcnn_cls:0.040013, rcnn_bbox:0.129588, train_time:0.252s, data_time:0.002s
+[32m22 09:46:51 [0me25, 20/200, lr:0.000025, total_loss:0.130066, rpn_cls:0.001861, rpn_bbox:0.003865, rcnn_cls:0.024204, rcnn_bbox:0.100135, train_time:0.262s, data_time:0.002s
+[32m22 09:46:55 [0me25, 30/200, lr:0.000025, total_loss:0.143545, rpn_cls:0.001941, rpn_bbox:0.003578, rcnn_cls:0.025642, rcnn_bbox:0.112384, train_time:0.271s, data_time:0.002s
+[32m22 09:46:59 [0me25, 40/200, lr:0.000025, total_loss:0.151191, rpn_cls:0.005950, rpn_bbox:0.006593, rcnn_cls:0.032909, rcnn_bbox:0.105740, train_time:0.274s, data_time:0.003s
+[32m22 09:47:03 [0me25, 50/200, lr:0.000025, total_loss:0.150616, rpn_cls:0.003041, rpn_bbox:0.007097, rcnn_cls:0.029846, rcnn_bbox:0.110632, train_time:0.278s, data_time:0.002s
+[32m22 09:47:07 [0me25, 60/200, lr:0.000025, total_loss:0.138740, rpn_cls:0.004138, rpn_bbox:0.004470, rcnn_cls:0.028453, rcnn_bbox:0.101678, train_time:0.274s, data_time:0.002s
+[32m22 09:47:11 [0me25, 70/200, lr:0.000025, total_loss:0.164553, rpn_cls:0.006499, rpn_bbox:0.006858, rcnn_cls:0.037901, rcnn_bbox:0.113295, train_time:0.267s, data_time:0.003s
+[32m22 09:47:15 [0me25, 80/200, lr:0.000025, total_loss:0.158638, rpn_cls:0.002864, rpn_bbox:0.004732, rcnn_cls:0.041987, rcnn_bbox:0.109054, train_time:0.266s, data_time:0.002s
+[32m22 09:47:18 [0me25, 90/200, lr:0.000025, total_loss:0.133896, rpn_cls:0.001943, rpn_bbox:0.007086, rcnn_cls:0.029288, rcnn_bbox:0.095579, train_time:0.262s, data_time:0.002s
+[32m22 09:47:22 [0me25, 100/200, lr:0.000025, total_loss:0.174967, rpn_cls:0.003340, rpn_bbox:0.007481, rcnn_cls:0.048845, rcnn_bbox:0.115300, train_time:0.256s, data_time:0.002s
+[32m22 09:47:26 [0me25, 110/200, lr:0.000025, total_loss:0.151115, rpn_cls:0.002599, rpn_bbox:0.006592, rcnn_cls:0.026287, rcnn_bbox:0.115638, train_time:0.266s, data_time:0.003s
+[32m22 09:47:30 [0me25, 120/200, lr:0.000025, total_loss:0.151523, rpn_cls:0.001559, rpn_bbox:0.003307, rcnn_cls:0.027167, rcnn_bbox:0.119491, train_time:0.274s, data_time:0.003s
+[32m22 09:47:34 [0me25, 130/200, lr:0.000025, total_loss:0.140497, rpn_cls:0.003650, rpn_bbox:0.005468, rcnn_cls:0.023118, rcnn_bbox:0.108262, train_time:0.254s, data_time:0.002s
+[32m22 09:47:38 [0me25, 140/200, lr:0.000025, total_loss:0.153429, rpn_cls:0.003298, rpn_bbox:0.007702, rcnn_cls:0.024648, rcnn_bbox:0.117780, train_time:0.263s, data_time:0.003s
+[32m22 09:47:41 [0me25, 150/200, lr:0.000025, total_loss:0.140253, rpn_cls:0.002676, rpn_bbox:0.005818, rcnn_cls:0.026909, rcnn_bbox:0.104850, train_time:0.271s, data_time:0.003s
+[32m22 09:47:46 [0me25, 160/200, lr:0.000025, total_loss:0.149085, rpn_cls:0.001858, rpn_bbox:0.004189, rcnn_cls:0.033051, rcnn_bbox:0.109986, train_time:0.287s, data_time:0.003s
+[32m22 09:47:49 [0me25, 170/200, lr:0.000025, total_loss:0.149106, rpn_cls:0.003076, rpn_bbox:0.008421, rcnn_cls:0.025383, rcnn_bbox:0.112227, train_time:0.278s, data_time:0.003s
+[32m22 09:47:53 [0me25, 180/200, lr:0.000025, total_loss:0.140908, rpn_cls:0.003865, rpn_bbox:0.003278, rcnn_cls:0.027973, rcnn_bbox:0.105791, train_time:0.282s, data_time:0.002s
+[32m22 09:47:57 [0me25, 190/200, lr:0.000025, total_loss:0.162184, rpn_cls:0.005840, rpn_bbox:0.004867, rcnn_cls:0.039169, rcnn_bbox:0.112308, train_time:0.263s, data_time:0.002s
+[32m22 09:48:02 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_25.pkl
+[32m22 09:48:03 [0me26, 0/200, lr:0.000025, total_loss:0.136091, rpn_cls:0.000417, rpn_bbox:0.000880, rcnn_cls:0.051543, rcnn_bbox:0.083251, train_time:0.286s, data_time:0.001s
+[32m22 09:48:07 [0me26, 10/200, lr:0.000025, total_loss:0.130320, rpn_cls:0.003840, rpn_bbox:0.006154, rcnn_cls:0.022835, rcnn_bbox:0.097492, train_time:0.273s, data_time:0.002s
+[32m22 09:48:10 [0me26, 20/200, lr:0.000025, total_loss:0.157792, rpn_cls:0.002542, rpn_bbox:0.003367, rcnn_cls:0.028996, rcnn_bbox:0.122887, train_time:0.278s, data_time:0.002s
+[32m22 09:48:14 [0me26, 30/200, lr:0.000025, total_loss:0.147380, rpn_cls:0.002012, rpn_bbox:0.005337, rcnn_cls:0.031278, rcnn_bbox:0.108753, train_time:0.259s, data_time:0.002s
+[32m22 09:48:18 [0me26, 40/200, lr:0.000025, total_loss:0.139855, rpn_cls:0.003300, rpn_bbox:0.007823, rcnn_cls:0.026896, rcnn_bbox:0.101837, train_time:0.253s, data_time:0.003s
+[32m22 09:48:22 [0me26, 50/200, lr:0.000025, total_loss:0.147430, rpn_cls:0.002986, rpn_bbox:0.006300, rcnn_cls:0.029456, rcnn_bbox:0.108687, train_time:0.271s, data_time:0.003s
+[32m22 09:48:25 [0me26, 60/200, lr:0.000025, total_loss:0.163929, rpn_cls:0.003150, rpn_bbox:0.007171, rcnn_cls:0.034446, rcnn_bbox:0.119162, train_time:0.263s, data_time:0.003s
+[32m22 09:48:29 [0me26, 70/200, lr:0.000025, total_loss:0.179622, rpn_cls:0.003767, rpn_bbox:0.004991, rcnn_cls:0.044132, rcnn_bbox:0.126733, train_time:0.268s, data_time:0.002s
+[32m22 09:48:33 [0me26, 80/200, lr:0.000025, total_loss:0.141991, rpn_cls:0.001994, rpn_bbox:0.004281, rcnn_cls:0.031351, rcnn_bbox:0.104366, train_time:0.273s, data_time:0.002s
+[32m22 09:48:37 [0me26, 90/200, lr:0.000025, total_loss:0.154368, rpn_cls:0.004472, rpn_bbox:0.004477, rcnn_cls:0.026690, rcnn_bbox:0.118729, train_time:0.252s, data_time:0.002s
+[32m22 09:48:41 [0me26, 100/200, lr:0.000025, total_loss:0.164972, rpn_cls:0.004346, rpn_bbox:0.007823, rcnn_cls:0.031033, rcnn_bbox:0.121770, train_time:0.273s, data_time:0.002s
+[32m22 09:48:45 [0me26, 110/200, lr:0.000025, total_loss:0.141449, rpn_cls:0.004368, rpn_bbox:0.008379, rcnn_cls:0.026549, rcnn_bbox:0.102152, train_time:0.296s, data_time:0.002s
+[32m22 09:48:49 [0me26, 120/200, lr:0.000025, total_loss:0.165573, rpn_cls:0.004171, rpn_bbox:0.006193, rcnn_cls:0.042364, rcnn_bbox:0.112846, train_time:0.266s, data_time:0.003s
+[32m22 09:48:53 [0me26, 130/200, lr:0.000025, total_loss:0.133596, rpn_cls:0.003647, rpn_bbox:0.004413, rcnn_cls:0.024699, rcnn_bbox:0.100836, train_time:0.287s, data_time:0.003s
+[32m22 09:48:57 [0me26, 140/200, lr:0.000025, total_loss:0.140580, rpn_cls:0.004913, rpn_bbox:0.007145, rcnn_cls:0.025441, rcnn_bbox:0.103081, train_time:0.257s, data_time:0.003s
+[32m22 09:49:01 [0me26, 150/200, lr:0.000025, total_loss:0.152869, rpn_cls:0.001612, rpn_bbox:0.004924, rcnn_cls:0.030520, rcnn_bbox:0.115813, train_time:0.307s, data_time:0.002s
+[32m22 09:49:05 [0me26, 160/200, lr:0.000025, total_loss:0.152335, rpn_cls:0.003151, rpn_bbox:0.005267, rcnn_cls:0.029572, rcnn_bbox:0.114345, train_time:0.268s, data_time:0.002s
+[32m22 09:49:08 [0me26, 170/200, lr:0.000025, total_loss:0.135899, rpn_cls:0.003275, rpn_bbox:0.007786, rcnn_cls:0.021774, rcnn_bbox:0.103065, train_time:0.263s, data_time:0.003s
+[32m22 09:49:12 [0me26, 180/200, lr:0.000025, total_loss:0.153921, rpn_cls:0.005644, rpn_bbox:0.007267, rcnn_cls:0.030803, rcnn_bbox:0.110208, train_time:0.272s, data_time:0.002s
+[32m22 09:49:16 [0me26, 190/200, lr:0.000025, total_loss:0.186025, rpn_cls:0.002015, rpn_bbox:0.005538, rcnn_cls:0.050982, rcnn_bbox:0.127490, train_time:0.271s, data_time:0.003s
+[32m22 09:49:21 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_26.pkl
+[32m22 09:49:21 [0me27, 0/200, lr:0.000025, total_loss:0.134072, rpn_cls:0.000960, rpn_bbox:0.004833, rcnn_cls:0.015791, rcnn_bbox:0.112487, train_time:0.230s, data_time:0.002s
+[32m22 09:49:25 [0me27, 10/200, lr:0.000025, total_loss:0.149899, rpn_cls:0.001810, rpn_bbox:0.003840, rcnn_cls:0.029007, rcnn_bbox:0.115242, train_time:0.258s, data_time:0.004s
+[32m22 09:49:29 [0me27, 20/200, lr:0.000025, total_loss:0.146088, rpn_cls:0.002763, rpn_bbox:0.003752, rcnn_cls:0.029046, rcnn_bbox:0.110527, train_time:0.264s, data_time:0.005s
+[32m22 09:49:33 [0me27, 30/200, lr:0.000025, total_loss:0.133988, rpn_cls:0.003632, rpn_bbox:0.004293, rcnn_cls:0.023461, rcnn_bbox:0.102602, train_time:0.264s, data_time:0.002s
+[32m22 09:49:37 [0me27, 40/200, lr:0.000025, total_loss:0.147653, rpn_cls:0.001947, rpn_bbox:0.006222, rcnn_cls:0.031097, rcnn_bbox:0.108387, train_time:0.301s, data_time:0.003s
+[32m22 09:49:40 [0me27, 50/200, lr:0.000025, total_loss:0.139242, rpn_cls:0.004540, rpn_bbox:0.007239, rcnn_cls:0.023199, rcnn_bbox:0.104264, train_time:0.256s, data_time:0.002s
+[32m22 09:49:44 [0me27, 60/200, lr:0.000025, total_loss:0.129799, rpn_cls:0.001683, rpn_bbox:0.003382, rcnn_cls:0.026559, rcnn_bbox:0.098175, train_time:0.281s, data_time:0.003s
+[32m22 09:49:48 [0me27, 70/200, lr:0.000025, total_loss:0.155704, rpn_cls:0.003531, rpn_bbox:0.007192, rcnn_cls:0.029944, rcnn_bbox:0.115037, train_time:0.260s, data_time:0.002s
+[32m22 09:49:52 [0me27, 80/200, lr:0.000025, total_loss:0.158623, rpn_cls:0.002697, rpn_bbox:0.002695, rcnn_cls:0.035542, rcnn_bbox:0.117689, train_time:0.282s, data_time:0.002s
+[32m22 09:49:59 [0me27, 90/200, lr:0.000025, total_loss:0.146426, rpn_cls:0.005189, rpn_bbox:0.009365, rcnn_cls:0.029159, rcnn_bbox:0.102713, train_time:0.543s, data_time:0.002s
+[32m22 09:50:02 [0me27, 100/200, lr:0.000025, total_loss:0.153126, rpn_cls:0.004672, rpn_bbox:0.007795, rcnn_cls:0.028104, rcnn_bbox:0.112556, train_time:0.262s, data_time:0.003s
+[32m22 09:50:06 [0me27, 110/200, lr:0.000025, total_loss:0.140536, rpn_cls:0.001924, rpn_bbox:0.003463, rcnn_cls:0.022751, rcnn_bbox:0.112398, train_time:0.261s, data_time:0.002s
+[32m22 09:50:10 [0me27, 120/200, lr:0.000025, total_loss:0.183198, rpn_cls:0.004372, rpn_bbox:0.005709, rcnn_cls:0.049042, rcnn_bbox:0.124075, train_time:0.263s, data_time:0.002s
+[32m22 09:50:14 [0me27, 130/200, lr:0.000025, total_loss:0.163389, rpn_cls:0.003338, rpn_bbox:0.006279, rcnn_cls:0.030031, rcnn_bbox:0.123741, train_time:0.274s, data_time:0.003s
+[32m22 09:50:18 [0me27, 140/200, lr:0.000025, total_loss:0.139675, rpn_cls:0.003426, rpn_bbox:0.009463, rcnn_cls:0.027585, rcnn_bbox:0.099201, train_time:0.271s, data_time:0.002s
+[32m22 09:50:22 [0me27, 150/200, lr:0.000025, total_loss:0.146801, rpn_cls:0.001934, rpn_bbox:0.007016, rcnn_cls:0.029699, rcnn_bbox:0.108152, train_time:0.275s, data_time:0.003s
+[32m22 09:50:26 [0me27, 160/200, lr:0.000025, total_loss:0.129220, rpn_cls:0.002294, rpn_bbox:0.007345, rcnn_cls:0.024679, rcnn_bbox:0.094903, train_time:0.319s, data_time:0.002s
+[32m22 09:50:30 [0me27, 170/200, lr:0.000025, total_loss:0.127556, rpn_cls:0.002937, rpn_bbox:0.007530, rcnn_cls:0.022492, rcnn_bbox:0.094597, train_time:0.264s, data_time:0.003s
+[32m22 09:50:33 [0me27, 180/200, lr:0.000025, total_loss:0.162689, rpn_cls:0.002726, rpn_bbox:0.003890, rcnn_cls:0.047813, rcnn_bbox:0.108261, train_time:0.255s, data_time:0.003s
+[32m22 09:50:37 [0me27, 190/200, lr:0.000025, total_loss:0.151006, rpn_cls:0.002853, rpn_bbox:0.004912, rcnn_cls:0.029370, rcnn_bbox:0.113871, train_time:0.257s, data_time:0.003s
+[32m22 09:50:42 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_27.pkl
+[32m22 09:50:42 [0me28, 0/200, lr:0.000025, total_loss:0.183011, rpn_cls:0.005202, rpn_bbox:0.004905, rcnn_cls:0.027901, rcnn_bbox:0.145003, train_time:0.280s, data_time:0.002s
+[32m22 09:50:46 [0me28, 10/200, lr:0.000025, total_loss:0.144683, rpn_cls:0.003544, rpn_bbox:0.004991, rcnn_cls:0.035667, rcnn_bbox:0.100481, train_time:0.257s, data_time:0.003s
+[32m22 09:50:50 [0me28, 20/200, lr:0.000025, total_loss:0.156043, rpn_cls:0.003718, rpn_bbox:0.003415, rcnn_cls:0.026915, rcnn_bbox:0.121994, train_time:0.264s, data_time:0.002s
+[32m22 09:50:54 [0me28, 30/200, lr:0.000025, total_loss:0.184022, rpn_cls:0.004440, rpn_bbox:0.008968, rcnn_cls:0.035963, rcnn_bbox:0.134651, train_time:0.254s, data_time:0.002s
+[32m22 09:50:57 [0me28, 40/200, lr:0.000025, total_loss:0.173771, rpn_cls:0.005897, rpn_bbox:0.008419, rcnn_cls:0.047006, rcnn_bbox:0.112449, train_time:0.273s, data_time:0.003s
+[32m22 09:51:01 [0me28, 50/200, lr:0.000025, total_loss:0.151039, rpn_cls:0.002624, rpn_bbox:0.005379, rcnn_cls:0.027030, rcnn_bbox:0.116006, train_time:0.265s, data_time:0.003s
+[32m22 09:51:05 [0me28, 60/200, lr:0.000025, total_loss:0.138637, rpn_cls:0.003630, rpn_bbox:0.006425, rcnn_cls:0.029263, rcnn_bbox:0.099320, train_time:0.279s, data_time:0.002s
+[32m22 09:51:09 [0me28, 70/200, lr:0.000025, total_loss:0.149418, rpn_cls:0.002673, rpn_bbox:0.003600, rcnn_cls:0.026918, rcnn_bbox:0.116227, train_time:0.259s, data_time:0.003s
+[32m22 09:51:13 [0me28, 80/200, lr:0.000025, total_loss:0.133927, rpn_cls:0.001987, rpn_bbox:0.006614, rcnn_cls:0.026384, rcnn_bbox:0.098941, train_time:0.276s, data_time:0.002s
+[32m22 09:51:17 [0me28, 90/200, lr:0.000025, total_loss:0.138442, rpn_cls:0.002377, rpn_bbox:0.003090, rcnn_cls:0.020718, rcnn_bbox:0.112257, train_time:0.244s, data_time:0.002s
+[32m22 09:51:21 [0me28, 100/200, lr:0.000025, total_loss:0.140741, rpn_cls:0.006605, rpn_bbox:0.008484, rcnn_cls:0.025995, rcnn_bbox:0.099657, train_time:0.261s, data_time:0.002s
+[32m22 09:51:24 [0me28, 110/200, lr:0.000025, total_loss:0.140024, rpn_cls:0.002905, rpn_bbox:0.003603, rcnn_cls:0.027649, rcnn_bbox:0.105866, train_time:0.263s, data_time:0.002s
+[32m22 09:51:28 [0me28, 120/200, lr:0.000025, total_loss:0.153811, rpn_cls:0.004736, rpn_bbox:0.007277, rcnn_cls:0.029862, rcnn_bbox:0.111935, train_time:0.261s, data_time:0.002s
+[32m22 09:51:32 [0me28, 130/200, lr:0.000025, total_loss:0.147426, rpn_cls:0.006325, rpn_bbox:0.005973, rcnn_cls:0.030656, rcnn_bbox:0.104472, train_time:0.279s, data_time:0.002s
+[32m22 09:51:36 [0me28, 140/200, lr:0.000025, total_loss:0.148629, rpn_cls:0.002761, rpn_bbox:0.004990, rcnn_cls:0.032046, rcnn_bbox:0.108832, train_time:0.282s, data_time:0.003s
+[32m22 09:51:40 [0me28, 150/200, lr:0.000025, total_loss:0.146372, rpn_cls:0.002152, rpn_bbox:0.004816, rcnn_cls:0.025528, rcnn_bbox:0.113876, train_time:0.286s, data_time:0.002s
+[32m22 09:51:44 [0me28, 160/200, lr:0.000025, total_loss:0.163356, rpn_cls:0.002426, rpn_bbox:0.004533, rcnn_cls:0.047164, rcnn_bbox:0.109233, train_time:0.263s, data_time:0.003s
+[32m22 09:51:47 [0me28, 170/200, lr:0.000025, total_loss:0.140542, rpn_cls:0.002698, rpn_bbox:0.004232, rcnn_cls:0.027485, rcnn_bbox:0.106126, train_time:0.246s, data_time:0.002s
+[32m22 09:51:51 [0me28, 180/200, lr:0.000025, total_loss:0.150826, rpn_cls:0.002677, rpn_bbox:0.004789, rcnn_cls:0.026133, rcnn_bbox:0.117226, train_time:0.258s, data_time:0.004s
+[32m22 09:51:55 [0me28, 190/200, lr:0.000025, total_loss:0.151525, rpn_cls:0.005248, rpn_bbox:0.006706, rcnn_cls:0.031669, rcnn_bbox:0.107902, train_time:0.265s, data_time:0.002s
+[32m22 09:52:00 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_28.pkl
+[32m22 09:52:00 [0me29, 0/200, lr:0.000025, total_loss:0.170531, rpn_cls:0.002569, rpn_bbox:0.005927, rcnn_cls:0.022286, rcnn_bbox:0.139749, train_time:0.342s, data_time:0.004s
+[32m22 09:52:04 [0me29, 10/200, lr:0.000025, total_loss:0.160073, rpn_cls:0.002437, rpn_bbox:0.005546, rcnn_cls:0.027732, rcnn_bbox:0.124358, train_time:0.254s, data_time:0.003s
+[32m22 09:52:08 [0me29, 20/200, lr:0.000025, total_loss:0.149632, rpn_cls:0.002895, rpn_bbox:0.004343, rcnn_cls:0.030762, rcnn_bbox:0.111632, train_time:0.276s, data_time:0.002s
+[32m22 09:52:12 [0me29, 30/200, lr:0.000025, total_loss:0.147525, rpn_cls:0.004168, rpn_bbox:0.005707, rcnn_cls:0.026264, rcnn_bbox:0.111386, train_time:0.254s, data_time:0.002s
+[32m22 09:52:16 [0me29, 40/200, lr:0.000025, total_loss:0.149799, rpn_cls:0.002848, rpn_bbox:0.005854, rcnn_cls:0.029951, rcnn_bbox:0.111145, train_time:0.279s, data_time:0.002s
+[32m22 09:52:20 [0me29, 50/200, lr:0.000025, total_loss:0.148087, rpn_cls:0.002029, rpn_bbox:0.003945, rcnn_cls:0.031820, rcnn_bbox:0.110292, train_time:0.275s, data_time:0.002s
+[32m22 09:52:23 [0me29, 60/200, lr:0.000025, total_loss:0.155433, rpn_cls:0.003594, rpn_bbox:0.004655, rcnn_cls:0.031332, rcnn_bbox:0.115853, train_time:0.259s, data_time:0.003s
+[32m22 09:52:27 [0me29, 70/200, lr:0.000025, total_loss:0.142013, rpn_cls:0.003277, rpn_bbox:0.009772, rcnn_cls:0.042282, rcnn_bbox:0.086683, train_time:0.260s, data_time:0.002s
+[32m22 09:52:30 [0me29, 80/200, lr:0.000025, total_loss:0.147854, rpn_cls:0.001800, rpn_bbox:0.003995, rcnn_cls:0.026538, rcnn_bbox:0.115521, train_time:0.233s, data_time:0.002s
+[32m22 09:52:34 [0me29, 90/200, lr:0.000025, total_loss:0.160048, rpn_cls:0.005153, rpn_bbox:0.008972, rcnn_cls:0.031772, rcnn_bbox:0.114152, train_time:0.261s, data_time:0.002s
+[32m22 09:52:38 [0me29, 100/200, lr:0.000025, total_loss:0.149073, rpn_cls:0.002700, rpn_bbox:0.004310, rcnn_cls:0.032306, rcnn_bbox:0.109757, train_time:0.261s, data_time:0.002s
+[32m22 09:52:42 [0me29, 110/200, lr:0.000025, total_loss:0.142221, rpn_cls:0.003160, rpn_bbox:0.006048, rcnn_cls:0.027846, rcnn_bbox:0.105167, train_time:0.256s, data_time:0.002s
+[32m22 09:52:45 [0me29, 120/200, lr:0.000025, total_loss:0.142223, rpn_cls:0.002862, rpn_bbox:0.008529, rcnn_cls:0.024704, rcnn_bbox:0.106129, train_time:0.251s, data_time:0.002s
+[32m22 09:52:49 [0me29, 130/200, lr:0.000025, total_loss:0.138786, rpn_cls:0.002431, rpn_bbox:0.004087, rcnn_cls:0.026277, rcnn_bbox:0.105991, train_time:0.273s, data_time:0.003s
+[32m22 09:52:53 [0me29, 140/200, lr:0.000025, total_loss:0.148521, rpn_cls:0.002511, rpn_bbox:0.004747, rcnn_cls:0.028509, rcnn_bbox:0.112753, train_time:0.255s, data_time:0.002s
+[32m22 09:52:57 [0me29, 150/200, lr:0.000025, total_loss:0.143106, rpn_cls:0.001204, rpn_bbox:0.002510, rcnn_cls:0.028595, rcnn_bbox:0.110797, train_time:0.260s, data_time:0.002s
+[32m22 09:53:00 [0me29, 160/200, lr:0.000025, total_loss:0.128217, rpn_cls:0.002152, rpn_bbox:0.008704, rcnn_cls:0.022198, rcnn_bbox:0.095163, train_time:0.251s, data_time:0.002s
+[32m22 09:53:04 [0me29, 170/200, lr:0.000025, total_loss:0.150615, rpn_cls:0.002650, rpn_bbox:0.004652, rcnn_cls:0.030836, rcnn_bbox:0.112477, train_time:0.249s, data_time:0.003s
+[32m22 09:53:08 [0me29, 180/200, lr:0.000025, total_loss:0.153548, rpn_cls:0.003075, rpn_bbox:0.003453, rcnn_cls:0.028391, rcnn_bbox:0.118629, train_time:0.253s, data_time:0.002s
+[32m22 09:53:11 [0me29, 190/200, lr:0.000025, total_loss:0.134452, rpn_cls:0.002140, rpn_bbox:0.004526, rcnn_cls:0.024247, rcnn_bbox:0.103539, train_time:0.250s, data_time:0.002s
+[32m22 09:53:16 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_29.pkl
+[32m22 09:53:16 [0me30, 0/200, lr:0.000025, total_loss:0.139665, rpn_cls:0.004307, rpn_bbox:0.003481, rcnn_cls:0.045547, rcnn_bbox:0.086330, train_time:0.261s, data_time:0.002s
+[32m22 09:53:20 [0me30, 10/200, lr:0.000025, total_loss:0.144466, rpn_cls:0.002672, rpn_bbox:0.006482, rcnn_cls:0.025432, rcnn_bbox:0.109880, train_time:0.263s, data_time:0.002s
+[32m22 09:53:24 [0me30, 20/200, lr:0.000025, total_loss:0.152867, rpn_cls:0.002050, rpn_bbox:0.002984, rcnn_cls:0.028419, rcnn_bbox:0.119413, train_time:0.271s, data_time:0.002s
+[32m22 09:53:28 [0me30, 30/200, lr:0.000025, total_loss:0.144197, rpn_cls:0.003199, rpn_bbox:0.008545, rcnn_cls:0.029676, rcnn_bbox:0.102777, train_time:0.260s, data_time:0.002s
+[32m22 09:53:32 [0me30, 40/200, lr:0.000025, total_loss:0.148109, rpn_cls:0.004962, rpn_bbox:0.009087, rcnn_cls:0.042953, rcnn_bbox:0.091107, train_time:0.279s, data_time:0.002s
+[32m22 09:53:36 [0me30, 50/200, lr:0.000025, total_loss:0.137663, rpn_cls:0.002929, rpn_bbox:0.008529, rcnn_cls:0.024401, rcnn_bbox:0.101805, train_time:0.252s, data_time:0.002s
+[32m22 09:53:39 [0me30, 60/200, lr:0.000025, total_loss:0.147432, rpn_cls:0.002472, rpn_bbox:0.005311, rcnn_cls:0.032502, rcnn_bbox:0.107148, train_time:0.266s, data_time:0.002s
+[32m22 09:53:43 [0me30, 70/200, lr:0.000025, total_loss:0.149620, rpn_cls:0.003343, rpn_bbox:0.004393, rcnn_cls:0.029181, rcnn_bbox:0.112704, train_time:0.262s, data_time:0.003s
+[32m22 09:53:47 [0me30, 80/200, lr:0.000025, total_loss:0.152821, rpn_cls:0.002718, rpn_bbox:0.005025, rcnn_cls:0.031323, rcnn_bbox:0.113755, train_time:0.252s, data_time:0.002s
+[32m22 09:53:51 [0me30, 90/200, lr:0.000025, total_loss:0.151181, rpn_cls:0.003103, rpn_bbox:0.008805, rcnn_cls:0.027464, rcnn_bbox:0.111809, train_time:0.268s, data_time:0.002s
+[32m22 09:53:55 [0me30, 100/200, lr:0.000025, total_loss:0.166077, rpn_cls:0.006878, rpn_bbox:0.009673, rcnn_cls:0.033798, rcnn_bbox:0.115728, train_time:0.274s, data_time:0.002s
+[32m22 09:53:58 [0me30, 110/200, lr:0.000025, total_loss:0.143200, rpn_cls:0.002373, rpn_bbox:0.005346, rcnn_cls:0.030811, rcnn_bbox:0.104670, train_time:0.259s, data_time:0.002s
+[32m22 09:54:02 [0me30, 120/200, lr:0.000025, total_loss:0.133030, rpn_cls:0.002930, rpn_bbox:0.012329, rcnn_cls:0.025956, rcnn_bbox:0.091815, train_time:0.266s, data_time:0.002s
+[32m22 09:54:06 [0me30, 130/200, lr:0.000025, total_loss:0.170448, rpn_cls:0.003936, rpn_bbox:0.005028, rcnn_cls:0.029937, rcnn_bbox:0.131547, train_time:0.265s, data_time:0.003s
+[32m22 09:54:10 [0me30, 140/200, lr:0.000025, total_loss:0.155336, rpn_cls:0.002804, rpn_bbox:0.005766, rcnn_cls:0.047815, rcnn_bbox:0.098950, train_time:0.275s, data_time:0.002s
+[32m22 09:54:14 [0me30, 150/200, lr:0.000025, total_loss:0.162253, rpn_cls:0.006724, rpn_bbox:0.003627, rcnn_cls:0.036597, rcnn_bbox:0.115305, train_time:0.276s, data_time:0.002s
+[32m22 09:54:18 [0me30, 160/200, lr:0.000025, total_loss:0.134346, rpn_cls:0.002467, rpn_bbox:0.004095, rcnn_cls:0.028102, rcnn_bbox:0.099682, train_time:0.258s, data_time:0.002s
+[32m22 09:54:21 [0me30, 170/200, lr:0.000025, total_loss:0.154779, rpn_cls:0.003034, rpn_bbox:0.003404, rcnn_cls:0.029709, rcnn_bbox:0.118633, train_time:0.261s, data_time:0.002s
+[32m22 09:54:25 [0me30, 180/200, lr:0.000025, total_loss:0.143581, rpn_cls:0.003325, rpn_bbox:0.004351, rcnn_cls:0.029463, rcnn_bbox:0.106442, train_time:0.262s, data_time:0.002s
+[32m22 09:54:29 [0me30, 190/200, lr:0.000025, total_loss:0.160500, rpn_cls:0.004452, rpn_bbox:0.005737, rcnn_cls:0.028648, rcnn_bbox:0.121664, train_time:0.251s, data_time:0.003s
+[32m22 09:54:33 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_30.pkl
+[32m22 09:54:33 [0me31, 0/200, lr:0.000025, total_loss:0.150477, rpn_cls:0.004095, rpn_bbox:0.003067, rcnn_cls:0.027466, rcnn_bbox:0.115849, train_time:0.211s, data_time:0.001s
+[32m22 09:54:37 [0me31, 10/200, lr:0.000025, total_loss:0.137360, rpn_cls:0.003025, rpn_bbox:0.004855, rcnn_cls:0.025039, rcnn_bbox:0.104442, train_time:0.256s, data_time:0.003s
+[32m22 09:54:41 [0me31, 20/200, lr:0.000025, total_loss:0.135681, rpn_cls:0.003224, rpn_bbox:0.011024, rcnn_cls:0.020936, rcnn_bbox:0.100497, train_time:0.269s, data_time:0.002s
+[32m22 09:54:45 [0me31, 30/200, lr:0.000025, total_loss:0.140406, rpn_cls:0.002081, rpn_bbox:0.006998, rcnn_cls:0.027231, rcnn_bbox:0.104096, train_time:0.269s, data_time:0.002s
+[32m22 09:54:49 [0me31, 40/200, lr:0.000025, total_loss:0.176350, rpn_cls:0.001818, rpn_bbox:0.003656, rcnn_cls:0.053879, rcnn_bbox:0.116996, train_time:0.256s, data_time:0.002s
+[32m22 09:54:52 [0me31, 50/200, lr:0.000025, total_loss:0.143764, rpn_cls:0.003722, rpn_bbox:0.007279, rcnn_cls:0.024290, rcnn_bbox:0.108474, train_time:0.247s, data_time:0.002s
+[32m22 09:54:56 [0me31, 60/200, lr:0.000025, total_loss:0.141283, rpn_cls:0.001926, rpn_bbox:0.003248, rcnn_cls:0.028250, rcnn_bbox:0.107859, train_time:0.229s, data_time:0.002s
+[32m22 09:54:59 [0me31, 70/200, lr:0.000025, total_loss:0.148562, rpn_cls:0.002881, rpn_bbox:0.005605, rcnn_cls:0.027315, rcnn_bbox:0.112761, train_time:0.245s, data_time:0.002s
+[32m22 09:55:03 [0me31, 80/200, lr:0.000025, total_loss:0.126680, rpn_cls:0.003046, rpn_bbox:0.003690, rcnn_cls:0.021410, rcnn_bbox:0.098535, train_time:0.242s, data_time:0.002s
+[32m22 09:55:07 [0me31, 90/200, lr:0.000025, total_loss:0.150929, rpn_cls:0.003467, rpn_bbox:0.005729, rcnn_cls:0.037563, rcnn_bbox:0.104169, train_time:0.244s, data_time:0.002s
+[32m22 09:55:10 [0me31, 100/200, lr:0.000025, total_loss:0.137179, rpn_cls:0.001980, rpn_bbox:0.005021, rcnn_cls:0.027103, rcnn_bbox:0.103076, train_time:0.225s, data_time:0.002s
+[32m22 09:55:14 [0me31, 110/200, lr:0.000025, total_loss:0.149774, rpn_cls:0.003129, rpn_bbox:0.005363, rcnn_cls:0.024576, rcnn_bbox:0.116707, train_time:0.270s, data_time:0.002s
+[32m22 09:55:18 [0me31, 120/200, lr:0.000025, total_loss:0.141032, rpn_cls:0.002171, rpn_bbox:0.007221, rcnn_cls:0.026642, rcnn_bbox:0.104999, train_time:0.247s, data_time:0.002s
+[32m22 09:55:23 [0me31, 130/200, lr:0.000025, total_loss:0.149118, rpn_cls:0.003938, rpn_bbox:0.007469, rcnn_cls:0.031507, rcnn_bbox:0.106203, train_time:0.286s, data_time:0.102s
+[32m22 09:55:26 [0me31, 140/200, lr:0.000025, total_loss:0.130590, rpn_cls:0.002261, rpn_bbox:0.007133, rcnn_cls:0.023878, rcnn_bbox:0.097318, train_time:0.265s, data_time:0.003s
+[32m22 09:55:30 [0me31, 150/200, lr:0.000025, total_loss:0.146580, rpn_cls:0.001945, rpn_bbox:0.008343, rcnn_cls:0.024063, rcnn_bbox:0.112230, train_time:0.279s, data_time:0.002s
+[32m22 09:55:34 [0me31, 160/200, lr:0.000025, total_loss:0.154737, rpn_cls:0.004463, rpn_bbox:0.005278, rcnn_cls:0.030785, rcnn_bbox:0.114211, train_time:0.278s, data_time:0.004s
+[32m22 09:55:38 [0me31, 170/200, lr:0.000025, total_loss:0.137181, rpn_cls:0.003400, rpn_bbox:0.003277, rcnn_cls:0.026618, rcnn_bbox:0.103887, train_time:0.264s, data_time:0.002s
+[32m22 09:55:42 [0me31, 180/200, lr:0.000025, total_loss:0.134670, rpn_cls:0.002891, rpn_bbox:0.008105, rcnn_cls:0.026124, rcnn_bbox:0.097550, train_time:0.266s, data_time:0.003s
+[32m22 09:55:46 [0me31, 190/200, lr:0.000025, total_loss:0.161199, rpn_cls:0.007570, rpn_bbox:0.007207, rcnn_cls:0.030830, rcnn_bbox:0.115593, train_time:0.247s, data_time:0.002s
+[32m22 09:55:51 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_31.pkl
+[32m22 09:55:51 [0me32, 0/200, lr:0.000025, total_loss:0.125018, rpn_cls:0.001829, rpn_bbox:0.002234, rcnn_cls:0.036584, rcnn_bbox:0.084370, train_time:0.561s, data_time:0.005s
+[32m22 09:55:55 [0me32, 10/200, lr:0.000025, total_loss:0.127852, rpn_cls:0.002461, rpn_bbox:0.007147, rcnn_cls:0.025132, rcnn_bbox:0.093112, train_time:0.259s, data_time:0.002s
+[32m22 09:55:59 [0me32, 20/200, lr:0.000025, total_loss:0.145039, rpn_cls:0.002326, rpn_bbox:0.006428, rcnn_cls:0.032160, rcnn_bbox:0.104125, train_time:0.244s, data_time:0.003s
+[32m22 09:56:03 [0me32, 30/200, lr:0.000025, total_loss:0.156734, rpn_cls:0.004197, rpn_bbox:0.010129, rcnn_cls:0.033475, rcnn_bbox:0.108933, train_time:0.266s, data_time:0.014s
+[32m22 09:56:06 [0me32, 40/200, lr:0.000025, total_loss:0.156181, rpn_cls:0.001559, rpn_bbox:0.003261, rcnn_cls:0.031811, rcnn_bbox:0.119549, train_time:0.269s, data_time:0.002s
+[32m22 09:56:10 [0me32, 50/200, lr:0.000025, total_loss:0.154395, rpn_cls:0.003980, rpn_bbox:0.004636, rcnn_cls:0.029092, rcnn_bbox:0.116688, train_time:0.259s, data_time:0.003s
+[32m22 09:56:14 [0me32, 60/200, lr:0.000025, total_loss:0.153691, rpn_cls:0.003249, rpn_bbox:0.004541, rcnn_cls:0.040505, rcnn_bbox:0.105396, train_time:0.251s, data_time:0.003s
+[32m22 09:56:18 [0me32, 70/200, lr:0.000025, total_loss:0.157509, rpn_cls:0.001238, rpn_bbox:0.003544, rcnn_cls:0.030025, rcnn_bbox:0.122702, train_time:0.284s, data_time:0.002s
+[32m22 09:56:21 [0me32, 80/200, lr:0.000025, total_loss:0.142828, rpn_cls:0.003725, rpn_bbox:0.007580, rcnn_cls:0.029649, rcnn_bbox:0.101874, train_time:0.249s, data_time:0.003s
+[32m22 09:56:25 [0me32, 90/200, lr:0.000025, total_loss:0.149517, rpn_cls:0.002984, rpn_bbox:0.003514, rcnn_cls:0.029799, rcnn_bbox:0.113220, train_time:0.267s, data_time:0.003s
+[32m22 09:56:29 [0me32, 100/200, lr:0.000025, total_loss:0.146742, rpn_cls:0.001640, rpn_bbox:0.003824, rcnn_cls:0.029028, rcnn_bbox:0.112250, train_time:0.243s, data_time:0.002s
+[32m22 09:56:32 [0me32, 110/200, lr:0.000025, total_loss:0.144022, rpn_cls:0.002498, rpn_bbox:0.005216, rcnn_cls:0.032193, rcnn_bbox:0.104115, train_time:0.253s, data_time:0.002s
+[32m22 09:56:36 [0me32, 120/200, lr:0.000025, total_loss:0.152430, rpn_cls:0.004897, rpn_bbox:0.010010, rcnn_cls:0.031610, rcnn_bbox:0.105913, train_time:0.275s, data_time:0.002s
+[32m22 09:56:40 [0me32, 130/200, lr:0.000025, total_loss:0.141019, rpn_cls:0.003438, rpn_bbox:0.007349, rcnn_cls:0.023452, rcnn_bbox:0.106780, train_time:0.259s, data_time:0.033s
+[32m22 09:56:54 [0me32, 140/200, lr:0.000025, total_loss:0.137955, rpn_cls:0.002451, rpn_bbox:0.007547, rcnn_cls:0.025303, rcnn_bbox:0.102654, train_time:0.987s, data_time:0.279s
+[32m22 09:56:58 [0me32, 150/200, lr:0.000025, total_loss:0.151484, rpn_cls:0.004150, rpn_bbox:0.003485, rcnn_cls:0.027380, rcnn_bbox:0.116469, train_time:0.242s, data_time:0.002s
+[32m22 09:57:02 [0me32, 160/200, lr:0.000025, total_loss:0.136313, rpn_cls:0.002858, rpn_bbox:0.005206, rcnn_cls:0.024124, rcnn_bbox:0.104124, train_time:0.252s, data_time:0.003s
+[32m22 09:57:05 [0me32, 170/200, lr:0.000025, total_loss:0.141371, rpn_cls:0.002848, rpn_bbox:0.007126, rcnn_cls:0.027910, rcnn_bbox:0.103486, train_time:0.267s, data_time:0.002s
+[32m22 09:57:09 [0me32, 180/200, lr:0.000025, total_loss:0.131271, rpn_cls:0.004782, rpn_bbox:0.005909, rcnn_cls:0.022990, rcnn_bbox:0.097590, train_time:0.287s, data_time:0.002s
+[32m22 09:57:13 [0me32, 190/200, lr:0.000025, total_loss:0.145023, rpn_cls:0.001630, rpn_bbox:0.004285, rcnn_cls:0.030270, rcnn_bbox:0.108838, train_time:0.252s, data_time:0.002s
+[32m22 09:57:17 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_32.pkl
+[32m22 09:57:17 [0me33, 0/200, lr:0.000025, total_loss:0.189185, rpn_cls:0.006259, rpn_bbox:0.002794, rcnn_cls:0.042597, rcnn_bbox:0.137535, train_time:0.261s, data_time:0.004s
+[32m22 09:57:21 [0me33, 10/200, lr:0.000025, total_loss:0.149564, rpn_cls:0.002737, rpn_bbox:0.004972, rcnn_cls:0.030297, rcnn_bbox:0.111558, train_time:0.261s, data_time:0.002s
+[32m22 09:57:25 [0me33, 20/200, lr:0.000025, total_loss:0.178713, rpn_cls:0.004532, rpn_bbox:0.006305, rcnn_cls:0.050885, rcnn_bbox:0.116992, train_time:0.237s, data_time:0.002s
+[32m22 09:57:29 [0me33, 30/200, lr:0.000025, total_loss:0.144264, rpn_cls:0.003222, rpn_bbox:0.006367, rcnn_cls:0.030225, rcnn_bbox:0.104450, train_time:0.259s, data_time:0.002s
+[32m22 09:57:32 [0me33, 40/200, lr:0.000025, total_loss:0.159170, rpn_cls:0.001853, rpn_bbox:0.005533, rcnn_cls:0.032278, rcnn_bbox:0.119506, train_time:0.240s, data_time:0.002s
+[32m22 09:57:36 [0me33, 50/200, lr:0.000025, total_loss:0.145033, rpn_cls:0.002223, rpn_bbox:0.006472, rcnn_cls:0.025281, rcnn_bbox:0.111057, train_time:0.236s, data_time:0.002s
+[32m22 09:57:39 [0me33, 60/200, lr:0.000025, total_loss:0.145211, rpn_cls:0.004016, rpn_bbox:0.003071, rcnn_cls:0.025485, rcnn_bbox:0.112639, train_time:0.264s, data_time:0.002s
+[32m22 09:57:43 [0me33, 70/200, lr:0.000025, total_loss:0.156698, rpn_cls:0.003343, rpn_bbox:0.005645, rcnn_cls:0.030574, rcnn_bbox:0.117136, train_time:0.243s, data_time:0.002s
+[32m22 09:57:46 [0me33, 80/200, lr:0.000025, total_loss:0.127910, rpn_cls:0.002953, rpn_bbox:0.005374, rcnn_cls:0.024776, rcnn_bbox:0.094808, train_time:0.234s, data_time:0.002s
+[32m22 09:57:50 [0me33, 90/200, lr:0.000025, total_loss:0.157238, rpn_cls:0.004088, rpn_bbox:0.006464, rcnn_cls:0.045429, rcnn_bbox:0.101257, train_time:0.230s, data_time:0.002s
+[32m22 09:57:53 [0me33, 100/200, lr:0.000025, total_loss:0.147891, rpn_cls:0.001698, rpn_bbox:0.003840, rcnn_cls:0.028310, rcnn_bbox:0.114042, train_time:0.247s, data_time:0.003s
+[32m22 09:57:57 [0me33, 110/200, lr:0.000025, total_loss:0.144621, rpn_cls:0.005377, rpn_bbox:0.011184, rcnn_cls:0.027496, rcnn_bbox:0.100563, train_time:0.230s, data_time:0.003s
+[32m22 09:58:00 [0me33, 120/200, lr:0.000025, total_loss:0.156834, rpn_cls:0.002720, rpn_bbox:0.002571, rcnn_cls:0.032405, rcnn_bbox:0.119139, train_time:0.245s, data_time:0.003s
+[32m22 09:58:04 [0me33, 130/200, lr:0.000025, total_loss:0.144920, rpn_cls:0.005115, rpn_bbox:0.003582, rcnn_cls:0.028439, rcnn_bbox:0.107785, train_time:0.250s, data_time:0.002s
+[32m22 09:58:08 [0me33, 140/200, lr:0.000025, total_loss:0.140673, rpn_cls:0.002369, rpn_bbox:0.007295, rcnn_cls:0.025914, rcnn_bbox:0.105095, train_time:0.246s, data_time:0.002s
+[32m22 09:58:11 [0me33, 150/200, lr:0.000025, total_loss:0.141846, rpn_cls:0.002891, rpn_bbox:0.005440, rcnn_cls:0.026880, rcnn_bbox:0.106635, train_time:0.263s, data_time:0.002s
+[32m22 09:58:15 [0me33, 160/200, lr:0.000025, total_loss:0.144248, rpn_cls:0.002130, rpn_bbox:0.008135, rcnn_cls:0.030880, rcnn_bbox:0.103103, train_time:0.238s, data_time:0.002s
+[32m22 09:58:18 [0me33, 170/200, lr:0.000025, total_loss:0.143342, rpn_cls:0.002235, rpn_bbox:0.003914, rcnn_cls:0.027670, rcnn_bbox:0.109523, train_time:0.231s, data_time:0.002s
+[32m22 09:58:22 [0me33, 180/200, lr:0.000025, total_loss:0.150374, rpn_cls:0.002222, rpn_bbox:0.003755, rcnn_cls:0.031608, rcnn_bbox:0.112790, train_time:0.239s, data_time:0.003s
+[32m22 09:58:26 [0me33, 190/200, lr:0.000025, total_loss:0.120292, rpn_cls:0.002624, rpn_bbox:0.004514, rcnn_cls:0.025139, rcnn_bbox:0.088015, train_time:0.265s, data_time:0.003s
+[32m22 09:58:30 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_33.pkl
+[32m22 09:58:30 [0me34, 0/200, lr:0.000025, total_loss:0.157869, rpn_cls:0.001425, rpn_bbox:0.003503, rcnn_cls:0.028246, rcnn_bbox:0.124695, train_time:0.203s, data_time:0.002s
+[32m22 09:58:34 [0me34, 10/200, lr:0.000025, total_loss:0.164718, rpn_cls:0.001697, rpn_bbox:0.003365, rcnn_cls:0.048398, rcnn_bbox:0.111258, train_time:0.241s, data_time:0.002s
+[32m22 09:58:37 [0me34, 20/200, lr:0.000025, total_loss:0.146085, rpn_cls:0.002714, rpn_bbox:0.008463, rcnn_cls:0.028488, rcnn_bbox:0.106419, train_time:0.250s, data_time:0.002s
+[32m22 09:58:41 [0me34, 30/200, lr:0.000025, total_loss:0.143849, rpn_cls:0.002679, rpn_bbox:0.008720, rcnn_cls:0.033061, rcnn_bbox:0.099389, train_time:0.246s, data_time:0.002s
+[32m22 09:58:45 [0me34, 40/200, lr:0.000025, total_loss:0.133934, rpn_cls:0.002330, rpn_bbox:0.005315, rcnn_cls:0.024677, rcnn_bbox:0.101611, train_time:0.262s, data_time:0.002s
+[32m22 09:58:48 [0me34, 50/200, lr:0.000025, total_loss:0.141805, rpn_cls:0.005811, rpn_bbox:0.008123, rcnn_cls:0.025619, rcnn_bbox:0.102252, train_time:0.222s, data_time:0.001s
+[32m22 09:58:52 [0me34, 60/200, lr:0.000025, total_loss:0.149069, rpn_cls:0.002990, rpn_bbox:0.005898, rcnn_cls:0.030195, rcnn_bbox:0.109986, train_time:0.240s, data_time:0.002s
+[32m22 09:58:55 [0me34, 70/200, lr:0.000025, total_loss:0.147658, rpn_cls:0.002940, rpn_bbox:0.005599, rcnn_cls:0.027149, rcnn_bbox:0.111969, train_time:0.255s, data_time:0.002s
+[32m22 09:58:59 [0me34, 80/200, lr:0.000025, total_loss:0.125206, rpn_cls:0.001695, rpn_bbox:0.003731, rcnn_cls:0.022521, rcnn_bbox:0.097259, train_time:0.255s, data_time:0.002s
+[32m22 09:59:03 [0me34, 90/200, lr:0.000025, total_loss:0.146789, rpn_cls:0.004215, rpn_bbox:0.005412, rcnn_cls:0.027491, rcnn_bbox:0.109671, train_time:0.254s, data_time:0.002s
+[32m22 09:59:06 [0me34, 100/200, lr:0.000025, total_loss:0.144160, rpn_cls:0.003510, rpn_bbox:0.004913, rcnn_cls:0.023391, rcnn_bbox:0.112347, train_time:0.242s, data_time:0.002s
+[32m22 09:59:10 [0me34, 110/200, lr:0.000025, total_loss:0.139972, rpn_cls:0.002284, rpn_bbox:0.007460, rcnn_cls:0.022001, rcnn_bbox:0.108227, train_time:0.244s, data_time:0.002s
+[32m22 09:59:14 [0me34, 120/200, lr:0.000025, total_loss:0.164339, rpn_cls:0.003244, rpn_bbox:0.009300, rcnn_cls:0.031556, rcnn_bbox:0.120239, train_time:0.257s, data_time:0.002s
+[32m22 09:59:17 [0me34, 130/200, lr:0.000025, total_loss:0.156709, rpn_cls:0.003951, rpn_bbox:0.009693, rcnn_cls:0.034115, rcnn_bbox:0.108951, train_time:0.230s, data_time:0.002s
+[32m22 09:59:21 [0me34, 140/200, lr:0.000025, total_loss:0.146457, rpn_cls:0.002990, rpn_bbox:0.007258, rcnn_cls:0.021688, rcnn_bbox:0.114521, train_time:0.244s, data_time:0.002s
+[32m22 09:59:24 [0me34, 150/200, lr:0.000025, total_loss:0.175636, rpn_cls:0.003054, rpn_bbox:0.003620, rcnn_cls:0.043582, rcnn_bbox:0.125380, train_time:0.244s, data_time:0.002s
+[32m22 09:59:28 [0me34, 160/200, lr:0.000025, total_loss:0.151546, rpn_cls:0.003588, rpn_bbox:0.006199, rcnn_cls:0.024970, rcnn_bbox:0.116789, train_time:0.228s, data_time:0.002s
+[32m22 09:59:31 [0me34, 170/200, lr:0.000025, total_loss:0.145420, rpn_cls:0.003669, rpn_bbox:0.006527, rcnn_cls:0.029033, rcnn_bbox:0.106191, train_time:0.247s, data_time:0.002s
+[32m22 09:59:35 [0me34, 180/200, lr:0.000025, total_loss:0.122026, rpn_cls:0.002826, rpn_bbox:0.004364, rcnn_cls:0.018518, rcnn_bbox:0.096318, train_time:0.248s, data_time:0.002s
+[32m22 09:59:39 [0me34, 190/200, lr:0.000025, total_loss:0.157951, rpn_cls:0.004010, rpn_bbox:0.006160, rcnn_cls:0.040419, rcnn_bbox:0.107361, train_time:0.254s, data_time:0.003s
+[32m22 09:59:43 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_34.pkl
+[32m22 09:59:43 [0me35, 0/200, lr:0.000025, total_loss:0.124418, rpn_cls:0.002913, rpn_bbox:0.003928, rcnn_cls:0.018254, rcnn_bbox:0.099323, train_time:0.195s, data_time:0.001s
+[32m22 09:59:47 [0me35, 10/200, lr:0.000025, total_loss:0.158793, rpn_cls:0.001489, rpn_bbox:0.003344, rcnn_cls:0.036381, rcnn_bbox:0.117578, train_time:0.251s, data_time:0.002s
+[32m22 09:59:50 [0me35, 20/200, lr:0.000025, total_loss:0.138810, rpn_cls:0.001350, rpn_bbox:0.003314, rcnn_cls:0.023721, rcnn_bbox:0.110424, train_time:0.252s, data_time:0.002s
+[32m22 09:59:54 [0me35, 30/200, lr:0.000025, total_loss:0.139086, rpn_cls:0.003157, rpn_bbox:0.006421, rcnn_cls:0.026901, rcnn_bbox:0.102608, train_time:0.257s, data_time:0.003s
+[32m22 09:59:58 [0me35, 40/200, lr:0.000025, total_loss:0.139366, rpn_cls:0.002979, rpn_bbox:0.008006, rcnn_cls:0.023852, rcnn_bbox:0.104528, train_time:0.262s, data_time:0.002s
+[32m22 10:00:02 [0me35, 50/200, lr:0.000025, total_loss:0.154470, rpn_cls:0.002570, rpn_bbox:0.006084, rcnn_cls:0.032073, rcnn_bbox:0.113744, train_time:0.247s, data_time:0.002s
+[32m22 10:00:05 [0me35, 60/200, lr:0.000025, total_loss:0.147110, rpn_cls:0.004597, rpn_bbox:0.005876, rcnn_cls:0.031344, rcnn_bbox:0.105293, train_time:0.253s, data_time:0.002s
+[32m22 10:00:09 [0me35, 70/200, lr:0.000025, total_loss:0.135984, rpn_cls:0.004195, rpn_bbox:0.003826, rcnn_cls:0.024862, rcnn_bbox:0.103101, train_time:0.245s, data_time:0.002s
+[32m22 10:00:13 [0me35, 80/200, lr:0.000025, total_loss:0.166833, rpn_cls:0.001667, rpn_bbox:0.004559, rcnn_cls:0.044731, rcnn_bbox:0.115876, train_time:0.246s, data_time:0.003s
+[32m22 10:00:16 [0me35, 90/200, lr:0.000025, total_loss:0.143471, rpn_cls:0.002289, rpn_bbox:0.005500, rcnn_cls:0.028152, rcnn_bbox:0.107530, train_time:0.270s, data_time:0.002s
+[32m22 10:00:20 [0me35, 100/200, lr:0.000025, total_loss:0.150841, rpn_cls:0.003191, rpn_bbox:0.003680, rcnn_cls:0.030903, rcnn_bbox:0.113067, train_time:0.233s, data_time:0.002s
+[32m22 10:00:24 [0me35, 110/200, lr:0.000025, total_loss:0.140991, rpn_cls:0.001657, rpn_bbox:0.006927, rcnn_cls:0.035977, rcnn_bbox:0.096430, train_time:0.248s, data_time:0.002s
+[32m22 10:00:27 [0me35, 120/200, lr:0.000025, total_loss:0.153029, rpn_cls:0.002831, rpn_bbox:0.008462, rcnn_cls:0.031378, rcnn_bbox:0.110358, train_time:0.244s, data_time:0.002s
+[32m22 10:00:31 [0me35, 130/200, lr:0.000025, total_loss:0.157386, rpn_cls:0.004008, rpn_bbox:0.007465, rcnn_cls:0.026589, rcnn_bbox:0.119324, train_time:0.255s, data_time:0.003s
+[32m22 10:00:34 [0me35, 140/200, lr:0.000025, total_loss:0.151330, rpn_cls:0.001445, rpn_bbox:0.003233, rcnn_cls:0.025458, rcnn_bbox:0.121194, train_time:0.230s, data_time:0.002s
+[32m22 10:00:38 [0me35, 150/200, lr:0.000025, total_loss:0.145034, rpn_cls:0.003686, rpn_bbox:0.004829, rcnn_cls:0.024492, rcnn_bbox:0.112027, train_time:0.248s, data_time:0.002s
+[32m22 10:00:42 [0me35, 160/200, lr:0.000025, total_loss:0.145168, rpn_cls:0.003152, rpn_bbox:0.004469, rcnn_cls:0.032356, rcnn_bbox:0.105191, train_time:0.254s, data_time:0.002s
+[32m22 10:00:45 [0me35, 170/200, lr:0.000025, total_loss:0.144408, rpn_cls:0.004430, rpn_bbox:0.007745, rcnn_cls:0.028573, rcnn_bbox:0.103661, train_time:0.244s, data_time:0.002s
+[32m22 10:00:49 [0me35, 180/200, lr:0.000025, total_loss:0.128179, rpn_cls:0.002573, rpn_bbox:0.004642, rcnn_cls:0.019596, rcnn_bbox:0.101367, train_time:0.254s, data_time:0.003s
+[32m22 10:00:53 [0me35, 190/200, lr:0.000025, total_loss:0.161687, rpn_cls:0.002989, rpn_bbox:0.006532, rcnn_cls:0.048785, rcnn_bbox:0.103382, train_time:0.254s, data_time:0.002s
+[32m22 10:00:57 [0mdump weights to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_35.pkl
