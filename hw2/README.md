@@ -26,7 +26,7 @@ Faster R-CNN预训练模型最后的回归和预测层的参数没有读入(输�
 Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较好，rcnn_bbox一开始比较低。回归Loss都是L1 Loss
 ![image](/hw2/pic/test.png)
 
-最终[测试结果](/hw2/pic/test_log.txt)（第36个epoch）### AP50为0.128
+最终[测试结果](/hw2/pic/test_log.txt)（第36个epoch）** AP50为0.128 **
 
 将 models/faster_rcnn.py中的self.rpn_smooth_l1_beta和self.rcnn_smooth_l1_beta设为1，回归loss更改为smooth l1,但出了bug，beta改为1会报错
 ![image](/hw2/pic/bug.png)
