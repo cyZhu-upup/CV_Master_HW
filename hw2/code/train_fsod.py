@@ -87,7 +87,7 @@ def worker(args):
             continue
         if "bottom_up.layer1" in name and model.cfg.backbone_freeze_at >= 2: # 默认为2
             continue
-        if 'pred_delta' or 'pred_cls' in name:
+        if 'pred_delta' in name or 'pred_cls' in name:
             params_with_grad.append(param) # 冻结ResNet的第一层和第一个block
 
     opt = SGD(
