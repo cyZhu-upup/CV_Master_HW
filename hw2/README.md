@@ -48,5 +48,5 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 在课程中老师指出这种基于Fine Tune的做法是有问题的，主要在于RPN的权重被冻结，会把Novel Class当成是背景处理，我对此最简单的改法是不冻结RPN模块的参数/TODO
 
 # 提升任务
-architecture更换为RetinaNet，参数不做更改
+architecture更换为RetinaNet,backbone = ResNet50，参数不做更改
 [测试结果](/hw2/pic/retina_test.txt)AP50 = 0.105，AP0.5:0.95 = 0.073,AP75 = 0.081，还是要低于Faster RCNN的
