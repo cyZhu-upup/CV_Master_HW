@@ -33,6 +33,8 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 
 其他参数 参考PaddleDet和MMDet应该都是最优参数了
 
+其他尝试：backbone换成ResNet101，效果不佳
+
 # FSOD:
 
 文章思路：用大量的Base Images训练出一个模型，再用少量的Base Shots和Novel Shots微调预训练模型中的最后一层:box classifier 和box regressor。
