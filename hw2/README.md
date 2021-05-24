@@ -40,3 +40,7 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 作者还提出了一个基于cosine similarity的分类器，在微调阶段替代线性层。
 
 对于COCO数据集，作者用了60类作为base class，20类作为novel class。在本次作业中，用的是object365数据集，理应先在object365数据集上训练出一个模型再用所给的训练集，加上少量的base class进行微调。这里我提供的数据就这些，所以偷懒了，直接用COCO预训练模型，用所给训练集做fine-tune，这样做的缺点是最后一层输出层的分类数不一样，所以只能固定前面的权重，最后一层重新训练。
+
+# 提升任务
+architecture更换为RetinaNet，参数不做更改
+[测试结果](/hw2/pic/retina_test.txt)AP50为0.105，AP0.5:0.95=0.073,AP75=0.081，还是要低于Faster RCNN的
