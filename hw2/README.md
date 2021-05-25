@@ -19,7 +19,7 @@
 
 总体的loss肯定是不断下降的，然而回归loss，主要是rcnn的bbox_loss不降反增
 
-观察源码，训练前，ResNet50的第一层卷积和第一个Block(通道为64的3个Bottleneck)被冻结，和paddledet的
+观察源码，训练前，ResNet50的第一层卷积和第一个Block(通道为64的3个Bottleneck)被冻结
 
 Faster R-CNN预训练模型最后的回归和预测层的参数没有读入(输出的类别不一样)。
 
