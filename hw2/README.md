@@ -46,6 +46,7 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 # 有误，修改中
 [测试结果](/hw2/pic/fsod_test.txt)AP50 = 0.204, AP75 = 0.109, AP0.5:0.95 = 0.112，比上边的Faster RCNN要高，但是由于做法是有问题的，所以离paper的结果要低不少。
 ![image](/hw2/pic/fsod_test.png)
+)
 
 在课程中老师指出这种基于Fine Tune的做法是有问题的，主要在于RPN的权重被冻结，会把Novel Class当成是背景处理，我对此最简单的改法是不冻结RPN模块的参数/TODO
 
