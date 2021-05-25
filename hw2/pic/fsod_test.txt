@@ -1,0 +1,1401 @@
+Matplotlib is building the font cache; this may take a moment.
+[32m24 11:11:01 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_0.json finished, start evaluation!
+[32m24 11:11:21 [0m--------------mmAP--------------
+[32m24 11:11:21 [0m|	AP	|	0.069	|
+[32m24 11:11:21 [0m|	AP@0.5	|	0.167	|
+[32m24 11:11:21 [0m|	AP@0.75	|	0.040	|
+[32m24 11:11:21 [0m|	APs	|	-1.000	|
+[32m24 11:11:21 [0m|	APm	|	-1.000	|
+[32m24 11:11:21 [0m|	APl	|	0.156	|
+[32m24 11:11:21 [0m|	AR@1	|	0.101	|
+[32m24 11:11:21 [0m|	AR@10	|	0.223	|
+[32m24 11:11:21 [0m|	AR@100	|	0.252	|
+[32m24 11:11:21 [0m|	ARs	|	-1.000	|
+[32m24 11:11:21 [0m|	ARm	|	-1.000	|
+[32m24 11:11:21 [0m|	ARl	|	0.252	|
+[32m24 11:11:21 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.15s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.57s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.67s).
+Accumulating evaluation results...
+DONE (t=3.05s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.069
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.167
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.040
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.156
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.101
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.223
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.252
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.252
+[32m24 11:14:51 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_1.json finished, start evaluation!
+[32m24 11:15:11 [0m--------------mmAP--------------
+[32m24 11:15:11 [0m|	AP	|	0.068	|
+[32m24 11:15:11 [0m|	AP@0.5	|	0.174	|
+[32m24 11:15:11 [0m|	AP@0.75	|	0.035	|
+[32m24 11:15:11 [0m|	APs	|	-1.000	|
+[32m24 11:15:11 [0m|	APm	|	-1.000	|
+[32m24 11:15:11 [0m|	APl	|	0.161	|
+[32m24 11:15:11 [0m|	AR@1	|	0.098	|
+[32m24 11:15:11 [0m|	AR@10	|	0.230	|
+[32m24 11:15:11 [0m|	AR@100	|	0.268	|
+[32m24 11:15:11 [0m|	ARs	|	-1.000	|
+[32m24 11:15:11 [0m|	ARm	|	-1.000	|
+[32m24 11:15:11 [0m|	ARl	|	0.268	|
+[32m24 11:15:11 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.77s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.75s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.54s).
+Accumulating evaluation results...
+DONE (t=3.11s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.068
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.174
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.035
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.161
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.098
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.230
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.268
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.268
+[32m24 11:18:37 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_2.json finished, start evaluation!
+[32m24 11:18:58 [0m--------------mmAP--------------
+[32m24 11:18:58 [0m|	AP	|	0.071	|
+[32m24 11:18:58 [0m|	AP@0.5	|	0.176	|
+[32m24 11:18:58 [0m|	AP@0.75	|	0.040	|
+[32m24 11:18:58 [0m|	APs	|	-1.000	|
+[32m24 11:18:58 [0m|	APm	|	-1.000	|
+[32m24 11:18:58 [0m|	APl	|	0.173	|
+[32m24 11:18:58 [0m|	AR@1	|	0.100	|
+[32m24 11:18:58 [0m|	AR@10	|	0.247	|
+[32m24 11:18:58 [0m|	AR@100	|	0.287	|
+[32m24 11:18:58 [0m|	ARs	|	-1.000	|
+[32m24 11:18:58 [0m|	ARm	|	-1.000	|
+[32m24 11:18:58 [0m|	ARl	|	0.287	|
+[32m24 11:18:58 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.09s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=3.15s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.77s).
+Accumulating evaluation results...
+DONE (t=3.39s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.071
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.176
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.040
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.173
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.100
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.247
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.287
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.287
+[32m24 11:22:27 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_3.json finished, start evaluation!
+[32m24 11:22:52 [0m--------------mmAP--------------
+[32m24 11:22:52 [0m|	AP	|	0.078	|
+[32m24 11:22:52 [0m|	AP@0.5	|	0.188	|
+[32m24 11:22:52 [0m|	AP@0.75	|	0.040	|
+[32m24 11:22:52 [0m|	APs	|	-1.000	|
+[32m24 11:22:52 [0m|	APm	|	-1.000	|
+[32m24 11:22:52 [0m|	APl	|	0.177	|
+[32m24 11:22:52 [0m|	AR@1	|	0.104	|
+[32m24 11:22:52 [0m|	AR@10	|	0.252	|
+[32m24 11:22:52 [0m|	AR@100	|	0.291	|
+[32m24 11:22:52 [0m|	ARs	|	-1.000	|
+[32m24 11:22:52 [0m|	ARm	|	-1.000	|
+[32m24 11:22:52 [0m|	ARl	|	0.291	|
+[32m24 11:22:52 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.79s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=17.32s).
+Accumulating evaluation results...
+DONE (t=3.87s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.078
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.188
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.040
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.177
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.104
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.252
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.291
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.291
+[32m24 11:26:22 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_4.json finished, start evaluation!
+[32m24 11:26:45 [0m--------------mmAP--------------
+[32m24 11:26:45 [0m|	AP	|	0.075	|
+[32m24 11:26:45 [0m|	AP@0.5	|	0.180	|
+[32m24 11:26:45 [0m|	AP@0.75	|	0.048	|
+[32m24 11:26:45 [0m|	APs	|	-1.000	|
+[32m24 11:26:45 [0m|	APm	|	-1.000	|
+[32m24 11:26:45 [0m|	APl	|	0.171	|
+[32m24 11:26:45 [0m|	AR@1	|	0.103	|
+[32m24 11:26:45 [0m|	AR@10	|	0.245	|
+[32m24 11:26:45 [0m|	AR@100	|	0.285	|
+[32m24 11:26:45 [0m|	ARs	|	-1.000	|
+[32m24 11:26:45 [0m|	ARm	|	-1.000	|
+[32m24 11:26:45 [0m|	ARl	|	0.285	|
+[32m24 11:26:45 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.74s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.59s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=15.33s).
+Accumulating evaluation results...
+DONE (t=3.67s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.075
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.180
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.048
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.171
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.103
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.245
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.285
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.285
+[32m24 11:30:10 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_5.json finished, start evaluation!
+[32m24 11:30:32 [0m--------------mmAP--------------
+[32m24 11:30:32 [0m|	AP	|	0.071	|
+[32m24 11:30:32 [0m|	AP@0.5	|	0.186	|
+[32m24 11:30:32 [0m|	AP@0.75	|	0.034	|
+[32m24 11:30:32 [0m|	APs	|	-1.000	|
+[32m24 11:30:32 [0m|	APm	|	-1.000	|
+[32m24 11:30:32 [0m|	APl	|	0.179	|
+[32m24 11:30:32 [0m|	AR@1	|	0.105	|
+[32m24 11:30:32 [0m|	AR@10	|	0.255	|
+[32m24 11:30:32 [0m|	AR@100	|	0.296	|
+[32m24 11:30:32 [0m|	ARs	|	-1.000	|
+[32m24 11:30:32 [0m|	ARm	|	-1.000	|
+[32m24 11:30:32 [0m|	ARl	|	0.296	|
+[32m24 11:30:32 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.05s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=1.76s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=15.48s).
+Accumulating evaluation results...
+DONE (t=3.82s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.071
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.186
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.034
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.179
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.105
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.255
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.296
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.296
+[32m24 11:33:59 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_6.json finished, start evaluation!
+[32m24 11:34:23 [0m--------------mmAP--------------
+[32m24 11:34:23 [0m|	AP	|	0.076	|
+[32m24 11:34:23 [0m|	AP@0.5	|	0.186	|
+[32m24 11:34:23 [0m|	AP@0.75	|	0.045	|
+[32m24 11:34:23 [0m|	APs	|	-1.000	|
+[32m24 11:34:23 [0m|	APm	|	-1.000	|
+[32m24 11:34:23 [0m|	APl	|	0.181	|
+[32m24 11:34:23 [0m|	AR@1	|	0.104	|
+[32m24 11:34:23 [0m|	AR@10	|	0.257	|
+[32m24 11:34:23 [0m|	AR@100	|	0.297	|
+[32m24 11:34:23 [0m|	ARs	|	-1.000	|
+[32m24 11:34:23 [0m|	ARm	|	-1.000	|
+[32m24 11:34:23 [0m|	ARl	|	0.297	|
+[32m24 11:34:23 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.13s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.35s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=16.40s).
+Accumulating evaluation results...
+DONE (t=3.75s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.076
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.186
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.045
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.181
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.104
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.257
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.297
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.297
+[32m24 11:37:48 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_7.json finished, start evaluation!
+[32m24 11:38:11 [0m--------------mmAP--------------
+[32m24 11:38:11 [0m|	AP	|	0.066	|
+[32m24 11:38:11 [0m|	AP@0.5	|	0.180	|
+[32m24 11:38:11 [0m|	AP@0.75	|	0.035	|
+[32m24 11:38:11 [0m|	APs	|	-1.000	|
+[32m24 11:38:11 [0m|	APm	|	-1.000	|
+[32m24 11:38:11 [0m|	APl	|	0.170	|
+[32m24 11:38:11 [0m|	AR@1	|	0.099	|
+[32m24 11:38:11 [0m|	AR@10	|	0.245	|
+[32m24 11:38:11 [0m|	AR@100	|	0.287	|
+[32m24 11:38:11 [0m|	ARs	|	-1.000	|
+[32m24 11:38:11 [0m|	ARm	|	-1.000	|
+[32m24 11:38:11 [0m|	ARl	|	0.287	|
+[32m24 11:38:11 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.58s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.44s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=15.63s).
+Accumulating evaluation results...
+DONE (t=3.86s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.066
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.180
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.035
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.170
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.099
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.245
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.287
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.287
+[32m24 11:41:35 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_8.json finished, start evaluation!
+[32m24 11:41:59 [0m--------------mmAP--------------
+[32m24 11:41:59 [0m|	AP	|	0.071	|
+[32m24 11:41:59 [0m|	AP@0.5	|	0.188	|
+[32m24 11:41:59 [0m|	AP@0.75	|	0.031	|
+[32m24 11:41:59 [0m|	APs	|	-1.000	|
+[32m24 11:41:59 [0m|	APm	|	-1.000	|
+[32m24 11:41:59 [0m|	APl	|	0.170	|
+[32m24 11:41:59 [0m|	AR@1	|	0.104	|
+[32m24 11:41:59 [0m|	AR@10	|	0.245	|
+[32m24 11:41:59 [0m|	AR@100	|	0.283	|
+[32m24 11:41:59 [0m|	ARs	|	-1.000	|
+[32m24 11:41:59 [0m|	ARm	|	-1.000	|
+[32m24 11:41:59 [0m|	ARl	|	0.283	|
+[32m24 11:41:59 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.41s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=16.50s).
+Accumulating evaluation results...
+DONE (t=3.50s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.071
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.188
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.031
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.170
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.104
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.245
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.283
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.283
+[32m24 11:45:25 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_9.json finished, start evaluation!
+[32m24 11:45:48 [0m--------------mmAP--------------
+[32m24 11:45:48 [0m|	AP	|	0.078	|
+[32m24 11:45:48 [0m|	AP@0.5	|	0.190	|
+[32m24 11:45:48 [0m|	AP@0.75	|	0.043	|
+[32m24 11:45:48 [0m|	APs	|	-1.000	|
+[32m24 11:45:48 [0m|	APm	|	-1.000	|
+[32m24 11:45:48 [0m|	APl	|	0.187	|
+[32m24 11:45:48 [0m|	AR@1	|	0.112	|
+[32m24 11:45:48 [0m|	AR@10	|	0.265	|
+[32m24 11:45:48 [0m|	AR@100	|	0.304	|
+[32m24 11:45:48 [0m|	ARs	|	-1.000	|
+[32m24 11:45:48 [0m|	ARm	|	-1.000	|
+[32m24 11:45:48 [0m|	ARl	|	0.304	|
+[32m24 11:45:48 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.07s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.54s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=15.51s).
+Accumulating evaluation results...
+DONE (t=3.36s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.078
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.190
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.043
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.187
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.112
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.265
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.304
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.304
+[32m24 11:49:09 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_10.json finished, start evaluation!
+[32m24 11:49:33 [0m--------------mmAP--------------
+[32m24 11:49:33 [0m|	AP	|	0.091	|
+[32m24 11:49:33 [0m|	AP@0.5	|	0.195	|
+[32m24 11:49:33 [0m|	AP@0.75	|	0.071	|
+[32m24 11:49:33 [0m|	APs	|	-1.000	|
+[32m24 11:49:33 [0m|	APm	|	-1.000	|
+[32m24 11:49:33 [0m|	APl	|	0.201	|
+[32m24 11:49:33 [0m|	AR@1	|	0.122	|
+[32m24 11:49:33 [0m|	AR@10	|	0.282	|
+[32m24 11:49:33 [0m|	AR@100	|	0.322	|
+[32m24 11:49:33 [0m|	ARs	|	-1.000	|
+[32m24 11:49:33 [0m|	ARm	|	-1.000	|
+[32m24 11:49:33 [0m|	ARl	|	0.322	|
+[32m24 11:49:33 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.11s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.96s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=16.49s).
+Accumulating evaluation results...
+DONE (t=3.24s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.091
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.071
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.201
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.122
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.282
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.322
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.322
+[32m24 11:52:51 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_11.json finished, start evaluation!
+[32m24 11:53:12 [0m--------------mmAP--------------
+[32m24 11:53:12 [0m|	AP	|	0.088	|
+[32m24 11:53:12 [0m|	AP@0.5	|	0.195	|
+[32m24 11:53:12 [0m|	AP@0.75	|	0.065	|
+[32m24 11:53:12 [0m|	APs	|	-1.000	|
+[32m24 11:53:12 [0m|	APm	|	-1.000	|
+[32m24 11:53:12 [0m|	APl	|	0.195	|
+[32m24 11:53:12 [0m|	AR@1	|	0.118	|
+[32m24 11:53:12 [0m|	AR@10	|	0.270	|
+[32m24 11:53:12 [0m|	AR@100	|	0.307	|
+[32m24 11:53:12 [0m|	ARs	|	-1.000	|
+[32m24 11:53:12 [0m|	ARm	|	-1.000	|
+[32m24 11:53:12 [0m|	ARl	|	0.307	|
+[32m24 11:53:12 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.09s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.28s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.63s).
+Accumulating evaluation results...
+DONE (t=3.76s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.088
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.065
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.195
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.118
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.270
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.307
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.307
+[32m24 11:56:31 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_12.json finished, start evaluation!
+[32m24 11:56:52 [0m--------------mmAP--------------
+[32m24 11:56:52 [0m|	AP	|	0.085	|
+[32m24 11:56:52 [0m|	AP@0.5	|	0.195	|
+[32m24 11:56:52 [0m|	AP@0.75	|	0.060	|
+[32m24 11:56:52 [0m|	APs	|	-1.000	|
+[32m24 11:56:52 [0m|	APm	|	-1.000	|
+[32m24 11:56:52 [0m|	APl	|	0.189	|
+[32m24 11:56:52 [0m|	AR@1	|	0.113	|
+[32m24 11:56:52 [0m|	AR@10	|	0.259	|
+[32m24 11:56:52 [0m|	AR@100	|	0.298	|
+[32m24 11:56:52 [0m|	ARs	|	-1.000	|
+[32m24 11:56:52 [0m|	ARm	|	-1.000	|
+[32m24 11:56:52 [0m|	ARl	|	0.298	|
+[32m24 11:56:52 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.15s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.53s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.38s).
+Accumulating evaluation results...
+DONE (t=4.11s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.085
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.060
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.189
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.113
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.259
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.298
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.298
+[32m24 12:00:16 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_13.json finished, start evaluation!
+[32m24 12:00:37 [0m--------------mmAP--------------
+[32m24 12:00:37 [0m|	AP	|	0.082	|
+[32m24 12:00:37 [0m|	AP@0.5	|	0.190	|
+[32m24 12:00:37 [0m|	AP@0.75	|	0.053	|
+[32m24 12:00:37 [0m|	APs	|	-1.000	|
+[32m24 12:00:37 [0m|	APm	|	-1.000	|
+[32m24 12:00:37 [0m|	APl	|	0.180	|
+[32m24 12:00:37 [0m|	AR@1	|	0.111	|
+[32m24 12:00:37 [0m|	AR@10	|	0.260	|
+[32m24 12:00:37 [0m|	AR@100	|	0.296	|
+[32m24 12:00:37 [0m|	ARs	|	-1.000	|
+[32m24 12:00:37 [0m|	ARm	|	-1.000	|
+[32m24 12:00:37 [0m|	ARl	|	0.296	|
+[32m24 12:00:37 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.52s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.88s).
+Accumulating evaluation results...
+DONE (t=3.42s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.082
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.190
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.053
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.180
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.111
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.260
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.296
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.296
+[32m24 12:04:01 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_14.json finished, start evaluation!
+[32m24 12:04:21 [0m--------------mmAP--------------
+[32m24 12:04:21 [0m|	AP	|	0.080	|
+[32m24 12:04:21 [0m|	AP@0.5	|	0.193	|
+[32m24 12:04:21 [0m|	AP@0.75	|	0.045	|
+[32m24 12:04:21 [0m|	APs	|	-1.000	|
+[32m24 12:04:21 [0m|	APm	|	-1.000	|
+[32m24 12:04:21 [0m|	APl	|	0.183	|
+[32m24 12:04:21 [0m|	AR@1	|	0.108	|
+[32m24 12:04:21 [0m|	AR@10	|	0.256	|
+[32m24 12:04:21 [0m|	AR@100	|	0.294	|
+[32m24 12:04:21 [0m|	ARs	|	-1.000	|
+[32m24 12:04:21 [0m|	ARm	|	-1.000	|
+[32m24 12:04:21 [0m|	ARl	|	0.294	|
+[32m24 12:04:21 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.28s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.62s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.66s).
+Accumulating evaluation results...
+DONE (t=3.12s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.080
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.193
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.045
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.183
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.108
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.256
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.294
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.294
+[32m24 12:07:47 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_15.json finished, start evaluation!
+[32m24 12:08:08 [0m--------------mmAP--------------
+[32m24 12:08:08 [0m|	AP	|	0.082	|
+[32m24 12:08:08 [0m|	AP@0.5	|	0.194	|
+[32m24 12:08:08 [0m|	AP@0.75	|	0.046	|
+[32m24 12:08:08 [0m|	APs	|	-1.000	|
+[32m24 12:08:08 [0m|	APm	|	-1.000	|
+[32m24 12:08:08 [0m|	APl	|	0.186	|
+[32m24 12:08:08 [0m|	AR@1	|	0.112	|
+[32m24 12:08:08 [0m|	AR@10	|	0.264	|
+[32m24 12:08:08 [0m|	AR@100	|	0.302	|
+[32m24 12:08:08 [0m|	ARs	|	-1.000	|
+[32m24 12:08:08 [0m|	ARm	|	-1.000	|
+[32m24 12:08:08 [0m|	ARl	|	0.302	|
+[32m24 12:08:08 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.17s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.67s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=14.50s).
+Accumulating evaluation results...
+DONE (t=3.10s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.082
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.194
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.046
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.186
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.112
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.264
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.302
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.302
+[32m24 12:11:27 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_16.json finished, start evaluation!
+[32m24 12:11:47 [0m--------------mmAP--------------
+[32m24 12:11:47 [0m|	AP	|	0.081	|
+[32m24 12:11:47 [0m|	AP@0.5	|	0.191	|
+[32m24 12:11:47 [0m|	AP@0.75	|	0.048	|
+[32m24 12:11:47 [0m|	APs	|	-1.000	|
+[32m24 12:11:47 [0m|	APm	|	-1.000	|
+[32m24 12:11:47 [0m|	APl	|	0.185	|
+[32m24 12:11:47 [0m|	AR@1	|	0.110	|
+[32m24 12:11:47 [0m|	AR@10	|	0.259	|
+[32m24 12:11:47 [0m|	AR@100	|	0.297	|
+[32m24 12:11:47 [0m|	ARs	|	-1.000	|
+[32m24 12:11:47 [0m|	ARm	|	-1.000	|
+[32m24 12:11:47 [0m|	ARl	|	0.297	|
+[32m24 12:11:47 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.08s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.68s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.80s).
+Accumulating evaluation results...
+DONE (t=3.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.081
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.191
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.048
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.185
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.110
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.259
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.297
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.297
+[32m24 12:14:58 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_17.json finished, start evaluation!
+[32m24 12:15:17 [0m--------------mmAP--------------
+[32m24 12:15:17 [0m|	AP	|	0.077	|
+[32m24 12:15:17 [0m|	AP@0.5	|	0.192	|
+[32m24 12:15:17 [0m|	AP@0.75	|	0.039	|
+[32m24 12:15:17 [0m|	APs	|	-1.000	|
+[32m24 12:15:17 [0m|	APm	|	-1.000	|
+[32m24 12:15:17 [0m|	APl	|	0.178	|
+[32m24 12:15:17 [0m|	AR@1	|	0.104	|
+[32m24 12:15:17 [0m|	AR@10	|	0.256	|
+[32m24 12:15:17 [0m|	AR@100	|	0.294	|
+[32m24 12:15:17 [0m|	ARs	|	-1.000	|
+[32m24 12:15:17 [0m|	ARm	|	-1.000	|
+[32m24 12:15:17 [0m|	ARl	|	0.294	|
+[32m24 12:15:17 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.36s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.42s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=12.96s).
+Accumulating evaluation results...
+DONE (t=2.86s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.077
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.192
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.039
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.178
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.104
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.256
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.294
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.294
+[32m24 12:18:28 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_18.json finished, start evaluation!
+[32m24 12:18:46 [0m--------------mmAP--------------
+[32m24 12:18:46 [0m|	AP	|	0.083	|
+[32m24 12:18:46 [0m|	AP@0.5	|	0.195	|
+[32m24 12:18:46 [0m|	AP@0.75	|	0.050	|
+[32m24 12:18:46 [0m|	APs	|	-1.000	|
+[32m24 12:18:46 [0m|	APm	|	-1.000	|
+[32m24 12:18:46 [0m|	APl	|	0.186	|
+[32m24 12:18:46 [0m|	AR@1	|	0.109	|
+[32m24 12:18:46 [0m|	AR@10	|	0.258	|
+[32m24 12:18:46 [0m|	AR@100	|	0.296	|
+[32m24 12:18:46 [0m|	ARs	|	-1.000	|
+[32m24 12:18:46 [0m|	ARm	|	-1.000	|
+[32m24 12:18:46 [0m|	ARl	|	0.296	|
+[32m24 12:18:46 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.09s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.13s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.02s).
+Accumulating evaluation results...
+DONE (t=2.92s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.083
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.050
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.186
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.109
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.258
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.296
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.296
+[32m24 12:21:56 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_19.json finished, start evaluation!
+[32m24 12:22:15 [0m--------------mmAP--------------
+[32m24 12:22:15 [0m|	AP	|	0.085	|
+[32m24 12:22:15 [0m|	AP@0.5	|	0.199	|
+[32m24 12:22:15 [0m|	AP@0.75	|	0.050	|
+[32m24 12:22:15 [0m|	APs	|	-1.000	|
+[32m24 12:22:15 [0m|	APm	|	-1.000	|
+[32m24 12:22:15 [0m|	APl	|	0.189	|
+[32m24 12:22:15 [0m|	AR@1	|	0.114	|
+[32m24 12:22:15 [0m|	AR@10	|	0.268	|
+[32m24 12:22:15 [0m|	AR@100	|	0.304	|
+[32m24 12:22:15 [0m|	ARs	|	-1.000	|
+[32m24 12:22:15 [0m|	ARm	|	-1.000	|
+[32m24 12:22:15 [0m|	ARl	|	0.304	|
+[32m24 12:22:15 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.17s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=12.53s).
+Accumulating evaluation results...
+DONE (t=2.96s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.085
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.199
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.050
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.189
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.114
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.268
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.304
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.304
+[32m24 12:25:27 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_20.json finished, start evaluation!
+[32m24 12:25:46 [0m--------------mmAP--------------
+[32m24 12:25:46 [0m|	AP	|	0.085	|
+[32m24 12:25:46 [0m|	AP@0.5	|	0.195	|
+[32m24 12:25:46 [0m|	AP@0.75	|	0.057	|
+[32m24 12:25:46 [0m|	APs	|	-1.000	|
+[32m24 12:25:46 [0m|	APm	|	-1.000	|
+[32m24 12:25:46 [0m|	APl	|	0.189	|
+[32m24 12:25:46 [0m|	AR@1	|	0.113	|
+[32m24 12:25:46 [0m|	AR@10	|	0.264	|
+[32m24 12:25:46 [0m|	AR@100	|	0.303	|
+[32m24 12:25:46 [0m|	ARs	|	-1.000	|
+[32m24 12:25:46 [0m|	ARm	|	-1.000	|
+[32m24 12:25:46 [0m|	ARl	|	0.303	|
+[32m24 12:25:46 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.12s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.25s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.37s).
+Accumulating evaluation results...
+DONE (t=2.93s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.085
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.057
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.189
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.113
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.264
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.303
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.303
+[32m24 12:28:56 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_21.json finished, start evaluation!
+[32m24 12:29:16 [0m--------------mmAP--------------
+[32m24 12:29:16 [0m|	AP	|	0.089	|
+[32m24 12:29:16 [0m|	AP@0.5	|	0.194	|
+[32m24 12:29:16 [0m|	AP@0.75	|	0.064	|
+[32m24 12:29:16 [0m|	APs	|	-1.000	|
+[32m24 12:29:16 [0m|	APm	|	-1.000	|
+[32m24 12:29:16 [0m|	APl	|	0.188	|
+[32m24 12:29:16 [0m|	AR@1	|	0.117	|
+[32m24 12:29:16 [0m|	AR@10	|	0.262	|
+[32m24 12:29:16 [0m|	AR@100	|	0.298	|
+[32m24 12:29:16 [0m|	ARs	|	-1.000	|
+[32m24 12:29:16 [0m|	ARm	|	-1.000	|
+[32m24 12:29:16 [0m|	ARl	|	0.298	|
+[32m24 12:29:16 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.13s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=1.76s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.66s).
+Accumulating evaluation results...
+DONE (t=3.36s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.089
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.194
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.064
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.188
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.117
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.262
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.298
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.298
+[32m24 12:32:56 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_22.json finished, start evaluation!
+[32m24 12:33:17 [0m--------------mmAP--------------
+[32m24 12:33:17 [0m|	AP	|	0.089	|
+[32m24 12:33:17 [0m|	AP@0.5	|	0.198	|
+[32m24 12:33:17 [0m|	AP@0.75	|	0.061	|
+[32m24 12:33:17 [0m|	APs	|	-1.000	|
+[32m24 12:33:17 [0m|	APm	|	-1.000	|
+[32m24 12:33:17 [0m|	APl	|	0.191	|
+[32m24 12:33:17 [0m|	AR@1	|	0.121	|
+[32m24 12:33:17 [0m|	AR@10	|	0.272	|
+[32m24 12:33:17 [0m|	AR@100	|	0.306	|
+[32m24 12:33:17 [0m|	ARs	|	-1.000	|
+[32m24 12:33:17 [0m|	ARm	|	-1.000	|
+[32m24 12:33:17 [0m|	ARl	|	0.306	|
+[32m24 12:33:17 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.22s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=1.85s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=14.01s).
+Accumulating evaluation results...
+DONE (t=3.27s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.089
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.198
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.061
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.191
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.121
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.272
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.306
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.306
+[32m24 12:36:39 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_23.json finished, start evaluation!
+[32m24 12:36:59 [0m--------------mmAP--------------
+[32m24 12:36:59 [0m|	AP	|	0.089	|
+[32m24 12:36:59 [0m|	AP@0.5	|	0.197	|
+[32m24 12:36:59 [0m|	AP@0.75	|	0.064	|
+[32m24 12:36:59 [0m|	APs	|	-1.000	|
+[32m24 12:36:59 [0m|	APm	|	-1.000	|
+[32m24 12:36:59 [0m|	APl	|	0.187	|
+[32m24 12:36:59 [0m|	AR@1	|	0.117	|
+[32m24 12:36:59 [0m|	AR@10	|	0.262	|
+[32m24 12:36:59 [0m|	AR@100	|	0.298	|
+[32m24 12:36:59 [0m|	ARs	|	-1.000	|
+[32m24 12:36:59 [0m|	ARm	|	-1.000	|
+[32m24 12:36:59 [0m|	ARl	|	0.298	|
+[32m24 12:36:59 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.15s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.65s).
+Accumulating evaluation results...
+DONE (t=3.41s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.089
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.197
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.064
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.187
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.117
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.262
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.298
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.298
+[32m24 12:40:22 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_24.json finished, start evaluation!
+[32m24 12:40:42 [0m--------------mmAP--------------
+[32m24 12:40:42 [0m|	AP	|	0.080	|
+[32m24 12:40:42 [0m|	AP@0.5	|	0.195	|
+[32m24 12:40:42 [0m|	AP@0.75	|	0.054	|
+[32m24 12:40:42 [0m|	APs	|	-1.000	|
+[32m24 12:40:42 [0m|	APm	|	-1.000	|
+[32m24 12:40:42 [0m|	APl	|	0.178	|
+[32m24 12:40:42 [0m|	AR@1	|	0.112	|
+[32m24 12:40:42 [0m|	AR@10	|	0.260	|
+[32m24 12:40:42 [0m|	AR@100	|	0.296	|
+[32m24 12:40:42 [0m|	ARs	|	-1.000	|
+[32m24 12:40:42 [0m|	ARm	|	-1.000	|
+[32m24 12:40:42 [0m|	ARl	|	0.296	|
+[32m24 12:40:42 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.18s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.24s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.48s).
+Accumulating evaluation results...
+DONE (t=3.03s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.080
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.195
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.054
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.178
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.112
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.260
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.296
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.296
+[32m24 12:43:58 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_25.json finished, start evaluation!
+[32m24 12:44:18 [0m--------------mmAP--------------
+[32m24 12:44:18 [0m|	AP	|	0.077	|
+[32m24 12:44:18 [0m|	AP@0.5	|	0.186	|
+[32m24 12:44:18 [0m|	AP@0.75	|	0.052	|
+[32m24 12:44:18 [0m|	APs	|	-1.000	|
+[32m24 12:44:18 [0m|	APm	|	-1.000	|
+[32m24 12:44:18 [0m|	APl	|	0.176	|
+[32m24 12:44:18 [0m|	AR@1	|	0.108	|
+[32m24 12:44:18 [0m|	AR@10	|	0.254	|
+[32m24 12:44:18 [0m|	AR@100	|	0.290	|
+[32m24 12:44:18 [0m|	ARs	|	-1.000	|
+[32m24 12:44:18 [0m|	ARm	|	-1.000	|
+[32m24 12:44:18 [0m|	ARl	|	0.290	|
+[32m24 12:44:18 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.22s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.72s).
+Accumulating evaluation results...
+DONE (t=3.70s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.077
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.186
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.052
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.176
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.108
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.254
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.290
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.290
+[32m24 12:47:43 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_26.json finished, start evaluation!
+[32m24 12:48:03 [0m--------------mmAP--------------
+[32m24 12:48:03 [0m|	AP	|	0.078	|
+[32m24 12:48:03 [0m|	AP@0.5	|	0.185	|
+[32m24 12:48:03 [0m|	AP@0.75	|	0.044	|
+[32m24 12:48:03 [0m|	APs	|	-1.000	|
+[32m24 12:48:03 [0m|	APm	|	-1.000	|
+[32m24 12:48:03 [0m|	APl	|	0.174	|
+[32m24 12:48:03 [0m|	AR@1	|	0.112	|
+[32m24 12:48:03 [0m|	AR@10	|	0.254	|
+[32m24 12:48:03 [0m|	AR@100	|	0.288	|
+[32m24 12:48:03 [0m|	ARs	|	-1.000	|
+[32m24 12:48:03 [0m|	ARm	|	-1.000	|
+[32m24 12:48:03 [0m|	ARl	|	0.288	|
+[32m24 12:48:03 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.13s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.47s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.00s).
+Accumulating evaluation results...
+DONE (t=3.55s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.078
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.185
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.044
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.174
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.112
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.254
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.288
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.288
+[32m24 12:51:10 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_27.json finished, start evaluation!
+[32m24 12:51:28 [0m--------------mmAP--------------
+[32m24 12:51:28 [0m|	AP	|	0.085	|
+[32m24 12:51:28 [0m|	AP@0.5	|	0.197	|
+[32m24 12:51:28 [0m|	AP@0.75	|	0.060	|
+[32m24 12:51:28 [0m|	APs	|	-1.000	|
+[32m24 12:51:28 [0m|	APm	|	-1.000	|
+[32m24 12:51:28 [0m|	APl	|	0.186	|
+[32m24 12:51:28 [0m|	AR@1	|	0.116	|
+[32m24 12:51:28 [0m|	AR@10	|	0.265	|
+[32m24 12:51:28 [0m|	AR@100	|	0.300	|
+[32m24 12:51:28 [0m|	ARs	|	-1.000	|
+[32m24 12:51:28 [0m|	ARm	|	-1.000	|
+[32m24 12:51:28 [0m|	ARl	|	0.300	|
+[32m24 12:51:28 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.08s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=1.48s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.21s).
+Accumulating evaluation results...
+DONE (t=2.77s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.085
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.197
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.060
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.186
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.116
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.265
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.300
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.300
+[32m24 12:54:38 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_28.json finished, start evaluation!
+[32m24 12:54:57 [0m--------------mmAP--------------
+[32m24 12:54:57 [0m|	AP	|	0.109	|
+[32m24 12:54:57 [0m|	AP@0.5	|	0.203	|
+[32m24 12:54:57 [0m|	AP@0.75	|	0.106	|
+[32m24 12:54:57 [0m|	APs	|	-1.000	|
+[32m24 12:54:57 [0m|	APm	|	-1.000	|
+[32m24 12:54:57 [0m|	APl	|	0.226	|
+[32m24 12:54:57 [0m|	AR@1	|	0.140	|
+[32m24 12:54:57 [0m|	AR@10	|	0.311	|
+[32m24 12:54:57 [0m|	AR@100	|	0.348	|
+[32m24 12:54:57 [0m|	ARs	|	-1.000	|
+[32m24 12:54:57 [0m|	ARm	|	-1.000	|
+[32m24 12:54:57 [0m|	ARl	|	0.348	|
+[32m24 12:54:57 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.23s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.14s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.01s).
+Accumulating evaluation results...
+DONE (t=3.05s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.109
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.106
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.226
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.140
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.311
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.348
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.348
+[32m24 12:58:17 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_29.json finished, start evaluation!
+[32m24 12:58:36 [0m--------------mmAP--------------
+[32m24 12:58:36 [0m|	AP	|	0.109	|
+[32m24 12:58:36 [0m|	AP@0.5	|	0.203	|
+[32m24 12:58:36 [0m|	AP@0.75	|	0.107	|
+[32m24 12:58:36 [0m|	APs	|	-1.000	|
+[32m24 12:58:36 [0m|	APm	|	-1.000	|
+[32m24 12:58:36 [0m|	APl	|	0.228	|
+[32m24 12:58:36 [0m|	AR@1	|	0.140	|
+[32m24 12:58:36 [0m|	AR@10	|	0.313	|
+[32m24 12:58:36 [0m|	AR@100	|	0.350	|
+[32m24 12:58:36 [0m|	ARs	|	-1.000	|
+[32m24 12:58:36 [0m|	ARm	|	-1.000	|
+[32m24 12:58:36 [0m|	ARl	|	0.350	|
+[32m24 12:58:36 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.13s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.11s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=12.96s).
+Accumulating evaluation results...
+DONE (t=2.86s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.109
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.107
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.228
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.140
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.313
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.350
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.350
+[32m24 13:01:46 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_30.json finished, start evaluation!
+[32m24 13:02:07 [0m--------------mmAP--------------
+[32m24 13:02:07 [0m|	AP	|	0.110	|
+[32m24 13:02:07 [0m|	AP@0.5	|	0.203	|
+[32m24 13:02:07 [0m|	AP@0.75	|	0.106	|
+[32m24 13:02:07 [0m|	APs	|	-1.000	|
+[32m24 13:02:07 [0m|	APm	|	-1.000	|
+[32m24 13:02:07 [0m|	APl	|	0.229	|
+[32m24 13:02:07 [0m|	AR@1	|	0.141	|
+[32m24 13:02:07 [0m|	AR@10	|	0.316	|
+[32m24 13:02:07 [0m|	AR@100	|	0.354	|
+[32m24 13:02:07 [0m|	ARs	|	-1.000	|
+[32m24 13:02:07 [0m|	ARm	|	-1.000	|
+[32m24 13:02:07 [0m|	ARl	|	0.354	|
+[32m24 13:02:07 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.20s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.57s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=14.24s).
+Accumulating evaluation results...
+DONE (t=3.42s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.110
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.106
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.229
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.141
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.316
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.354
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.354
+[32m24 13:05:35 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_31.json finished, start evaluation!
+[32m24 13:05:57 [0m--------------mmAP--------------
+[32m24 13:05:57 [0m|	AP	|	0.111	|
+[32m24 13:05:57 [0m|	AP@0.5	|	0.204	|
+[32m24 13:05:57 [0m|	AP@0.75	|	0.110	|
+[32m24 13:05:57 [0m|	APs	|	-1.000	|
+[32m24 13:05:57 [0m|	APm	|	-1.000	|
+[32m24 13:05:57 [0m|	APl	|	0.232	|
+[32m24 13:05:57 [0m|	AR@1	|	0.143	|
+[32m24 13:05:57 [0m|	AR@10	|	0.318	|
+[32m24 13:05:57 [0m|	AR@100	|	0.357	|
+[32m24 13:05:57 [0m|	ARs	|	-1.000	|
+[32m24 13:05:57 [0m|	ARm	|	-1.000	|
+[32m24 13:05:57 [0m|	ARl	|	0.357	|
+[32m24 13:05:57 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.15s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=3.01s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=14.71s).
+Accumulating evaluation results...
+DONE (t=3.41s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.111
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.204
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.110
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.232
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.143
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.318
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.357
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.357
+[32m24 13:09:25 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_32.json finished, start evaluation!
+[32m24 13:09:48 [0m--------------mmAP--------------
+[32m24 13:09:48 [0m|	AP	|	0.111	|
+[32m24 13:09:48 [0m|	AP@0.5	|	0.203	|
+[32m24 13:09:48 [0m|	AP@0.75	|	0.108	|
+[32m24 13:09:48 [0m|	APs	|	-1.000	|
+[32m24 13:09:48 [0m|	APm	|	-1.000	|
+[32m24 13:09:48 [0m|	APl	|	0.231	|
+[32m24 13:09:48 [0m|	AR@1	|	0.142	|
+[32m24 13:09:48 [0m|	AR@10	|	0.318	|
+[32m24 13:09:48 [0m|	AR@100	|	0.357	|
+[32m24 13:09:48 [0m|	ARs	|	-1.000	|
+[32m24 13:09:48 [0m|	ARm	|	-1.000	|
+[32m24 13:09:48 [0m|	ARl	|	0.357	|
+[32m24 13:09:48 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.19s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.77s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=15.72s).
+Accumulating evaluation results...
+DONE (t=3.28s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.111
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.108
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.231
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.142
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.318
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.357
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.357
+[32m24 13:13:10 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_33.json finished, start evaluation!
+[32m24 13:13:29 [0m--------------mmAP--------------
+[32m24 13:13:29 [0m|	AP	|	0.111	|
+[32m24 13:13:29 [0m|	AP@0.5	|	0.203	|
+[32m24 13:13:29 [0m|	AP@0.75	|	0.106	|
+[32m24 13:13:29 [0m|	APs	|	-1.000	|
+[32m24 13:13:29 [0m|	APm	|	-1.000	|
+[32m24 13:13:29 [0m|	APl	|	0.231	|
+[32m24 13:13:29 [0m|	AR@1	|	0.142	|
+[32m24 13:13:29 [0m|	AR@10	|	0.319	|
+[32m24 13:13:29 [0m|	AR@100	|	0.357	|
+[32m24 13:13:29 [0m|	ARs	|	-1.000	|
+[32m24 13:13:29 [0m|	ARm	|	-1.000	|
+[32m24 13:13:29 [0m|	ARl	|	0.357	|
+[32m24 13:13:29 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.29s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.34s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=12.76s).
+Accumulating evaluation results...
+DONE (t=3.21s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.111
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.106
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.231
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.142
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.319
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.357
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.357
+[32m24 13:16:54 [0mSave to logs/faster_rcnn_res50_800size_fsdet_demo/epoch_34.json finished, start evaluation!
+[32m24 13:17:14 [0m--------------mmAP--------------
+[32m24 13:17:14 [0m|	AP	|	0.112	|
+[32m24 13:17:14 [0m|	AP@0.5	|	0.204	|
+[32m24 13:17:14 [0m|	AP@0.75	|	0.109	|
+[32m24 13:17:14 [0m|	APs	|	-1.000	|
+[32m24 13:17:14 [0m|	APm	|	-1.000	|
+[32m24 13:17:14 [0m|	APl	|	0.233	|
+[32m24 13:17:14 [0m|	AR@1	|	0.144	|
+[32m24 13:17:14 [0m|	AR@10	|	0.320	|
+[32m24 13:17:14 [0m|	AR@100	|	0.359	|
+[32m24 13:17:14 [0m|	ARs	|	-1.000	|
+[32m24 13:17:14 [0m|	ARm	|	-1.000	|
+[32m24 13:17:14 [0m|	ARl	|	0.359	|
+[32m24 13:17:14 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.20s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=2.32s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=13.23s).
+Accumulating evaluation results...
+DONE (t=3.28s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.112
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.204
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.109
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.233
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.144
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.320
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.359
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.359
