@@ -43,7 +43,7 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 
 对于COCO数据集，作者用了60类作为base class，20类作为novel class。在本次作业中，用的是object365数据集，理应先在object365数据集上用Base Class训练出一个模型再用所给的训练集，加上少量的novel class进行微调。
 由于作业提供的数据就这些，所以我偷了懒，直接用COCO预训练模型，用所给训练集做fine-tune，这样做的缺点是最后一层输出层的分类数不一样，所以只能固定前面的权重，最后一层重新训练。
-# 有误，修改中
+
 [测试结果](/hw2/pic/fsod_test.txt)AP50 = 0.204, AP75 = 0.109, AP0.5:0.95 = 0.112，比上边的Faster RCNN要高，但是由于做法是有问题的，所以离paper的结果要低不少。
 ![image](/hw2/pic/fsod_test.png)
 )
