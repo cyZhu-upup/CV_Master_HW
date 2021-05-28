@@ -76,7 +76,8 @@ def forward(self, features: List[Tensor]):
 ```
 
 ctrness的定义：
-$$centerness=\sqrt{\frac{min(l^*,r^*)}{max(l^*,r^*)}\times \frac{min(t^*,b^*)}{max(t^*,b^*)}}$$
+
+![](https://latex.codecogs.com/gif.latex?centerness=\sqrt{\frac{min(l^*,r^*)}{max(l^*,r^*)}\times&space;\frac{min(t^*,b^*)}{max(t^*,b^*)}})
 
 ```python
 ctrness = F.sqrt(
