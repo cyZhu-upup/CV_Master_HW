@@ -27,3 +27,18 @@ Codebase：Retinanet（站在巨人肩膀上，复用去年 cv master repo， �
 * 实现ATSS
 
 ## 附加任务
+
+FCOS的架构如下图
+![image](/hw1/pic/fcos_backbone.png)
+
+和给出的RetinaNet代码不同点：所有的anchor都换成point。
+首先根据不同level的feature map 生成point
+```python
+self.anchor_generator = layers.AnchorPointGenerator()  # 位于layers/anchor.py
+```
+定义point的decode和incode操作
+```python
+self.point_coder = layers.PointCoder()  # 在box_utils中定义，定义了encode和decode
+``` 
+backbone和FPN与retinaNet相同
+
