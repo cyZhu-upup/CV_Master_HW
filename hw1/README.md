@@ -28,7 +28,7 @@ Codebase：Retinanet（站在巨人肩膀上，复用去年 cv master repo， �
 
 ## 附加任务
 
-FCOS的架构如下图
+FCOS的架构如下图，代码为models/FCOS.py
 ![image](/hw1/pic/fcos_backbone.png)
 
 和给出的RetinaNet代码不同点：所有的anchor都换成point。
