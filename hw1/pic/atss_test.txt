@@ -1,0 +1,861 @@
+[32m28 07:25:22 [0maverage inference speed: 0.08758s / iter, fps:11.4
+[32m28 07:25:29 [0mSave to train_log/atss/epoch_26.json finished, start evaluation!
+[32m28 07:27:00 [0m--------------mmAP--------------
+[32m28 07:27:00 [0m|	AP	|	0.212	|
+[32m28 07:27:00 [0m|	AP@0.5	|	0.357	|
+[32m28 07:27:00 [0m|	AP@0.75	|	0.219	|
+[32m28 07:27:00 [0m|	APs	|	0.119	|
+[32m28 07:27:00 [0m|	APm	|	0.240	|
+[32m28 07:27:00 [0m|	APl	|	0.250	|
+[32m28 07:27:00 [0m|	AR@1	|	0.220	|
+[32m28 07:27:00 [0m|	AR@10	|	0.387	|
+[32m28 07:27:00 [0m|	AR@100	|	0.410	|
+[32m28 07:27:00 [0m|	ARs	|	0.247	|
+[32m28 07:27:00 [0m|	ARm	|	0.435	|
+[32m28 07:27:00 [0m|	ARl	|	0.532	|
+[32m28 07:27:00 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.84s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=4.67s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=68.59s).
+Accumulating evaluation results...
+DONE (t=16.39s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.212
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.357
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.219
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.119
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.240
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.250
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.220
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.387
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.410
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.247
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.435
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.532
+[32m28 08:21:13 [0maverage inference speed: 0.09665s / iter, fps:10.3
+[32m28 08:21:21 [0mSave to train_log/atss/epoch_27.json finished, start evaluation!
+[32m28 08:22:51 [0m--------------mmAP--------------
+[32m28 08:22:51 [0m|	AP	|	0.219	|
+[32m28 08:22:51 [0m|	AP@0.5	|	0.364	|
+[32m28 08:22:51 [0m|	AP@0.75	|	0.228	|
+[32m28 08:22:51 [0m|	APs	|	0.116	|
+[32m28 08:22:51 [0m|	APm	|	0.246	|
+[32m28 08:22:51 [0m|	APl	|	0.264	|
+[32m28 08:22:51 [0m|	AR@1	|	0.229	|
+[32m28 08:22:51 [0m|	AR@10	|	0.399	|
+[32m28 08:22:51 [0m|	AR@100	|	0.422	|
+[32m28 08:22:51 [0m|	ARs	|	0.246	|
+[32m28 08:22:51 [0m|	ARm	|	0.445	|
+[32m28 08:22:51 [0m|	ARl	|	0.560	|
+[32m28 08:22:51 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.72s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=7.93s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=62.95s).
+Accumulating evaluation results...
+DONE (t=15.74s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.219
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.364
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.228
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.116
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.246
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.264
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.229
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.399
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.422
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.246
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.445
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.560
+[32m28 09:21:30 [0maverage inference speed: 0.0936s / iter, fps:10.7
+[32m28 09:21:40 [0mSave to train_log/atss/epoch_28.json finished, start evaluation!
+[32m28 09:23:13 [0m--------------mmAP--------------
+[32m28 09:23:13 [0m|	AP	|	0.209	|
+[32m28 09:23:13 [0m|	AP@0.5	|	0.356	|
+[32m28 09:23:13 [0m|	AP@0.75	|	0.216	|
+[32m28 09:23:13 [0m|	APs	|	0.119	|
+[32m28 09:23:13 [0m|	APm	|	0.240	|
+[32m28 09:23:13 [0m|	APl	|	0.244	|
+[32m28 09:23:13 [0m|	AR@1	|	0.220	|
+[32m28 09:23:13 [0m|	AR@10	|	0.382	|
+[32m28 09:23:13 [0m|	AR@100	|	0.405	|
+[32m28 09:23:13 [0m|	ARs	|	0.232	|
+[32m28 09:23:13 [0m|	ARm	|	0.442	|
+[32m28 09:23:13 [0m|	ARl	|	0.522	|
+[32m28 09:23:13 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.59s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=6.65s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=65.57s).
+Accumulating evaluation results...
+DONE (t=17.33s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.216
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.119
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.240
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.244
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.220
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.382
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.405
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.232
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.442
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.522
+[32m28 10:19:01 [0maverage inference speed: 0.08985s / iter, fps:11.1
+[32m28 10:19:09 [0mSave to train_log/atss/epoch_29.json finished, start evaluation!
+[32m28 10:20:49 [0m--------------mmAP--------------
+[32m28 10:20:49 [0m|	AP	|	0.211	|
+[32m28 10:20:49 [0m|	AP@0.5	|	0.359	|
+[32m28 10:20:49 [0m|	AP@0.75	|	0.218	|
+[32m28 10:20:49 [0m|	APs	|	0.114	|
+[32m28 10:20:49 [0m|	APm	|	0.227	|
+[32m28 10:20:49 [0m|	APl	|	0.250	|
+[32m28 10:20:49 [0m|	AR@1	|	0.220	|
+[32m28 10:20:49 [0m|	AR@10	|	0.378	|
+[32m28 10:20:49 [0m|	AR@100	|	0.401	|
+[32m28 10:20:49 [0m|	ARs	|	0.231	|
+[32m28 10:20:49 [0m|	ARm	|	0.419	|
+[32m28 10:20:49 [0m|	ARl	|	0.521	|
+[32m28 10:20:49 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.52s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=9.18s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=71.10s).
+Accumulating evaluation results...
+DONE (t=16.88s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.211
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.359
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.218
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.114
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.227
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.250
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.220
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.378
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.401
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.231
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.419
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.521
+[32m28 11:10:42 [0maverage inference speed: 0.09242s / iter, fps:10.8
+[32m28 11:10:51 [0mSave to train_log/atss/epoch_30.json finished, start evaluation!
+[32m28 11:12:39 [0m--------------mmAP--------------
+[32m28 11:12:39 [0m|	AP	|	0.214	|
+[32m28 11:12:39 [0m|	AP@0.5	|	0.364	|
+[32m28 11:12:39 [0m|	AP@0.75	|	0.222	|
+[32m28 11:12:39 [0m|	APs	|	0.121	|
+[32m28 11:12:39 [0m|	APm	|	0.234	|
+[32m28 11:12:39 [0m|	APl	|	0.259	|
+[32m28 11:12:39 [0m|	AR@1	|	0.223	|
+[32m28 11:12:39 [0m|	AR@10	|	0.389	|
+[32m28 11:12:39 [0m|	AR@100	|	0.412	|
+[32m28 11:12:39 [0m|	ARs	|	0.240	|
+[32m28 11:12:39 [0m|	ARm	|	0.441	|
+[32m28 11:12:39 [0m|	ARl	|	0.530	|
+[32m28 11:12:39 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.63s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=6.07s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=79.57s).
+Accumulating evaluation results...
+DONE (t=17.55s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.364
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.222
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.121
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.234
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.259
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.223
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.389
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.412
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.240
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.441
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.530
+[32m28 11:59:45 [0maverage inference speed: 0.09282s / iter, fps:10.8
+[32m28 11:59:58 [0mSave to train_log/atss/epoch_31.json finished, start evaluation!
+[32m28 12:01:53 [0m--------------mmAP--------------
+[32m28 12:01:53 [0m|	AP	|	0.204	|
+[32m28 12:01:53 [0m|	AP@0.5	|	0.344	|
+[32m28 12:01:53 [0m|	AP@0.75	|	0.209	|
+[32m28 12:01:53 [0m|	APs	|	0.113	|
+[32m28 12:01:53 [0m|	APm	|	0.227	|
+[32m28 12:01:53 [0m|	APl	|	0.246	|
+[32m28 12:01:53 [0m|	AR@1	|	0.218	|
+[32m28 12:01:53 [0m|	AR@10	|	0.383	|
+[32m28 12:01:53 [0m|	AR@100	|	0.405	|
+[32m28 12:01:53 [0m|	ARs	|	0.241	|
+[32m28 12:01:53 [0m|	ARm	|	0.432	|
+[32m28 12:01:53 [0m|	ARl	|	0.519	|
+[32m28 12:01:53 [0m--------------------------------
+loading annotations into memory...
+Done (t=1.79s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=8.47s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=79.94s).
+Accumulating evaluation results...
+DONE (t=19.75s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.204
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.344
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.113
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.227
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.246
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.218
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.383
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.405
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.432
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.519
+[32m28 12:54:18 [0maverage inference speed: 0.09387s / iter, fps:10.7
+[32m28 12:54:25 [0mSave to train_log/atss/epoch_32.json finished, start evaluation!
+[32m28 12:56:05 [0m--------------mmAP--------------
+[32m28 12:56:05 [0m|	AP	|	0.214	|
+[32m28 12:56:05 [0m|	AP@0.5	|	0.356	|
+[32m28 12:56:05 [0m|	AP@0.75	|	0.221	|
+[32m28 12:56:05 [0m|	APs	|	0.106	|
+[32m28 12:56:05 [0m|	APm	|	0.235	|
+[32m28 12:56:05 [0m|	APl	|	0.263	|
+[32m28 12:56:05 [0m|	AR@1	|	0.225	|
+[32m28 12:56:05 [0m|	AR@10	|	0.389	|
+[32m28 12:56:05 [0m|	AR@100	|	0.411	|
+[32m28 12:56:05 [0m|	ARs	|	0.228	|
+[32m28 12:56:05 [0m|	ARm	|	0.438	|
+[32m28 12:56:05 [0m|	ARl	|	0.543	|
+[32m28 12:56:05 [0m--------------------------------
+loading annotations into memory...
+Done (t=5.07s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=5.84s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=69.21s).
+Accumulating evaluation results...
+DONE (t=16.67s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.221
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.106
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.235
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.263
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.225
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.389
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.411
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.228
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.438
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.543
+[32m28 13:47:01 [0maverage inference speed: 0.09576s / iter, fps:10.4
+[32m28 13:47:12 [0mSave to train_log/atss/epoch_33.json finished, start evaluation!
+[32m28 13:49:03 [0m--------------mmAP--------------
+[32m28 13:49:03 [0m|	AP	|	0.211	|
+[32m28 13:49:03 [0m|	AP@0.5	|	0.355	|
+[32m28 13:49:03 [0m|	AP@0.75	|	0.218	|
+[32m28 13:49:03 [0m|	APs	|	0.122	|
+[32m28 13:49:03 [0m|	APm	|	0.231	|
+[32m28 13:49:03 [0m|	APl	|	0.256	|
+[32m28 13:49:03 [0m|	AR@1	|	0.224	|
+[32m28 13:49:03 [0m|	AR@10	|	0.391	|
+[32m28 13:49:03 [0m|	AR@100	|	0.414	|
+[32m28 13:49:03 [0m|	ARs	|	0.233	|
+[32m28 13:49:03 [0m|	ARm	|	0.448	|
+[32m28 13:49:03 [0m|	ARl	|	0.539	|
+[32m28 13:49:03 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.77s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=7.42s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=79.75s).
+Accumulating evaluation results...
+DONE (t=20.05s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.211
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.355
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.218
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.122
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.231
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.256
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.224
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.391
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.414
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.233
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.448
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.539
+[32m28 14:36:00 [0maverage inference speed: 0.0933s / iter, fps:10.7
+[32m28 14:36:14 [0mSave to train_log/atss/epoch_34.json finished, start evaluation!
+[32m28 14:37:50 [0m--------------mmAP--------------
+[32m28 14:37:50 [0m|	AP	|	0.216	|
+[32m28 14:37:50 [0m|	AP@0.5	|	0.360	|
+[32m28 14:37:50 [0m|	AP@0.75	|	0.222	|
+[32m28 14:37:50 [0m|	APs	|	0.113	|
+[32m28 14:37:50 [0m|	APm	|	0.238	|
+[32m28 14:37:50 [0m|	APl	|	0.259	|
+[32m28 14:37:50 [0m|	AR@1	|	0.227	|
+[32m28 14:37:50 [0m|	AR@10	|	0.392	|
+[32m28 14:37:50 [0m|	AR@100	|	0.415	|
+[32m28 14:37:50 [0m|	ARs	|	0.246	|
+[32m28 14:37:50 [0m|	ARm	|	0.445	|
+[32m28 14:37:50 [0m|	ARl	|	0.530	|
+[32m28 14:37:50 [0m--------------------------------
+loading annotations into memory...
+Done (t=1.77s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=6.84s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=68.11s).
+Accumulating evaluation results...
+DONE (t=16.36s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.216
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.360
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.222
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.113
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.238
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.259
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.227
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.392
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.415
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.246
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.445
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.530
+[32m28 15:30:35 [0maverage inference speed: 0.09353s / iter, fps:10.7
+[32m28 15:30:47 [0mSave to train_log/atss/epoch_35.json finished, start evaluation!
+[32m28 15:32:22 [0m--------------mmAP--------------
+[32m28 15:32:22 [0m|	AP	|	0.213	|
+[32m28 15:32:22 [0m|	AP@0.5	|	0.357	|
+[32m28 15:32:22 [0m|	AP@0.75	|	0.218	|
+[32m28 15:32:22 [0m|	APs	|	0.114	|
+[32m28 15:32:22 [0m|	APm	|	0.235	|
+[32m28 15:32:22 [0m|	APl	|	0.267	|
+[32m28 15:32:22 [0m|	AR@1	|	0.222	|
+[32m28 15:32:22 [0m|	AR@10	|	0.384	|
+[32m28 15:32:22 [0m|	AR@100	|	0.406	|
+[32m28 15:32:22 [0m|	ARs	|	0.226	|
+[32m28 15:32:22 [0m|	ARm	|	0.425	|
+[32m28 15:32:22 [0m|	ARl	|	0.549	|
+[32m28 15:32:22 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.71s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=6.71s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=67.20s).
+Accumulating evaluation results...
+DONE (t=16.69s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.213
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.357
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.218
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.114
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.235
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.267
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.222
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.384
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.406
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.226
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.425
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.549
+[32m28 16:27:06 [0maverage inference speed: 0.09358s / iter, fps:10.7
+[32m28 16:27:21 [0mSave to train_log/atss/epoch_36.json finished, start evaluation!
+[32m28 16:29:05 [0m--------------mmAP--------------
+[32m28 16:29:05 [0m|	AP	|	0.214	|
+[32m28 16:29:05 [0m|	AP@0.5	|	0.360	|
+[32m28 16:29:05 [0m|	AP@0.75	|	0.222	|
+[32m28 16:29:05 [0m|	APs	|	0.120	|
+[32m28 16:29:05 [0m|	APm	|	0.238	|
+[32m28 16:29:05 [0m|	APl	|	0.258	|
+[32m28 16:29:05 [0m|	AR@1	|	0.225	|
+[32m28 16:29:05 [0m|	AR@10	|	0.391	|
+[32m28 16:29:05 [0m|	AR@100	|	0.413	|
+[32m28 16:29:05 [0m|	ARs	|	0.238	|
+[32m28 16:29:05 [0m|	ARm	|	0.447	|
+[32m28 16:29:05 [0m|	ARl	|	0.534	|
+[32m28 16:29:05 [0m--------------------------------
+loading annotations into memory...
+Done (t=1.37s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=10.75s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=69.64s).
+Accumulating evaluation results...
+DONE (t=17.73s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.360
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.222
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.120
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.238
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.258
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.225
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.391
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.413
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.238
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.447
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.534
+[32m28 17:18:30 [0maverage inference speed: 0.09336s / iter, fps:10.7
+[32m28 17:18:40 [0mSave to train_log/atss/epoch_37.json finished, start evaluation!
+[32m28 17:20:04 [0m--------------mmAP--------------
+[32m28 17:20:04 [0m|	AP	|	0.212	|
+[32m28 17:20:04 [0m|	AP@0.5	|	0.356	|
+[32m28 17:20:04 [0m|	AP@0.75	|	0.219	|
+[32m28 17:20:04 [0m|	APs	|	0.110	|
+[32m28 17:20:04 [0m|	APm	|	0.234	|
+[32m28 17:20:04 [0m|	APl	|	0.261	|
+[32m28 17:20:04 [0m|	AR@1	|	0.223	|
+[32m28 17:20:04 [0m|	AR@10	|	0.384	|
+[32m28 17:20:04 [0m|	AR@100	|	0.405	|
+[32m28 17:20:04 [0m|	ARs	|	0.219	|
+[32m28 17:20:04 [0m|	ARm	|	0.425	|
+[32m28 17:20:04 [0m|	ARl	|	0.537	|
+[32m28 17:20:04 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.70s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=7.70s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=58.81s).
+Accumulating evaluation results...
+DONE (t=14.78s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.212
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.219
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.110
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.234
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.261
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.223
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.384
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.405
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.219
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.425
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.537
+[32m28 17:59:50 [0maverage inference speed: 0.09245s / iter, fps:10.8
+[32m28 17:59:59 [0mSave to train_log/atss/epoch_38.json finished, start evaluation!
+[32m28 18:01:28 [0m--------------mmAP--------------
+[32m28 18:01:28 [0m|	AP	|	0.215	|
+[32m28 18:01:28 [0m|	AP@0.5	|	0.360	|
+[32m28 18:01:28 [0m|	AP@0.75	|	0.223	|
+[32m28 18:01:28 [0m|	APs	|	0.116	|
+[32m28 18:01:28 [0m|	APm	|	0.236	|
+[32m28 18:01:28 [0m|	APl	|	0.260	|
+[32m28 18:01:28 [0m|	AR@1	|	0.221	|
+[32m28 18:01:28 [0m|	AR@10	|	0.390	|
+[32m28 18:01:28 [0m|	AR@100	|	0.412	|
+[32m28 18:01:28 [0m|	ARs	|	0.230	|
+[32m28 18:01:28 [0m|	ARm	|	0.436	|
+[32m28 18:01:28 [0m|	ARl	|	0.538	|
+[32m28 18:01:28 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.69s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=5.10s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=64.26s).
+Accumulating evaluation results...
+DONE (t=16.43s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.215
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.360
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.223
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.116
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.236
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.260
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.221
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.390
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.412
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.230
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.436
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.538
+[32m28 18:38:39 [0maverage inference speed: 0.09331s / iter, fps:10.7
+[32m28 18:38:48 [0mSave to train_log/atss/epoch_39.json finished, start evaluation!
+[32m28 18:40:26 [0m--------------mmAP--------------
+[32m28 18:40:26 [0m|	AP	|	0.219	|
+[32m28 18:40:26 [0m|	AP@0.5	|	0.364	|
+[32m28 18:40:26 [0m|	AP@0.75	|	0.225	|
+[32m28 18:40:26 [0m|	APs	|	0.115	|
+[32m28 18:40:26 [0m|	APm	|	0.248	|
+[32m28 18:40:26 [0m|	APl	|	0.265	|
+[32m28 18:40:26 [0m|	AR@1	|	0.229	|
+[32m28 18:40:26 [0m|	AR@10	|	0.392	|
+[32m28 18:40:26 [0m|	AR@100	|	0.413	|
+[32m28 18:40:26 [0m|	ARs	|	0.228	|
+[32m28 18:40:26 [0m|	ARm	|	0.447	|
+[32m28 18:40:26 [0m|	ARl	|	0.550	|
+[32m28 18:40:26 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.69s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=11.75s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=66.98s).
+Accumulating evaluation results...
+DONE (t=16.41s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.219
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.364
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.225
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.115
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.248
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.265
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.229
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.392
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.413
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.228
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.447
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.550
+[32m28 19:11:00 [0maverage inference speed: 0.08977s / iter, fps:11.1
+[32m28 19:11:11 [0mSave to train_log/atss/epoch_40.json finished, start evaluation!
+[32m28 19:12:55 [0m--------------mmAP--------------
+[32m28 19:12:55 [0m|	AP	|	0.212	|
+[32m28 19:12:55 [0m|	AP@0.5	|	0.356	|
+[32m28 19:12:55 [0m|	AP@0.75	|	0.220	|
+[32m28 19:12:55 [0m|	APs	|	0.114	|
+[32m28 19:12:55 [0m|	APm	|	0.239	|
+[32m28 19:12:55 [0m|	APl	|	0.252	|
+[32m28 19:12:55 [0m|	AR@1	|	0.224	|
+[32m28 19:12:55 [0m|	AR@10	|	0.380	|
+[32m28 19:12:55 [0m|	AR@100	|	0.401	|
+[32m28 19:12:55 [0m|	ARs	|	0.223	|
+[32m28 19:12:55 [0m|	ARm	|	0.432	|
+[32m28 19:12:55 [0m|	ARl	|	0.532	|
+[32m28 19:12:55 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.68s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=7.69s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=72.91s).
+Accumulating evaluation results...
+DONE (t=18.57s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.212
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.220
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.114
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.239
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.252
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.224
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.380
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.401
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.223
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.432
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.532
+[32m28 19:44:04 [0maverage inference speed: 0.09028s / iter, fps:11.1
+[32m28 19:44:14 [0mSave to train_log/atss/epoch_41.json finished, start evaluation!
+[32m28 19:45:56 [0m--------------mmAP--------------
+[32m28 19:45:56 [0m|	AP	|	0.216	|
+[32m28 19:45:56 [0m|	AP@0.5	|	0.360	|
+[32m28 19:45:56 [0m|	AP@0.75	|	0.223	|
+[32m28 19:45:56 [0m|	APs	|	0.122	|
+[32m28 19:45:56 [0m|	APm	|	0.239	|
+[32m28 19:45:56 [0m|	APl	|	0.261	|
+[32m28 19:45:56 [0m|	AR@1	|	0.226	|
+[32m28 19:45:56 [0m|	AR@10	|	0.392	|
+[32m28 19:45:56 [0m|	AR@100	|	0.414	|
+[32m28 19:45:56 [0m|	ARs	|	0.241	|
+[32m28 19:45:56 [0m|	ARm	|	0.444	|
+[32m28 19:45:56 [0m|	ARl	|	0.535	|
+[32m28 19:45:56 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.76s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=5.81s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=74.03s).
+Accumulating evaluation results...
+DONE (t=18.48s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.216
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.360
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.223
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.122
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.239
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.261
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.226
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.392
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.414
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.444
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.535
+[32m28 20:09:50 [0maverage inference speed: 0.08802s / iter, fps:11.4
+[32m28 20:09:58 [0mSave to train_log/atss/epoch_42.json finished, start evaluation!
+[32m28 20:11:48 [0m--------------mmAP--------------
+[32m28 20:11:48 [0m|	AP	|	0.238	|
+[32m28 20:11:48 [0m|	AP@0.5	|	0.387	|
+[32m28 20:11:48 [0m|	AP@0.75	|	0.248	|
+[32m28 20:11:48 [0m|	APs	|	0.124	|
+[32m28 20:11:48 [0m|	APm	|	0.261	|
+[32m28 20:11:48 [0m|	APl	|	0.286	|
+[32m28 20:11:48 [0m|	AR@1	|	0.241	|
+[32m28 20:11:48 [0m|	AR@10	|	0.409	|
+[32m28 20:11:48 [0m|	AR@100	|	0.432	|
+[32m28 20:11:48 [0m|	ARs	|	0.247	|
+[32m28 20:11:48 [0m|	ARm	|	0.455	|
+[32m28 20:11:48 [0m|	ARl	|	0.574	|
+[32m28 20:11:48 [0m--------------------------------
+loading annotations into memory...
+Done (t=3.92s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=5.87s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=78.89s).
+Accumulating evaluation results...
+DONE (t=19.09s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.238
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.387
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.248
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.124
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.261
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.286
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.409
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.432
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.247
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.455
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.574
+[32m28 20:33:32 [0maverage inference speed: 0.08756s / iter, fps:11.4
+[32m28 20:33:42 [0mSave to train_log/atss/epoch_43.json finished, start evaluation!
+[32m28 20:35:17 [0m--------------mmAP--------------
+[32m28 20:35:17 [0m|	AP	|	0.239	|
+[32m28 20:35:17 [0m|	AP@0.5	|	0.390	|
+[32m28 20:35:17 [0m|	AP@0.75	|	0.250	|
+[32m28 20:35:17 [0m|	APs	|	0.123	|
+[32m28 20:35:17 [0m|	APm	|	0.263	|
+[32m28 20:35:17 [0m|	APl	|	0.286	|
+[32m28 20:35:17 [0m|	AR@1	|	0.241	|
+[32m28 20:35:17 [0m|	AR@10	|	0.409	|
+[32m28 20:35:17 [0m|	AR@100	|	0.431	|
+[32m28 20:35:17 [0m|	ARs	|	0.239	|
+[32m28 20:35:17 [0m|	ARm	|	0.455	|
+[32m28 20:35:17 [0m|	ARl	|	0.573	|
+[32m28 20:35:17 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.65s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=5.24s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=70.40s).
+Accumulating evaluation results...
+DONE (t=16.02s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.239
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.390
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.250
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.123
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.263
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.286
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.409
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.431
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.239
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.455
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.573
+[32m28 20:56:39 [0maverage inference speed: 0.08608s / iter, fps:11.6
+[32m28 20:56:49 [0mSave to train_log/atss/epoch_44.json finished, start evaluation!
+[32m28 20:58:32 [0m--------------mmAP--------------
+[32m28 20:58:32 [0m|	AP	|	0.240	|
+[32m28 20:58:32 [0m|	AP@0.5	|	0.390	|
+[32m28 20:58:32 [0m|	AP@0.75	|	0.251	|
+[32m28 20:58:32 [0m|	APs	|	0.123	|
+[32m28 20:58:32 [0m|	APm	|	0.263	|
+[32m28 20:58:32 [0m|	APl	|	0.286	|
+[32m28 20:58:32 [0m|	AR@1	|	0.242	|
+[32m28 20:58:32 [0m|	AR@10	|	0.409	|
+[32m28 20:58:32 [0m|	AR@100	|	0.431	|
+[32m28 20:58:32 [0m|	ARs	|	0.245	|
+[32m28 20:58:32 [0m|	ARm	|	0.451	|
+[32m28 20:58:32 [0m|	ARl	|	0.572	|
+[32m28 20:58:32 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.68s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=8.18s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=73.41s).
+Accumulating evaluation results...
+DONE (t=17.17s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.240
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.390
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.251
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.123
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.263
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.286
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.242
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.409
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.431
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.245
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.451
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.572
+[32m28 21:18:51 [0maverage inference speed: 0.08486s / iter, fps:11.8
+[32m28 21:19:02 [0mSave to train_log/atss/epoch_45.json finished, start evaluation!
+[32m28 21:21:00 [0m--------------mmAP--------------
+[32m28 21:21:00 [0m|	AP	|	0.238	|
+[32m28 21:21:00 [0m|	AP@0.5	|	0.389	|
+[32m28 21:21:00 [0m|	AP@0.75	|	0.250	|
+[32m28 21:21:00 [0m|	APs	|	0.122	|
+[32m28 21:21:00 [0m|	APm	|	0.262	|
+[32m28 21:21:00 [0m|	APl	|	0.286	|
+[32m28 21:21:00 [0m|	AR@1	|	0.241	|
+[32m28 21:21:00 [0m|	AR@10	|	0.408	|
+[32m28 21:21:00 [0m|	AR@100	|	0.429	|
+[32m28 21:21:00 [0m|	ARs	|	0.241	|
+[32m28 21:21:00 [0m|	ARm	|	0.452	|
+[32m28 21:21:00 [0m|	ARl	|	0.569	|
+[32m28 21:21:00 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.82s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=7.66s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=79.83s).
+Accumulating evaluation results...
+DONE (t=24.15s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.238
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.389
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.250
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.122
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.262
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.286
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.408
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.429
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.241
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.452
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.569
+[32m28 21:40:51 [0maverage inference speed: 0.08546s / iter, fps:11.7
+[32m28 21:40:59 [0mSave to train_log/atss/epoch_46.json finished, start evaluation!
+[32m28 21:42:53 [0m--------------mmAP--------------
+[32m28 21:42:53 [0m|	AP	|	0.238	|
+[32m28 21:42:53 [0m|	AP@0.5	|	0.388	|
+[32m28 21:42:53 [0m|	AP@0.75	|	0.250	|
+[32m28 21:42:53 [0m|	APs	|	0.122	|
+[32m28 21:42:53 [0m|	APm	|	0.262	|
+[32m28 21:42:53 [0m|	APl	|	0.289	|
+[32m28 21:42:53 [0m|	AR@1	|	0.242	|
+[32m28 21:42:53 [0m|	AR@10	|	0.408	|
+[32m28 21:42:53 [0m|	AR@100	|	0.429	|
+[32m28 21:42:53 [0m|	ARs	|	0.238	|
+[32m28 21:42:53 [0m|	ARm	|	0.450	|
+[32m28 21:42:53 [0m|	ARl	|	0.577	|
+[32m28 21:42:53 [0m--------------------------------
+loading annotations into memory...
+Done (t=0.66s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=11.29s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=74.32s).
+Accumulating evaluation results...
+DONE (t=23.43s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.238
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.388
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.250
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.122
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.262
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.289
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.242
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.408
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.429
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.238
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.450
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.577
