@@ -89,6 +89,10 @@ ctrness = F.sqrt(
 ```
 [测试log](/hw1/pic/fcos_test.txt)AP=0.236,AP50=0.394,AP75=0.245
 
+总结一下paper中提到的涨分技巧：1.ctrness分支放到回归那边 2.用GIOU Loss 3.只采样gt box中心部分的点作为正样本 4.标准化回归值(t,l,b,r)
+
+
+
 ATSS:
 
 ATSS中提出的策略：对于所有gt box，对于所有的预选框，根据L2距离，选取离中心最近的k个anchor。
