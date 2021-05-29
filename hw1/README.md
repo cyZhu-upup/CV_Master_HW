@@ -64,7 +64,7 @@ self.bbox_pred = M.Conv2d(in_channels, num_anchors * 4, kernel_size=3, stride=1,
 self.ctrness = M.Conv2d(in_channels, num_anchors * 1, kernel_size=3, stride=1, padding=1)
 ```
 
-定义这里有点问题：ctrness分支应该是和分类分支平行的，看代码里变成和回归分支一起了，不知道是不是这样操作更好，反正和paper中的定义不同
+**这里ctrness分支论文中说是和分类分支平行的**，看代码里变成和回归分支一起了，**在paper后面的实验部分说明这样做的精度更高**
 
 ```python
 def forward(self, features: List[Tensor]):
