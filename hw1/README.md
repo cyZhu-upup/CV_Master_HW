@@ -87,11 +87,11 @@ ctrness = F.sqrt(
   * F.maximum(F.min(top_bottom, axis=1) / F.max(top_bottom, axis=1), 0)
 )
 ```
-[测试log](/hw1/fcos_test.txt)AP=0.236,AP50=0.394,AP75=0.245
+[测试log](/hw1/pic/fcos_test.txt)AP=0.236,AP50=0.394,AP75=0.245
 
 ATSS:
 
-[测试log](/hw1/atss_test.txt)AP=0.240, AP50=0.390,AP75=0.251	
+[测试log](/hw1/pic/atss_test.txt)AP=0.240, AP50=0.390,AP75=0.251	
 
 
 
