@@ -91,7 +91,7 @@ ctrness = F.sqrt(
 
 总结一下paper中提到的涨分技巧：1.ctrness分支放到回归那边 2.用GIOU Loss 3.只采样gt box中心部分的点作为正样本 4.标准化回归值(t,l,b,r)
 
-
+**其中，用GIOU Loss很容易理解，而技巧3的思想和ATSS也比较相似，都是为了获得离gt box中心更近的样本**
 
 ATSS:
 
