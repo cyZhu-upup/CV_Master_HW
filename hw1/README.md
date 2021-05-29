@@ -85,7 +85,11 @@ ctrness = F.sqrt(
   * F.maximum(F.min(top_bottom, axis=1) / F.max(top_bottom, axis=1), 0)
 )
 ```
+AP=0.236,AP50=0.394,AP75=0.245
 
+ATSS:
+
+AP=0.240, AP50=0.390,AP75=0.251	
 
 
 
