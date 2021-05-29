@@ -91,6 +91,12 @@ ctrness = F.sqrt(
 
 ATSS:
 
+ATSS中提出的策略：对于所有gt box，对于所有的预选框，根据L2距离，选取离中心最近的k个anchor。
+
+计算这些anchor的IOU均值和标准差，两者之和作为IOU阈值，符合阈值的并且中心在框内的anchor作为正样本存入，其余的anchor作为负样本。官方实现是基于FCOS的，结果确实是比FCOS稍微高一点，优化的话除了FCOS的参数，只有一个超参k
+
+代码没来得及看
+
 [测试log](/hw1/pic/atss_test.txt)AP=0.240, AP50=0.390,AP75=0.251	
 
 
