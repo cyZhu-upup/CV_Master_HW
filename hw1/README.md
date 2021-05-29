@@ -31,6 +31,8 @@ Codebase：Retinanet（站在巨人肩膀上，复用去年 cv master repo， �
 FCOS的架构如下图，代码为models/FCOS.py
 ![image](/hw1/pic/fcos_backbone.png)
 
+label assignmetn的策略是只要在bounding box中的点都是正样本
+
 和给出的RetinaNet代码不同点：所有的anchor都换成point。
 首先根据不同level的feature map 生成point
 ```python
@@ -85,11 +87,11 @@ ctrness = F.sqrt(
   * F.maximum(F.min(top_bottom, axis=1) / F.max(top_bottom, axis=1), 0)
 )
 ```
-AP=0.236,AP50=0.394,AP75=0.245
+[测试log](/hw1/fcos_test.txt)AP=0.236,AP50=0.394,AP75=0.245
 
 ATSS:
 
-AP=0.240, AP50=0.390,AP75=0.251	
+[测试log](/hw1/atss_test.txt)AP=0.240, AP50=0.390,AP75=0.251	
 
 
 
