@@ -38,7 +38,7 @@ label assignmetn的策略是只要在bounding box中的点都是正样本的候�
 ```python
 self.anchor_generator = layers.AnchorPointGenerator()  # 位于layers/anchor.py
 ```
-定义point的decode和incode操作
+定义point的decoder和incoder操作，在FCOS中是gt bos的TBLR变换
 ```python
 self.point_coder = layers.PointCoder()  # 在box_utils中定义，定义了encode和decode
 ``` 
