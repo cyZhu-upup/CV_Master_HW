@@ -88,7 +88,7 @@ def worker(args):
         if "bottom_up.layer1" in name and model.cfg.backbone_freeze_at >= 2: # 默认为2
             continue
         if 'pred_delta' in name or 'pred_cls' in name:
-            params_with_grad.append(param) # 冻结ResNet的第一层和第一个block
+            params_with_grad.append(param) # 只更新最后一层
 
     opt = SGD(
         params_with_grad,
@@ -110,7 +110,7 @@ def worker(args):
         # model.backbone.bottom_up.load_state_dict(weights, strict=False)
         logger.info("Loading Base-Pretrain weights...")
         weights = mge.load(args.weight_file)
-        weight_new = {k:v for k, v in weights.items() if 'pred_' not in k} # 不传入rcnn的最后两层参数 
+        weight_new = {k:v for k, v in weights.items() if 'pred_' not in k} # 不传入rcnn的最后两层预训练参数 
         model.load_state_dict(weight_new, strict=False) #  strict为True ，state_dict 的键则必须与 state_dict 返回的键准确匹配
 
     if dist.get_world_size() > 1:
