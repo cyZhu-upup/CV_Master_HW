@@ -12,7 +12,7 @@
 
 # 基础任务1：
 
-刚训练的时候下载了100mb的什么权重，是resnet50的预训练权重
+刚训练的时候下载了100mb的resnet50的预训练权重
 
 训练日志保存在[train.log](/hw2/pic/train_log.txt)中，后面更改了学习率截断的epoch
 
