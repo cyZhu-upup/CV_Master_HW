@@ -28,7 +28,7 @@ Codebase：Retinanet（站在巨人肩膀上，复用去年 cv master repo， �
 
 ## 附加任务
 
-FCOS的架构如下图，代码为models/FCOS.py
+FCOS的架构如下图，代码为code/models/FCOS.py
 ![image](/hw1/pic/fcos_backbone.png)
 
 label assignmetn的策略是只要在bounding box中的点都是正样本的候选，之后通过centerness来进一步确定positive sample
@@ -94,6 +94,8 @@ ctrness = F.sqrt(
 **其中，用GIOU Loss很容易理解，而技巧3的思想和ATSS也比较相似，都是为了获得离gt box中心更近的样本**
 
 ATSS:
+
+**code/models/ATSS.py**
 
 ATSS中提出的策略：对于所有gt box，对于所有的预选框，根据L2距离，选取离中心最近的k个anchor。
 
