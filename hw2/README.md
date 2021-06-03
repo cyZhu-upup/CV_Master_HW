@@ -52,4 +52,4 @@ Batch_size设为1，单卡训练，lr为0.02/16，可能是初始化结果比较
 
 # 提升任务
 architecture更换为RetinaNet,backbone = ResNet50，参数不做更改 [训练日志](/hw2/pic/retina_train.txt)
-[测试结果](/hw2/pic/retina_test.txt)AP50 = 0.105，AP0.5:0.95 = 0.073,AP75 = 0.081，还是要低于Faster RCNN的
+[测试结果](/hw2/pic/retina_test.txt)--这次log还没删tqdm，找结果比较麻烦。AP50 = 0.105，AP0.5:0.95 = 0.073,AP75 = 0.081，还是要低于Faster RCNN的
